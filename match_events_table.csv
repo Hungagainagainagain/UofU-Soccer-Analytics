@@ -1,0 +1,855 @@
+ID,code,start,end,01 - Location third,02 - Location flank,03 - End location third,04 - End location flank,05 - Length,06 - Number of team events,07 - Outcome,09 - xG,11 - Start location X,12 - Start location Y,13 - Duration,14 - Formation,15 - End location X,16 - End location Y,10 - Players,08 - Transition
+1,Ball in play,1.691282,100.52943,Middle third,Center,Final third,Center,Very long,15 or more,Shot on goal,from 0.1 to 0.35,53,34,95,4-2-3-1,2,35,"53. Nwaneri, 22. David Raya, 3. Tierney, 17. Zinchenko, 41. Rice, 5. Partey, 4. White, 11. Gabriel Martinelli, 30. Sterling, 15. Kiwior",
+2,Arsenal - Possessions,1.691282,100.52943,Middle third,Center,Final third,Center,Very long,15 or more,Shot on goal,from 0.1 to 0.35,53,34,95,4-2-3-1,2,35,"53. Nwaneri, 22. David Raya, 3. Tierney, 17. Zinchenko, 41. Rice, 5. Partey, 4. White, 11. Gabriel Martinelli, 30. Sterling, 15. Kiwior",
+3,Arsenal - Highlights,1.691282,100.52943,Middle third,Center,Final third,Center,Very long,15 or more,Shot on goal,from 0.1 to 0.35,53,34,95,4-2-3-1,2,35,"53. Nwaneri, 22. David Raya, 3. Tierney, 17. Zinchenko, 41. Rice, 5. Partey, 4. White, 11. Gabriel Martinelli, 30. Sterling, 15. Kiwior",
+4,Arsenal - Open play attacks,1.691282,100.52943,Middle third,Center,Final third,Center,Very long,15 or more,Shot on goal,from 0.1 to 0.35,53,34,95,4-2-3-1,2,35,"53. Nwaneri, 22. David Raya, 3. Tierney, 17. Zinchenko, 41. Rice, 5. Partey, 4. White, 11. Gabriel Martinelli, 30. Sterling, 15. Kiwior",
+5,Arsenal - Crosses,1.691282,100.52943,Middle third,Center,Final third,Center,Very long,15 or more,Shot on goal,from 0.1 to 0.35,53,34,95,4-2-3-1,2,35,"53. Nwaneri, 22. David Raya, 3. Tierney, 17. Zinchenko, 41. Rice, 5. Partey, 4. White, 11. Gabriel Martinelli, 30. Sterling, 15. Kiwior",
+6,Arsenal - Shots,1.691282,100.52943,Middle third,Center,Final third,Center,Very long,15 or more,Shot on goal,from 0.1 to 0.35,53,34,95,4-2-3-1,2,35,"53. Nwaneri, 22. David Raya, 3. Tierney, 17. Zinchenko, 41. Rice, 5. Partey, 4. White, 11. Gabriel Martinelli, 30. Sterling, 15. Kiwior",
+7,Ball in play,97.52943,123.829686,Own third,Center,Middle third,Right flank,Long,4 or less,,,2,35,26,5-4-1,37,17,"30. Ramsdale, 11. Stewart",
+8,Southampton - Possessions,97.52943,123.829686,Own third,Center,Middle third,Right flank,Long,4 or less,,,2,35,26,5-4-1,37,17,"30. Ramsdale, 11. Stewart",
+9,Southampton - Goalkeeper distributions,97.52943,123.829686,Own third,Center,Middle third,Right flank,Long,4 or less,,,2,35,26,5-4-1,37,17,"30. Ramsdale, 11. Stewart",
+10,Ball in play,123.819686,127.364343,Middle third,Left flank,Middle third,Left flank,Short,4 or less,,,37,17,3,4-2-3-1,55,58,"41. Rice, 11. Gabriel Martinelli",Medium
+11,Arsenal - Possessions,123.819686,127.364343,Middle third,Left flank,Middle third,Left flank,Short,4 or less,,,37,17,3,4-2-3-1,55,58,"41. Rice, 11. Gabriel Martinelli",Medium
+12,Ball in play,127.354343,131.003416,Middle third,Right flank,Final third,Right flank,Short,4 or less,,,55,58,2,5-4-1,28,16,"16. Sugawara, 46. Robinson",Medium
+13,Southampton - Possessions,127.354343,131.003416,Middle third,Right flank,Final third,Right flank,Short,4 or less,,,55,58,2,5-4-1,28,16,"16. Sugawara, 46. Robinson",Medium
+14,Ball in play,130.993416,217.179117,Own third,Left flank,Final third,Center,Very long,15 or more,Shot,from 0.1 to 0.35,28,16,82,4-2-3-1,0,44,"3. Tierney, 22. David Raya, 5. Partey, 4. White, 15. Kiwior, 41. Rice, 17. Zinchenko, 11. Gabriel Martinelli, 23. Mikel Merino",
+15,Arsenal - Possessions,130.993416,217.179117,Own third,Left flank,Final third,Center,Very long,15 or more,Shot,from 0.1 to 0.35,28,16,82,4-2-3-1,0,44,"3. Tierney, 22. David Raya, 5. Partey, 4. White, 15. Kiwior, 41. Rice, 17. Zinchenko, 11. Gabriel Martinelli, 23. Mikel Merino",
+16,Arsenal - Highlights,130.993416,217.179117,Own third,Left flank,Final third,Center,Very long,15 or more,Shot,from 0.1 to 0.35,28,16,82,4-2-3-1,0,44,"3. Tierney, 22. David Raya, 5. Partey, 4. White, 15. Kiwior, 41. Rice, 17. Zinchenko, 11. Gabriel Martinelli, 23. Mikel Merino",
+17,Arsenal - Open play attacks,130.993416,217.179117,Own third,Left flank,Final third,Center,Very long,15 or more,Shot,from 0.1 to 0.35,28,16,82,4-2-3-1,0,44,"3. Tierney, 22. David Raya, 5. Partey, 4. White, 15. Kiwior, 41. Rice, 17. Zinchenko, 11. Gabriel Martinelli, 23. Mikel Merino",
+18,Arsenal - Crosses,130.993416,217.179117,Own third,Left flank,Final third,Center,Very long,15 or more,Shot,from 0.1 to 0.35,28,16,82,4-2-3-1,0,44,"3. Tierney, 22. David Raya, 5. Partey, 4. White, 15. Kiwior, 41. Rice, 17. Zinchenko, 11. Gabriel Martinelli, 23. Mikel Merino",
+19,Arsenal - Shots,130.993416,217.179117,Own third,Left flank,Final third,Center,Very long,15 or more,Shot,from 0.1 to 0.35,28,16,82,4-2-3-1,0,44,"3. Tierney, 22. David Raya, 5. Partey, 4. White, 15. Kiwior, 41. Rice, 17. Zinchenko, 11. Gabriel Martinelli, 23. Mikel Merino",
+20,Ball in play,244.276823,249.050859,Own third,Center,Middle third,Right flank,Short,4 or less,,,0,37,4,5-4-1,38,14,"30. Ramsdale, 11. Stewart",
+21,Southampton - Possessions,244.276823,249.050859,Own third,Center,Middle third,Right flank,Short,4 or less,,,0,37,4,5-4-1,38,14,"30. Ramsdale, 11. Stewart",
+22,Southampton - Goalkeeper distributions,244.276823,249.050859,Own third,Center,Middle third,Right flank,Short,4 or less,,,0,37,4,5-4-1,38,14,"30. Ramsdale, 11. Stewart",
+23,Ball in play,249.040859,251.824339,Middle third,Left flank,Own third,Left flank,Short,4 or less,,,38,14,1,4-2-3-1,81,68,,
+24,Arsenal - Possessions,249.040859,251.824339,Middle third,Left flank,Own third,Left flank,Short,4 or less,,,38,14,1,4-2-3-1,81,68,,
+25,Ball in play,258.663032,290.63301,Final third,Right flank,Final third,Right flank,Long,10-14,,,75,68,30,5-4-1,11,21,"16. Sugawara, 15. Wood, 21. Taylor, 20. Sulemana, 11. Stewart, 34. Welington, 18. Mateus Fernandes, 46. Robinson",
+26,Southampton - Possessions,258.663032,290.63301,Final third,Right flank,Final third,Right flank,Long,10-14,,,75,68,30,5-4-1,11,21,"16. Sugawara, 15. Wood, 21. Taylor, 20. Sulemana, 11. Stewart, 34. Welington, 18. Mateus Fernandes, 46. Robinson",
+27,Southampton - Set Pieces,258.663032,290.63301,Final third,Right flank,Final third,Right flank,Long,10-14,,,75,68,30,5-4-1,11,21,"16. Sugawara, 15. Wood, 21. Taylor, 20. Sulemana, 11. Stewart, 34. Welington, 18. Mateus Fernandes, 46. Robinson",
+28,Southampton - Crosses,258.663032,290.63301,Final third,Right flank,Final third,Right flank,Long,10-14,,,75,68,30,5-4-1,11,21,"16. Sugawara, 15. Wood, 21. Taylor, 20. Sulemana, 11. Stewart, 34. Welington, 18. Mateus Fernandes, 46. Robinson",
+29,Southampton - Throw ins,258.663032,290.63301,Final third,Right flank,Final third,Right flank,Long,10-14,,,75,68,30,5-4-1,11,21,"16. Sugawara, 15. Wood, 21. Taylor, 20. Sulemana, 11. Stewart, 34. Welington, 18. Mateus Fernandes, 46. Robinson",
+30,Ball in play,290.62301,298.272995,Own third,Left flank,Own third,Left flank,Short,5-9,,,11,21,8,4-2-3-1,72,59,"3. Tierney, 41. Rice, 11. Gabriel Martinelli",Low
+31,Arsenal - Possessions,290.62301,298.272995,Own third,Left flank,Own third,Left flank,Short,5-9,,,11,21,8,4-2-3-1,72,59,"3. Tierney, 41. Rice, 11. Gabriel Martinelli",Low
+32,Ball in play,298.262995,303.577866,Final third,Right flank,Final third,Center,Short,4 or less,,,72,59,5,5-4-1,7,39,4. Downes,High
+33,Southampton - Possessions,298.262995,303.577866,Final third,Right flank,Final third,Center,Short,4 or less,,,72,59,5,5-4-1,7,39,4. Downes,High
+34,Southampton - Open play attacks,298.262995,303.577866,Final third,Right flank,Final third,Center,Short,4 or less,,,72,59,5,5-4-1,7,39,4. Downes,High
+35,Ball in play,303.567866,304.573615,Own third,Center,Own third,Center,Short,4 or less,,,7,39,0,4-2-3-1,93,37,15. Kiwior,Low
+36,Arsenal - Possessions,303.567866,304.573615,Own third,Center,Own third,Center,Short,4 or less,,,7,39,0,4-2-3-1,93,37,15. Kiwior,Low
+37,Ball in play,304.563615,305.600749,Final third,Center,Final third,Center,Short,4 or less,,,93,37,1,5-4-1,9,24,20. Sulemana,
+38,Southampton - Possessions,304.563615,305.600749,Final third,Center,Final third,Center,Short,4 or less,,,93,37,1,5-4-1,9,24,20. Sulemana,
+39,Ball in play,305.590749,313.545232,Own third,Center,Middle third,Center,Short,4 or less,,,9,24,7,4-2-3-1,49,25,"17. Zinchenko, 23. Mikel Merino, 30. Sterling",
+40,Arsenal - Possessions,305.590749,313.545232,Own third,Center,Middle third,Center,Short,4 or less,,,9,24,7,4-2-3-1,49,25,"17. Zinchenko, 23. Mikel Merino, 30. Sterling",
+41,Ball in play,335.907931,362.766558,Middle third,Center,Final third,Left flank,Long,5-9,,,51,40,26,4-2-3-1,26,61,"3. Tierney, 15. Kiwior, 17. Zinchenko, 23. Mikel Merino",
+42,Arsenal - Possessions,335.907931,362.766558,Middle third,Center,Final third,Left flank,Long,5-9,,,51,40,26,4-2-3-1,26,61,"3. Tierney, 15. Kiwior, 17. Zinchenko, 23. Mikel Merino",
+43,Arsenal - Open play attacks,335.907931,362.766558,Middle third,Center,Final third,Left flank,Long,5-9,,,51,40,26,4-2-3-1,26,61,"3. Tierney, 15. Kiwior, 17. Zinchenko, 23. Mikel Merino",
+44,Ball in play,362.756558,368.671284,Own third,Right flank,Own third,Right flank,Short,5-9,,,26,61,5,5-4-1,74,0,"16. Sugawara, 46. Robinson",
+45,Southampton - Possessions,362.756558,368.671284,Own third,Right flank,Own third,Right flank,Short,5-9,,,26,61,5,5-4-1,74,0,"16. Sugawara, 46. Robinson",
+46,Ball in play,378.092803,404.494852,Final third,Left flank,Final third,Center,Long,10-14,Shot,less than 0.1,72,0,22,4-2-3-1,0,44,"17. Zinchenko, 3. Tierney, 5. Partey, 4. White, 53. Nwaneri, 30. Sterling",
+47,Arsenal - Possessions,378.092803,404.494852,Final third,Left flank,Final third,Center,Long,10-14,Shot,less than 0.1,72,0,22,4-2-3-1,0,44,"17. Zinchenko, 3. Tierney, 5. Partey, 4. White, 53. Nwaneri, 30. Sterling",
+48,Arsenal - Highlights,378.092803,404.494852,Final third,Left flank,Final third,Center,Long,10-14,Shot,less than 0.1,72,0,22,4-2-3-1,0,44,"17. Zinchenko, 3. Tierney, 5. Partey, 4. White, 53. Nwaneri, 30. Sterling",
+49,Arsenal - Set Pieces,378.092803,404.494852,Final third,Left flank,Final third,Center,Long,10-14,Shot,less than 0.1,72,0,22,4-2-3-1,0,44,"17. Zinchenko, 3. Tierney, 5. Partey, 4. White, 53. Nwaneri, 30. Sterling",
+50,Arsenal - Shots,378.092803,404.494852,Final third,Left flank,Final third,Center,Long,10-14,Shot,less than 0.1,72,0,22,4-2-3-1,0,44,"17. Zinchenko, 3. Tierney, 5. Partey, 4. White, 53. Nwaneri, 30. Sterling",
+51,Arsenal - Throw ins,378.092803,404.494852,Final third,Left flank,Final third,Center,Long,10-14,Shot,less than 0.1,72,0,22,4-2-3-1,0,44,"17. Zinchenko, 3. Tierney, 5. Partey, 4. White, 53. Nwaneri, 30. Sterling",
+52,Ball in play,433.310929,435.860833,Own third,Center,Final third,Center,Short,4 or less,,,0,39,1,5-4-1,33,25,30. Ramsdale,
+53,Southampton - Possessions,433.310929,435.860833,Own third,Center,Final third,Center,Short,4 or less,,,0,39,1,5-4-1,33,25,30. Ramsdale,
+54,Southampton - Goalkeeper distributions,433.310929,435.860833,Own third,Center,Final third,Center,Short,4 or less,,,0,39,1,5-4-1,33,25,30. Ramsdale,
+55,Ball in play,435.850833,435.922179,Own third,Center,Middle third,Center,Short,4 or less,,,33,25,0,4-2-3-1,64,29,3. Tierney,
+56,Arsenal - Possessions,435.850833,435.922179,Own third,Center,Middle third,Center,Short,4 or less,,,33,25,0,4-2-3-1,64,29,3. Tierney,
+57,Ball in play,435.912179,460.353032,Middle third,Center,Middle third,Center,Long,10-14,,,64,29,23,5-4-1,49,36,"11. Stewart, 46. Robinson, 26. Ugochukwu, 18. Mateus Fernandes, 15. Wood, 21. Taylor, 30. Ramsdale",Medium
+58,Southampton - Possessions,435.912179,460.353032,Middle third,Center,Middle third,Center,Long,10-14,,,64,29,23,5-4-1,49,36,"11. Stewart, 46. Robinson, 26. Ugochukwu, 18. Mateus Fernandes, 15. Wood, 21. Taylor, 30. Ramsdale",Medium
+59,Southampton - Open play attacks,435.912179,460.353032,Middle third,Center,Middle third,Center,Long,10-14,,,64,29,23,5-4-1,49,36,"11. Stewart, 46. Robinson, 26. Ugochukwu, 18. Mateus Fernandes, 15. Wood, 21. Taylor, 30. Ramsdale",Medium
+60,Ball in play,460.343032,462.243191,Middle third,Center,Middle third,Left flank,Short,4 or less,,,49,36,1,4-2-3-1,48,49,15. Kiwior,Medium
+61,Arsenal - Possessions,460.343032,462.243191,Middle third,Center,Middle third,Left flank,Short,4 or less,,,49,36,1,4-2-3-1,48,49,15. Kiwior,Medium
+62,Ball in play,462.233191,463.373344,Middle third,Right flank,Middle third,Center,Short,4 or less,,,48,49,1,5-4-1,58,23,46. Robinson,
+63,Southampton - Possessions,462.233191,463.373344,Middle third,Right flank,Middle third,Center,Short,4 or less,,,48,49,1,5-4-1,58,23,46. Robinson,
+64,Ball in play,463.363344,505.214874,Middle third,Center,Final third,Right flank,Long,15 or more,,,58,23,41,4-2-3-1,24,22,"41. Rice, 17. Zinchenko, 5. Partey, 30. Sterling, 4. White, 15. Kiwior, 53. Nwaneri",Medium
+65,Arsenal - Possessions,463.363344,505.214874,Middle third,Center,Final third,Right flank,Long,15 or more,,,58,23,41,4-2-3-1,24,22,"41. Rice, 17. Zinchenko, 5. Partey, 30. Sterling, 4. White, 15. Kiwior, 53. Nwaneri",Medium
+66,Arsenal - Open play attacks,463.363344,505.214874,Middle third,Center,Final third,Right flank,Long,15 or more,,,58,23,41,4-2-3-1,24,22,"41. Rice, 17. Zinchenko, 5. Partey, 30. Sterling, 4. White, 15. Kiwior, 53. Nwaneri",Medium
+67,Ball in play,505.204874,510.081782,Own third,Left flank,Own third,Left flank,Short,4 or less,,,24,22,3,5-4-1,28,0,"21. Taylor, 34. Welington",
+68,Southampton - Possessions,505.204874,510.081782,Own third,Left flank,Own third,Left flank,Short,4 or less,,,24,22,3,5-4-1,28,0,"21. Taylor, 34. Welington",
+69,Ball in play,511.236298,523.033021,Final third,Right flank,Final third,Right flank,Medium,5-9,,,82,68,11,4-2-3-1,20,17,"30. Sterling, 4. White, 53. Nwaneri, 5. Partey",
+70,Arsenal - Possessions,511.236298,523.033021,Final third,Right flank,Final third,Right flank,Medium,5-9,,,82,68,11,4-2-3-1,20,17,"30. Sterling, 4. White, 53. Nwaneri, 5. Partey",
+71,Arsenal - Set Pieces,511.236298,523.033021,Final third,Right flank,Final third,Right flank,Medium,5-9,,,82,68,11,4-2-3-1,20,17,"30. Sterling, 4. White, 53. Nwaneri, 5. Partey",
+72,Arsenal - Throw ins,511.236298,523.033021,Final third,Right flank,Final third,Right flank,Medium,5-9,,,82,68,11,4-2-3-1,20,17,"30. Sterling, 4. White, 53. Nwaneri, 5. Partey",
+73,Ball in play,523.023021,524.992528,Own third,Left flank,Own third,Center,Short,4 or less,,,20,17,1,5-4-1,76,27,20. Sulemana,
+74,Southampton - Possessions,523.023021,524.992528,Own third,Left flank,Own third,Center,Short,4 or less,,,20,17,1,5-4-1,76,27,20. Sulemana,
+75,Ball in play,524.982528,535.066207,Final third,Center,Final third,Left flank,Medium,5-9,,,76,27,10,4-2-3-1,5,56,"41. Rice, 17. Zinchenko, 53. Nwaneri",High
+76,Arsenal - Possessions,524.982528,535.066207,Final third,Center,Final third,Left flank,Medium,5-9,,,76,27,10,4-2-3-1,5,56,"41. Rice, 17. Zinchenko, 53. Nwaneri",High
+77,Arsenal - Open play attacks,524.982528,535.066207,Final third,Center,Final third,Left flank,Medium,5-9,,,76,27,10,4-2-3-1,5,56,"41. Rice, 17. Zinchenko, 53. Nwaneri",High
+78,Ball in play,535.056207,538.340212,Own third,Right flank,Own third,Right flank,Short,4 or less,,,5,56,3,5-4-1,87,10,16. Sugawara,Low
+79,Southampton - Possessions,535.056207,538.340212,Own third,Right flank,Own third,Right flank,Short,4 or less,,,5,56,3,5-4-1,87,10,16. Sugawara,Low
+80,Ball in play,538.330212,547.042344,Final third,Left flank,Final third,Left flank,Short,4 or less,Shot,less than 0.1,87,10,5,4-2-3-1,7,38,"17. Zinchenko, 5. Partey, 41. Rice",High
+81,Arsenal - Possessions,538.330212,547.042344,Final third,Left flank,Final third,Left flank,Short,4 or less,Shot,less than 0.1,87,10,5,4-2-3-1,7,38,"17. Zinchenko, 5. Partey, 41. Rice",High
+82,Arsenal - Open play attacks,538.330212,547.042344,Final third,Left flank,Final third,Left flank,Short,4 or less,Shot,less than 0.1,87,10,5,4-2-3-1,7,38,"17. Zinchenko, 5. Partey, 41. Rice",High
+83,Arsenal - Shots,538.330212,547.042344,Final third,Left flank,Final third,Left flank,Short,4 or less,Shot,less than 0.1,87,10,5,4-2-3-1,7,38,"17. Zinchenko, 5. Partey, 41. Rice",High
+84,Ball in play,544.042344,546.228675,Own third,Center,Own third,Center,Short,4 or less,,,7,38,2,5-4-1,82,40,"4. Downes, 20. Sulemana",
+85,Southampton - Possessions,544.042344,546.228675,Own third,Center,Own third,Center,Short,4 or less,,,7,38,2,5-4-1,82,40,"4. Downes, 20. Sulemana",
+86,Ball in play,546.218675,547.745076,Final third,Center,Final third,Center,Short,4 or less,,,82,40,1,4-2-3-1,26,38,4. White,
+87,Arsenal - Possessions,546.218675,547.745076,Final third,Center,Final third,Center,Short,4 or less,,,82,40,1,4-2-3-1,26,38,4. White,
+88,Arsenal - Open play attacks,546.218675,547.745076,Final third,Center,Final third,Center,Short,4 or less,,,82,40,1,4-2-3-1,26,38,4. White,
+89,Ball in play,547.735076,622.101274,Own third,Center,Middle third,Right flank,Very long,15 or more,,,26,38,74,5-4-1,58,12,"18. Mateus Fernandes, 11. Stewart, 26. Ugochukwu, 16. Sugawara, 4. Downes, 21. Taylor, 34. Welington, 15. Wood, 30. Ramsdale",Low
+90,Southampton - Possessions,547.735076,622.101274,Own third,Center,Middle third,Right flank,Very long,15 or more,,,26,38,74,5-4-1,58,12,"18. Mateus Fernandes, 11. Stewart, 26. Ugochukwu, 16. Sugawara, 4. Downes, 21. Taylor, 34. Welington, 15. Wood, 30. Ramsdale",Low
+91,Ball in play,622.091274,624.851322,Middle third,Left flank,Middle third,Left flank,Short,4 or less,,,58,12,1,4-2-3-1,46,68,17. Zinchenko,
+92,Arsenal - Possessions,622.091274,624.851322,Middle third,Left flank,Middle third,Left flank,Short,4 or less,,,58,12,1,4-2-3-1,46,68,17. Zinchenko,
+93,Ball in play,638.167812,706.46321,Middle third,Right flank,Final third,Right flank,Very long,15 or more,,,39,68,65,5-4-1,89,68,"16. Sugawara, 18. Mateus Fernandes, 11. Stewart, 4. Downes, 15. Wood, 26. Ugochukwu, 20. Sulemana, 34. Welington, 21. Taylor",
+94,Southampton - Possessions,638.167812,706.46321,Middle third,Right flank,Final third,Right flank,Very long,15 or more,,,39,68,65,5-4-1,89,68,"16. Sugawara, 18. Mateus Fernandes, 11. Stewart, 4. Downes, 15. Wood, 26. Ugochukwu, 20. Sulemana, 34. Welington, 21. Taylor",
+95,Southampton - Set Pieces,638.167812,706.46321,Middle third,Right flank,Final third,Right flank,Very long,15 or more,,,39,68,65,5-4-1,89,68,"16. Sugawara, 18. Mateus Fernandes, 11. Stewart, 4. Downes, 15. Wood, 26. Ugochukwu, 20. Sulemana, 34. Welington, 21. Taylor",
+96,Southampton - Throw ins,638.167812,706.46321,Middle third,Right flank,Final third,Right flank,Very long,15 or more,,,39,68,65,5-4-1,89,68,"16. Sugawara, 18. Mateus Fernandes, 11. Stewart, 4. Downes, 15. Wood, 26. Ugochukwu, 20. Sulemana, 34. Welington, 21. Taylor",
+97,Ball in play,723.917513,749.39254,Own third,Left flank,Final third,Right flank,Long,5-9,,,26,0,23,4-2-3-1,24,0,"17. Zinchenko, 3. Tierney, 15. Kiwior, 4. White",
+98,Arsenal - Possessions,723.917513,749.39254,Own third,Left flank,Final third,Right flank,Long,5-9,,,26,0,23,4-2-3-1,24,0,"17. Zinchenko, 3. Tierney, 15. Kiwior, 4. White",
+99,Arsenal - Set Pieces,723.917513,749.39254,Own third,Left flank,Final third,Right flank,Long,5-9,,,26,0,23,4-2-3-1,24,0,"17. Zinchenko, 3. Tierney, 15. Kiwior, 4. White",
+100,Arsenal - Throw ins,723.917513,749.39254,Own third,Left flank,Final third,Right flank,Long,5-9,,,26,0,23,4-2-3-1,24,0,"17. Zinchenko, 3. Tierney, 15. Kiwior, 4. White",
+101,Ball in play,769.425238,771.573863,Own third,Left flank,Middle third,Left flank,Short,4 or less,,,24,0,1,5-4-1,63,62,"34. Welington, 11. Stewart",
+102,Southampton - Possessions,769.425238,771.573863,Own third,Left flank,Middle third,Left flank,Short,4 or less,,,24,0,1,5-4-1,63,62,"34. Welington, 11. Stewart",
+103,Southampton - Set Pieces,769.425238,771.573863,Own third,Left flank,Middle third,Left flank,Short,4 or less,,,24,0,1,5-4-1,63,62,"34. Welington, 11. Stewart",
+104,Southampton - Throw ins,769.425238,771.573863,Own third,Left flank,Middle third,Left flank,Short,4 or less,,,24,0,1,5-4-1,63,62,"34. Welington, 11. Stewart",
+105,Ball in play,771.563863,773.696148,Middle third,Right flank,Middle third,Right flank,Short,4 or less,,,63,62,2,4-2-3-1,41,18,"4. White, 41. Rice",Medium
+106,Arsenal - Possessions,771.563863,773.696148,Middle third,Right flank,Middle third,Right flank,Short,4 or less,,,63,62,2,4-2-3-1,41,18,"4. White, 41. Rice",Medium
+107,Ball in play,773.686148,774.241844,Middle third,Left flank,Middle third,Left flank,Short,4 or less,,,41,18,0,5-4-1,60,62,18. Mateus Fernandes,Medium
+108,Southampton - Possessions,773.686148,774.241844,Middle third,Left flank,Middle third,Left flank,Short,4 or less,,,41,18,0,5-4-1,60,62,18. Mateus Fernandes,Medium
+109,Ball in play,774.231844,791.938375,Middle third,Right flank,Final third,Center,Medium,5-9,,,60,62,17,4-2-3-1,16,36,"4. White, 5. Partey, 3. Tierney, 17. Zinchenko, 53. Nwaneri",Medium
+110,Arsenal - Possessions,774.231844,791.938375,Middle third,Right flank,Final third,Center,Medium,5-9,,,60,62,17,4-2-3-1,16,36,"4. White, 5. Partey, 3. Tierney, 17. Zinchenko, 53. Nwaneri",Medium
+111,Arsenal - Open play attacks,774.231844,791.938375,Middle third,Right flank,Final third,Center,Medium,5-9,,,60,62,17,4-2-3-1,16,36,"4. White, 5. Partey, 3. Tierney, 17. Zinchenko, 53. Nwaneri",Medium
+112,Arsenal - Crosses,774.231844,791.938375,Middle third,Right flank,Final third,Center,Medium,5-9,,,60,62,17,4-2-3-1,16,36,"4. White, 5. Partey, 3. Tierney, 17. Zinchenko, 53. Nwaneri",Medium
+113,Ball in play,791.928375,796.299777,Own third,Center,Own third,Left flank,Short,4 or less,,,16,36,2,5-4-1,0,19,18. Mateus Fernandes,
+114,Southampton - Possessions,791.928375,796.299777,Own third,Center,Own third,Left flank,Short,4 or less,,,16,36,2,5-4-1,0,19,18. Mateus Fernandes,
+115,Ball in play,837.244431,864.253733,Final third,Right flank,Final third,Left flank,Long,5-9,,,105,68,21,4-2-3-1,23,68,"53. Nwaneri, 11. Gabriel Martinelli, 17. Zinchenko, 22. David Raya",
+116,Arsenal - Possessions,837.244431,864.253733,Final third,Right flank,Final third,Left flank,Long,5-9,,,105,68,21,4-2-3-1,23,68,"53. Nwaneri, 11. Gabriel Martinelli, 17. Zinchenko, 22. David Raya",
+117,Arsenal - Set Pieces,837.244431,864.253733,Final third,Right flank,Final third,Left flank,Long,5-9,,,105,68,21,4-2-3-1,23,68,"53. Nwaneri, 11. Gabriel Martinelli, 17. Zinchenko, 22. David Raya",
+118,Arsenal - Corners,837.244431,864.253733,Final third,Right flank,Final third,Left flank,Long,5-9,,,105,68,21,4-2-3-1,23,68,"53. Nwaneri, 11. Gabriel Martinelli, 17. Zinchenko, 22. David Raya",
+119,Ball in play,869.049706,888.181724,Own third,Right flank,Middle third,Left flank,Medium,5-9,,,24,68,18,5-4-1,58,57,"16. Sugawara, 15. Wood, 30. Ramsdale, 21. Taylor, 11. Stewart, 18. Mateus Fernandes, 26. Ugochukwu",
+120,Southampton - Possessions,869.049706,888.181724,Own third,Right flank,Middle third,Left flank,Medium,5-9,,,24,68,18,5-4-1,58,57,"16. Sugawara, 15. Wood, 30. Ramsdale, 21. Taylor, 11. Stewart, 18. Mateus Fernandes, 26. Ugochukwu",
+121,Southampton - Set Pieces,869.049706,888.181724,Own third,Right flank,Middle third,Left flank,Medium,5-9,,,24,68,18,5-4-1,58,57,"16. Sugawara, 15. Wood, 30. Ramsdale, 21. Taylor, 11. Stewart, 18. Mateus Fernandes, 26. Ugochukwu",
+122,Southampton - Throw ins,869.049706,888.181724,Own third,Right flank,Middle third,Left flank,Medium,5-9,,,24,68,18,5-4-1,58,57,"16. Sugawara, 15. Wood, 30. Ramsdale, 21. Taylor, 11. Stewart, 18. Mateus Fernandes, 26. Ugochukwu",
+123,Ball in play,888.171724,923.274713,Middle third,Right flank,Final third,Right flank,Long,10-14,,,58,57,33,4-2-3-1,18,10,"23. Mikel Merino, 41. Rice, 3. Tierney, 22. David Raya, 5. Partey, 53. Nwaneri, 30. Sterling, 4. White",
+124,Arsenal - Possessions,888.171724,923.274713,Middle third,Right flank,Final third,Right flank,Long,10-14,,,58,57,33,4-2-3-1,18,10,"23. Mikel Merino, 41. Rice, 3. Tierney, 22. David Raya, 5. Partey, 53. Nwaneri, 30. Sterling, 4. White",
+125,Arsenal - Open play attacks,888.171724,923.274713,Middle third,Right flank,Final third,Right flank,Long,10-14,,,58,57,33,4-2-3-1,18,10,"23. Mikel Merino, 41. Rice, 3. Tierney, 22. David Raya, 5. Partey, 53. Nwaneri, 30. Sterling, 4. White",
+126,Ball in play,975.441625,977.221531,Final third,Right flank,Final third,Center,Short,4 or less,,,88,63,1,4-2-3-1,7,25,"53. Nwaneri, 11. Gabriel Martinelli",
+127,Arsenal - Possessions,975.441625,977.221531,Final third,Right flank,Final third,Center,Short,4 or less,,,88,63,1,4-2-3-1,7,25,"53. Nwaneri, 11. Gabriel Martinelli",
+128,Arsenal - Set Pieces,975.441625,977.221531,Final third,Right flank,Final third,Center,Short,4 or less,,,88,63,1,4-2-3-1,7,25,"53. Nwaneri, 11. Gabriel Martinelli",
+129,Arsenal - Free kicks,975.441625,977.221531,Final third,Right flank,Final third,Center,Short,4 or less,,,88,63,1,4-2-3-1,7,25,"53. Nwaneri, 11. Gabriel Martinelli",
+130,Ball in play,977.211531,991.380138,Own third,Center,Final third,Right flank,Medium,4 or less,,,7,25,14,5-4-1,34,17,"34. Welington, 26. Ugochukwu, 30. Ramsdale, 11. Stewart",Low
+131,Southampton - Possessions,977.211531,991.380138,Own third,Center,Final third,Right flank,Medium,4 or less,,,7,25,14,5-4-1,34,17,"34. Welington, 26. Ugochukwu, 30. Ramsdale, 11. Stewart",Low
+132,Southampton - Counterattacks,977.211531,991.380138,Own third,Center,Final third,Right flank,Medium,4 or less,,,7,25,14,5-4-1,34,17,"34. Welington, 26. Ugochukwu, 30. Ramsdale, 11. Stewart",Low
+133,Ball in play,991.370138,1041.184825,Own third,Left flank,Final third,Left flank,Very long,15 or more,,,34,17,49,4-2-3-1,4,56,"17. Zinchenko, 15. Kiwior, 4. White, 5. Partey, 3. Tierney, 11. Gabriel Martinelli, 41. Rice",Low
+134,Arsenal - Possessions,991.370138,1041.184825,Own third,Left flank,Final third,Left flank,Very long,15 or more,,,34,17,49,4-2-3-1,4,56,"17. Zinchenko, 15. Kiwior, 4. White, 5. Partey, 3. Tierney, 11. Gabriel Martinelli, 41. Rice",Low
+135,Arsenal - Open play attacks,991.370138,1041.184825,Own third,Left flank,Final third,Left flank,Very long,15 or more,,,34,17,49,4-2-3-1,4,56,"17. Zinchenko, 15. Kiwior, 4. White, 5. Partey, 3. Tierney, 11. Gabriel Martinelli, 41. Rice",Low
+136,Arsenal - Crosses,991.370138,1041.184825,Own third,Left flank,Final third,Left flank,Very long,15 or more,,,34,17,49,4-2-3-1,4,56,"17. Zinchenko, 15. Kiwior, 4. White, 5. Partey, 3. Tierney, 11. Gabriel Martinelli, 41. Rice",Low
+137,Ball in play,1041.174825,1049.503514,Own third,Right flank,Own third,Center,Short,4 or less,,,4,56,4,5-4-1,0,43,16. Sugawara,
+138,Southampton - Possessions,1041.174825,1049.503514,Own third,Right flank,Own third,Center,Short,4 or less,,,4,56,4,5-4-1,0,43,16. Sugawara,
+139,Ball in play,1080.821998,1083.230494,Final third,Left flank,Final third,Center,Short,4 or less,,,105,0,1,4-2-3-1,7,37,41. Rice,
+140,Arsenal - Possessions,1080.821998,1083.230494,Final third,Left flank,Final third,Center,Short,4 or less,,,105,0,1,4-2-3-1,7,37,41. Rice,
+141,Arsenal - Set Pieces,1080.821998,1083.230494,Final third,Left flank,Final third,Center,Short,4 or less,,,105,0,1,4-2-3-1,7,37,41. Rice,
+142,Arsenal - Corners,1080.821998,1083.230494,Final third,Left flank,Final third,Center,Short,4 or less,,,105,0,1,4-2-3-1,7,37,41. Rice,
+143,Ball in play,1083.220494,1084.682351,Own third,Center,Own third,Left flank,Short,4 or less,,,7,37,1,5-4-1,90,47,15. Wood,Low
+144,Southampton - Possessions,1083.220494,1084.682351,Own third,Center,Own third,Left flank,Short,4 or less,,,7,37,1,5-4-1,90,47,15. Wood,Low
+145,Ball in play,1084.672351,1091.385581,Final third,Right flank,Final third,Center,Short,4 or less,,,90,47,6,4-2-3-1,14,33,"53. Nwaneri, 3. Tierney, 30. Sterling",High
+146,Arsenal - Possessions,1084.672351,1091.385581,Final third,Right flank,Final third,Center,Short,4 or less,,,90,47,6,4-2-3-1,14,33,"53. Nwaneri, 3. Tierney, 30. Sterling",High
+147,Arsenal - Open play attacks,1084.672351,1091.385581,Final third,Right flank,Final third,Center,Short,4 or less,,,90,47,6,4-2-3-1,14,33,"53. Nwaneri, 3. Tierney, 30. Sterling",High
+148,Ball in play,1091.375581,1103.383693,Own third,Center,Final third,Center,Medium,5-9,,,14,33,12,5-4-1,9,36,"18. Mateus Fernandes, 26. Ugochukwu, 20. Sulemana",Low
+149,Southampton - Possessions,1091.375581,1103.383693,Own third,Center,Final third,Center,Medium,5-9,,,14,33,12,5-4-1,9,36,"18. Mateus Fernandes, 26. Ugochukwu, 20. Sulemana",Low
+150,Southampton - Crosses,1091.375581,1103.383693,Own third,Center,Final third,Center,Medium,5-9,,,14,33,12,5-4-1,9,36,"18. Mateus Fernandes, 26. Ugochukwu, 20. Sulemana",Low
+151,Southampton - Counterattacks,1091.375581,1103.383693,Own third,Center,Final third,Center,Medium,5-9,,,14,33,12,5-4-1,9,36,"18. Mateus Fernandes, 26. Ugochukwu, 20. Sulemana",Low
+152,Ball in play,1103.373693,1110.304661,Own third,Center,Own third,Right flank,Short,4 or less,,,9,36,3,4-2-3-1,105,10,17. Zinchenko,
+153,Arsenal - Possessions,1103.373693,1110.304661,Own third,Center,Own third,Right flank,Short,4 or less,,,9,36,3,4-2-3-1,105,10,17. Zinchenko,
+154,Ball in play,1140.000737,1142.192029,Final third,Left flank,Final third,Center,Short,4 or less,,,105,0,1,5-4-1,5,42,"18. Mateus Fernandes, 26. Ugochukwu",
+155,Southampton - Possessions,1140.000737,1142.192029,Final third,Left flank,Final third,Center,Short,4 or less,,,105,0,1,5-4-1,5,42,"18. Mateus Fernandes, 26. Ugochukwu",
+156,Southampton - Set Pieces,1140.000737,1142.192029,Final third,Left flank,Final third,Center,Short,4 or less,,,105,0,1,5-4-1,5,42,"18. Mateus Fernandes, 26. Ugochukwu",
+157,Southampton - Corners,1140.000737,1142.192029,Final third,Left flank,Final third,Center,Short,4 or less,,,105,0,1,5-4-1,5,42,"18. Mateus Fernandes, 26. Ugochukwu",
+158,Ball in play,1142.182029,1145.81154,Own third,Center,Own third,Right flank,Short,4 or less,,,5,42,2,4-2-3-1,105,14,41. Rice,
+159,Arsenal - Possessions,1142.182029,1145.81154,Own third,Center,Own third,Right flank,Short,4 or less,,,5,42,2,4-2-3-1,105,14,41. Rice,
+160,Ball in play,1168.269687,1171.368826,Final third,Left flank,Final third,Center,Short,4 or less,,,105,0,1,5-4-1,7,33,18. Mateus Fernandes,
+161,Southampton - Possessions,1168.269687,1171.368826,Final third,Left flank,Final third,Center,Short,4 or less,,,105,0,1,5-4-1,7,33,18. Mateus Fernandes,
+162,Southampton - Set Pieces,1168.269687,1171.368826,Final third,Left flank,Final third,Center,Short,4 or less,,,105,0,1,5-4-1,7,33,18. Mateus Fernandes,
+163,Southampton - Corners,1168.269687,1171.368826,Final third,Left flank,Final third,Center,Short,4 or less,,,105,0,1,5-4-1,7,33,18. Mateus Fernandes,
+164,Ball in play,1171.358826,1173.500343,Own third,Center,Own third,Center,Short,4 or less,,,7,33,1,4-2-3-1,77,30,15. Kiwior,
+165,Arsenal - Possessions,1171.358826,1173.500343,Own third,Center,Own third,Center,Short,4 or less,,,7,33,1,4-2-3-1,77,30,15. Kiwior,
+166,Ball in play,1173.490343,1177.30192,Final third,Center,Final third,Center,Short,4 or less,Shot,less than 0.1,77,30,0,5-4-1,16,36,16. Sugawara,
+167,Southampton - Possessions,1173.490343,1177.30192,Final third,Center,Final third,Center,Short,4 or less,Shot,less than 0.1,77,30,0,5-4-1,16,36,16. Sugawara,
+168,Southampton - Highlights,1173.490343,1177.30192,Final third,Center,Final third,Center,Short,4 or less,Shot,less than 0.1,77,30,0,5-4-1,16,36,16. Sugawara,
+169,Southampton - Open play attacks,1173.490343,1177.30192,Final third,Center,Final third,Center,Short,4 or less,Shot,less than 0.1,77,30,0,5-4-1,16,36,16. Sugawara,
+170,Southampton - Shots,1173.490343,1177.30192,Final third,Center,Final third,Center,Short,4 or less,Shot,less than 0.1,77,30,0,5-4-1,16,36,16. Sugawara,
+171,Ball in play,1174.30192,1180.317522,Own third,Center,Own third,Center,Short,4 or less,,,16,36,3,4-2-3-1,105,41,41. Rice,
+172,Arsenal - Possessions,1174.30192,1180.317522,Own third,Center,Own third,Center,Short,4 or less,,,16,36,3,4-2-3-1,105,41,41. Rice,
+173,Ball in play,1229.952027,1232.75554,Final third,Right flank,Final third,Center,Short,4 or less,,,105,68,1,5-4-1,15,38,18. Mateus Fernandes,
+174,Southampton - Possessions,1229.952027,1232.75554,Final third,Right flank,Final third,Center,Short,4 or less,,,105,68,1,5-4-1,15,38,18. Mateus Fernandes,
+175,Southampton - Set Pieces,1229.952027,1232.75554,Final third,Right flank,Final third,Center,Short,4 or less,,,105,68,1,5-4-1,15,38,18. Mateus Fernandes,
+176,Southampton - Corners,1229.952027,1232.75554,Final third,Right flank,Final third,Center,Short,4 or less,,,105,68,1,5-4-1,15,38,18. Mateus Fernandes,
+177,Ball in play,1232.74554,1238.923443,Own third,Center,Middle third,Center,Short,4 or less,,,15,38,4,4-2-3-1,55,25,"30. Sterling, 41. Rice",Low
+178,Arsenal - Possessions,1232.74554,1238.923443,Own third,Center,Middle third,Center,Short,4 or less,,,15,38,4,4-2-3-1,55,25,"30. Sterling, 41. Rice",Low
+179,Ball in play,1238.913443,1248.241145,Middle third,Center,Final third,Center,Short,4 or less,,,55,25,6,5-4-1,15,37,"16. Sugawara, 34. Welington",Medium
+180,Southampton - Possessions,1238.913443,1248.241145,Middle third,Center,Final third,Center,Short,4 or less,,,55,25,6,5-4-1,15,37,"16. Sugawara, 34. Welington",Medium
+181,Southampton - Crosses,1238.913443,1248.241145,Middle third,Center,Final third,Center,Short,4 or less,,,55,25,6,5-4-1,15,37,"16. Sugawara, 34. Welington",Medium
+182,Ball in play,1248.231145,1282.377787,Own third,Center,Final third,Center,Long,10-14,,,15,37,34,4-2-3-1,7,30,"22. David Raya, 5. Partey, 3. Tierney, 17. Zinchenko, 11. Gabriel Martinelli, 15. Kiwior",Low
+183,Arsenal - Possessions,1248.231145,1282.377787,Own third,Center,Final third,Center,Long,10-14,,,15,37,34,4-2-3-1,7,30,"22. David Raya, 5. Partey, 3. Tierney, 17. Zinchenko, 11. Gabriel Martinelli, 15. Kiwior",Low
+184,Arsenal - Open play attacks,1248.231145,1282.377787,Own third,Center,Final third,Center,Long,10-14,,,15,37,34,4-2-3-1,7,30,"22. David Raya, 5. Partey, 3. Tierney, 17. Zinchenko, 11. Gabriel Martinelli, 15. Kiwior",Low
+185,Arsenal - Crosses,1248.231145,1282.377787,Own third,Center,Final third,Center,Long,10-14,,,15,37,34,4-2-3-1,7,30,"22. David Raya, 5. Partey, 3. Tierney, 17. Zinchenko, 11. Gabriel Martinelli, 15. Kiwior",Low
+186,Arsenal - Goalkeeper distributions,1248.231145,1282.377787,Own third,Center,Final third,Center,Long,10-14,,,15,37,34,4-2-3-1,7,30,"22. David Raya, 5. Partey, 3. Tierney, 17. Zinchenko, 11. Gabriel Martinelli, 15. Kiwior",Low
+187,Ball in play,1282.367787,1288.649887,Own third,Center,Own third,Left flank,Short,4 or less,,,7,30,3,5-4-1,0,16,21. Taylor,
+188,Southampton - Possessions,1282.367787,1288.649887,Own third,Center,Own third,Left flank,Short,4 or less,,,7,30,3,5-4-1,0,16,21. Taylor,
+189,Ball in play,1332.564228,1335.883737,Final third,Right flank,Final third,Center,Short,4 or less,,,105,68,1,4-2-3-1,4,38,53. Nwaneri,
+190,Arsenal - Possessions,1332.564228,1335.883737,Final third,Right flank,Final third,Center,Short,4 or less,,,105,68,1,4-2-3-1,4,38,53. Nwaneri,
+191,Arsenal - Set Pieces,1332.564228,1335.883737,Final third,Right flank,Final third,Center,Short,4 or less,,,105,68,1,4-2-3-1,4,38,53. Nwaneri,
+192,Arsenal - Corners,1332.564228,1335.883737,Final third,Right flank,Final third,Center,Short,4 or less,,,105,68,1,4-2-3-1,4,38,53. Nwaneri,
+193,Ball in play,1335.873737,1343.125782,Own third,Center,Own third,Right flank,Short,4 or less,,,4,38,4,5-4-1,11,68,21. Taylor,
+194,Southampton - Possessions,1335.873737,1343.125782,Own third,Center,Own third,Right flank,Short,4 or less,,,4,38,4,5-4-1,11,68,21. Taylor,
+195,Ball in play,1356.703406,1388.786387,Final third,Left flank,Final third,Left flank,Long,10-14,,,95,0,31,4-2-3-1,7,55,"17. Zinchenko, 11. Gabriel Martinelli, 4. White, 53. Nwaneri, 30. Sterling, 3. Tierney",
+196,Arsenal - Possessions,1356.703406,1388.786387,Final third,Left flank,Final third,Left flank,Long,10-14,,,95,0,31,4-2-3-1,7,55,"17. Zinchenko, 11. Gabriel Martinelli, 4. White, 53. Nwaneri, 30. Sterling, 3. Tierney",
+197,Arsenal - Set Pieces,1356.703406,1388.786387,Final third,Left flank,Final third,Left flank,Long,10-14,,,95,0,31,4-2-3-1,7,55,"17. Zinchenko, 11. Gabriel Martinelli, 4. White, 53. Nwaneri, 30. Sterling, 3. Tierney",
+198,Arsenal - Throw ins,1356.703406,1388.786387,Final third,Left flank,Final third,Left flank,Long,10-14,,,95,0,31,4-2-3-1,7,55,"17. Zinchenko, 11. Gabriel Martinelli, 4. White, 53. Nwaneri, 30. Sterling, 3. Tierney",
+199,Ball in play,1388.776387,1393.234843,Own third,Right flank,Middle third,Right flank,Short,4 or less,,,7,55,3,5-4-1,66,18,46. Robinson,Low
+200,Southampton - Possessions,1388.776387,1393.234843,Own third,Right flank,Middle third,Right flank,Short,4 or less,,,7,55,3,5-4-1,66,18,46. Robinson,Low
+201,Ball in play,1393.224843,1420.909503,Middle third,Left flank,Final third,Center,Long,10-14,Shot,less than 0.1,66,18,23,4-2-3-1,0,15,"3. Tierney, 5. Partey, 41. Rice, 53. Nwaneri, 17. Zinchenko, 11. Gabriel Martinelli, 23. Mikel Merino",
+202,Arsenal - Possessions,1393.224843,1420.909503,Middle third,Left flank,Final third,Center,Long,10-14,Shot,less than 0.1,66,18,23,4-2-3-1,0,15,"3. Tierney, 5. Partey, 41. Rice, 53. Nwaneri, 17. Zinchenko, 11. Gabriel Martinelli, 23. Mikel Merino",
+203,Arsenal - Highlights,1393.224843,1420.909503,Middle third,Left flank,Final third,Center,Long,10-14,Shot,less than 0.1,66,18,23,4-2-3-1,0,15,"3. Tierney, 5. Partey, 41. Rice, 53. Nwaneri, 17. Zinchenko, 11. Gabriel Martinelli, 23. Mikel Merino",
+204,Arsenal - Open play attacks,1393.224843,1420.909503,Middle third,Left flank,Final third,Center,Long,10-14,Shot,less than 0.1,66,18,23,4-2-3-1,0,15,"3. Tierney, 5. Partey, 41. Rice, 53. Nwaneri, 17. Zinchenko, 11. Gabriel Martinelli, 23. Mikel Merino",
+205,Arsenal - Crosses,1393.224843,1420.909503,Middle third,Left flank,Final third,Center,Long,10-14,Shot,less than 0.1,66,18,23,4-2-3-1,0,15,"3. Tierney, 5. Partey, 41. Rice, 53. Nwaneri, 17. Zinchenko, 11. Gabriel Martinelli, 23. Mikel Merino",
+206,Arsenal - Shots,1393.224843,1420.909503,Middle third,Left flank,Final third,Center,Long,10-14,Shot,less than 0.1,66,18,23,4-2-3-1,0,15,"3. Tierney, 5. Partey, 41. Rice, 53. Nwaneri, 17. Zinchenko, 11. Gabriel Martinelli, 23. Mikel Merino",
+207,Ball in play,1451.907623,1456.794993,Own third,Center,Final third,Center,Short,4 or less,,,0,35,2,5-4-1,33,30,30. Ramsdale,
+208,Southampton - Possessions,1451.907623,1456.794993,Own third,Center,Final third,Center,Short,4 or less,,,0,35,2,5-4-1,33,30,30. Ramsdale,
+209,Southampton - Goalkeeper distributions,1451.907623,1456.794993,Own third,Center,Final third,Center,Short,4 or less,,,0,35,2,5-4-1,33,30,30. Ramsdale,
+210,Ball in play,1456.784993,1476.46916,Own third,Center,Final third,Right flank,Medium,5-9,,,33,30,20,4-2-3-1,32,15,"3. Tierney, 22. David Raya, 5. Partey, 53. Nwaneri",Low
+211,Arsenal - Possessions,1456.784993,1476.46916,Own third,Center,Final third,Right flank,Medium,5-9,,,33,30,20,4-2-3-1,32,15,"3. Tierney, 22. David Raya, 5. Partey, 53. Nwaneri",Low
+212,Ball in play,1476.45916,1479.519949,Own third,Left flank,Own third,Left flank,Short,4 or less,,,32,15,2,5-4-1,71,57,26. Ugochukwu,
+213,Southampton - Possessions,1476.45916,1479.519949,Own third,Left flank,Own third,Left flank,Short,4 or less,,,32,15,2,5-4-1,71,57,26. Ugochukwu,
+214,Ball in play,1526.983198,1531.038104,Own third,Left flank,Final third,Center,Short,4 or less,,,30,20,4,5-4-1,27,35,"30. Ramsdale, 11. Stewart, 15. Wood",
+215,Southampton - Possessions,1526.983198,1531.038104,Own third,Left flank,Final third,Center,Short,4 or less,,,30,20,4,5-4-1,27,35,"30. Ramsdale, 11. Stewart, 15. Wood",
+216,Southampton - Open play attacks,1526.983198,1531.038104,Own third,Left flank,Final third,Center,Short,4 or less,,,30,20,4,5-4-1,27,35,"30. Ramsdale, 11. Stewart, 15. Wood",
+217,Southampton - Goalkeeper distributions,1526.983198,1531.038104,Own third,Left flank,Final third,Center,Short,4 or less,,,30,20,4,5-4-1,27,35,"30. Ramsdale, 11. Stewart, 15. Wood",
+218,Ball in play,1531.028104,1532.543998,Own third,Center,Own third,Center,Short,4 or less,,,27,35,1,4-2-3-1,74,29,3. Tierney,Low
+219,Arsenal - Possessions,1531.028104,1532.543998,Own third,Center,Own third,Center,Short,4 or less,,,27,35,1,4-2-3-1,74,29,3. Tierney,Low
+220,Ball in play,1532.533998,1534.055429,Final third,Center,Final third,Center,Short,4 or less,,,74,29,1,5-4-1,15,27,11. Stewart,High
+221,Southampton - Possessions,1532.533998,1534.055429,Final third,Center,Final third,Center,Short,4 or less,,,74,29,1,5-4-1,15,27,11. Stewart,High
+222,Ball in play,1534.045429,1535.846193,Own third,Center,Own third,Center,Short,4 or less,,,15,27,1,4-2-3-1,72,41,41. Rice,Low
+223,Arsenal - Possessions,1534.045429,1535.846193,Own third,Center,Own third,Center,Short,4 or less,,,15,27,1,4-2-3-1,72,41,41. Rice,Low
+224,Ball in play,1535.836193,1556.524126,Final third,Center,Middle third,Left flank,Medium,5-9,,,72,41,17,5-4-1,59,63,"4. Downes, 21. Taylor, 20. Sulemana, 18. Mateus Fernandes, 34. Welington, 26. Ugochukwu",High
+225,Southampton - Possessions,1535.836193,1556.524126,Final third,Center,Middle third,Left flank,Medium,5-9,,,72,41,17,5-4-1,59,63,"4. Downes, 21. Taylor, 20. Sulemana, 18. Mateus Fernandes, 34. Welington, 26. Ugochukwu",High
+226,Southampton - Open play attacks,1535.836193,1556.524126,Final third,Center,Middle third,Left flank,Medium,5-9,,,72,41,17,5-4-1,59,63,"4. Downes, 21. Taylor, 20. Sulemana, 18. Mateus Fernandes, 34. Welington, 26. Ugochukwu",High
+227,Ball in play,1556.514126,1557.406878,Middle third,Right flank,Final third,Right flank,Short,4 or less,,,59,63,0,4-2-3-1,30,17,4. White,Medium
+228,Arsenal - Possessions,1556.514126,1557.406878,Middle third,Right flank,Final third,Right flank,Short,4 or less,,,59,63,0,4-2-3-1,30,17,4. White,Medium
+229,Ball in play,1557.396878,1559.341821,Own third,Left flank,Own third,Left flank,Short,4 or less,,,30,17,2,5-4-1,70,53,18. Mateus Fernandes,
+230,Southampton - Possessions,1557.396878,1559.341821,Own third,Left flank,Own third,Left flank,Short,4 or less,,,30,17,2,5-4-1,70,53,18. Mateus Fernandes,
+231,Ball in play,1559.331821,1588.217752,Final third,Right flank,Final third,Center,Long,10-14,Shot on goal,less than 0.1,70,53,25,4-2-3-1,3,34,"11. Gabriel Martinelli, 30. Sterling, 23. Mikel Merino, 17. Zinchenko, 41. Rice, 5. Partey",High
+232,Arsenal - Possessions,1559.331821,1588.217752,Final third,Right flank,Final third,Center,Long,10-14,Shot on goal,less than 0.1,70,53,25,4-2-3-1,3,34,"11. Gabriel Martinelli, 30. Sterling, 23. Mikel Merino, 17. Zinchenko, 41. Rice, 5. Partey",High
+233,Arsenal - Highlights,1559.331821,1588.217752,Final third,Right flank,Final third,Center,Long,10-14,Shot on goal,less than 0.1,70,53,25,4-2-3-1,3,34,"11. Gabriel Martinelli, 30. Sterling, 23. Mikel Merino, 17. Zinchenko, 41. Rice, 5. Partey",High
+234,Arsenal - Open play attacks,1559.331821,1588.217752,Final third,Right flank,Final third,Center,Long,10-14,Shot on goal,less than 0.1,70,53,25,4-2-3-1,3,34,"11. Gabriel Martinelli, 30. Sterling, 23. Mikel Merino, 17. Zinchenko, 41. Rice, 5. Partey",High
+235,Arsenal - Crosses,1559.331821,1588.217752,Final third,Right flank,Final third,Center,Long,10-14,Shot on goal,less than 0.1,70,53,25,4-2-3-1,3,34,"11. Gabriel Martinelli, 30. Sterling, 23. Mikel Merino, 17. Zinchenko, 41. Rice, 5. Partey",High
+236,Arsenal - Shots,1559.331821,1588.217752,Final third,Right flank,Final third,Center,Long,10-14,Shot on goal,less than 0.1,70,53,25,4-2-3-1,3,34,"11. Gabriel Martinelli, 30. Sterling, 23. Mikel Merino, 17. Zinchenko, 41. Rice, 5. Partey",High
+237,Ball in play,1585.217752,1611.663821,Own third,Center,Final third,Center,Long,4 or less,,,3,34,25,5-4-1,27,23,"30. Ramsdale, 11. Stewart",
+238,Southampton - Possessions,1585.217752,1611.663821,Own third,Center,Final third,Center,Long,4 or less,,,3,34,25,5-4-1,27,23,"30. Ramsdale, 11. Stewart",
+239,Southampton - Open play attacks,1585.217752,1611.663821,Own third,Center,Final third,Center,Long,4 or less,,,3,34,25,5-4-1,27,23,"30. Ramsdale, 11. Stewart",
+240,Ball in play,1611.653821,1613.102663,Own third,Center,Middle third,Left flank,Short,4 or less,,,27,23,1,4-2-3-1,57,54,15. Kiwior,Low
+241,Arsenal - Possessions,1611.653821,1613.102663,Own third,Center,Middle third,Left flank,Short,4 or less,,,27,23,1,4-2-3-1,57,54,15. Kiwior,Low
+242,Ball in play,1613.092663,1647.221799,Middle third,Right flank,Final third,Right flank,Long,15 or more,,,57,54,34,5-4-1,9,13,"16. Sugawara, 11. Stewart, 4. Downes, 46. Robinson, 18. Mateus Fernandes, 26. Ugochukwu, 21. Taylor, 34. Welington, 15. Wood",Medium
+243,Southampton - Possessions,1613.092663,1647.221799,Middle third,Right flank,Final third,Right flank,Long,15 or more,,,57,54,34,5-4-1,9,13,"16. Sugawara, 11. Stewart, 4. Downes, 46. Robinson, 18. Mateus Fernandes, 26. Ugochukwu, 21. Taylor, 34. Welington, 15. Wood",Medium
+244,Southampton - Open play attacks,1613.092663,1647.221799,Middle third,Right flank,Final third,Right flank,Long,15 or more,,,57,54,34,5-4-1,9,13,"16. Sugawara, 11. Stewart, 4. Downes, 46. Robinson, 18. Mateus Fernandes, 26. Ugochukwu, 21. Taylor, 34. Welington, 15. Wood",Medium
+245,Southampton - Crosses,1613.092663,1647.221799,Middle third,Right flank,Final third,Right flank,Long,15 or more,,,57,54,34,5-4-1,9,13,"16. Sugawara, 11. Stewart, 4. Downes, 46. Robinson, 18. Mateus Fernandes, 26. Ugochukwu, 21. Taylor, 34. Welington, 15. Wood",Medium
+246,Ball in play,1647.211799,1648.663691,Own third,Left flank,Own third,Left flank,Short,4 or less,,,9,13,1,4-2-3-1,87,48,17. Zinchenko,
+247,Arsenal - Possessions,1647.211799,1648.663691,Own third,Left flank,Own third,Left flank,Short,4 or less,,,9,13,1,4-2-3-1,87,48,17. Zinchenko,
+248,Ball in play,1648.653691,1651.205057,Final third,Right flank,Final third,Center,Short,4 or less,,,87,48,1,5-4-1,11,28,4. Downes,High
+249,Southampton - Possessions,1648.653691,1651.205057,Final third,Right flank,Final third,Center,Short,4 or less,,,87,48,1,5-4-1,11,28,4. Downes,High
+250,Ball in play,1651.195057,1654.425486,Own third,Center,Middle third,Center,Short,4 or less,,,11,28,2,4-2-3-1,55,40,3. Tierney,Low
+251,Arsenal - Possessions,1651.195057,1654.425486,Own third,Center,Middle third,Center,Short,4 or less,,,11,28,2,4-2-3-1,55,40,3. Tierney,Low
+252,Ball in play,1654.415486,1679.258808,Middle third,Center,Middle third,Right flank,Long,5-9,,,55,40,24,5-4-1,43,16,"15. Wood, 21. Taylor, 30. Ramsdale, 4. Downes",Medium
+253,Southampton - Possessions,1654.415486,1679.258808,Middle third,Center,Middle third,Right flank,Long,5-9,,,55,40,24,5-4-1,43,16,"15. Wood, 21. Taylor, 30. Ramsdale, 4. Downes",Medium
+254,Ball in play,1679.248808,1694.657024,Middle third,Left flank,Final third,Right flank,Medium,5-9,,,43,16,14,4-2-3-1,20,14,"3. Tierney, 5. Partey, 4. White, 30. Sterling",Medium
+255,Arsenal - Possessions,1679.248808,1694.657024,Middle third,Left flank,Final third,Right flank,Medium,5-9,,,43,16,14,4-2-3-1,20,14,"3. Tierney, 5. Partey, 4. White, 30. Sterling",Medium
+256,Ball in play,1694.647024,1778.333171,Own third,Left flank,Final third,Center,Very long,15 or more,,,20,14,83,5-4-1,17,41,"34. Welington, 26. Ugochukwu, 20. Sulemana, 4. Downes, 16. Sugawara, 46. Robinson, 18. Mateus Fernandes, 21. Taylor, 15. Wood, 11. Stewart",Low
+257,Southampton - Possessions,1694.647024,1778.333171,Own third,Left flank,Final third,Center,Very long,15 or more,,,20,14,83,5-4-1,17,41,"34. Welington, 26. Ugochukwu, 20. Sulemana, 4. Downes, 16. Sugawara, 46. Robinson, 18. Mateus Fernandes, 21. Taylor, 15. Wood, 11. Stewart",Low
+258,Southampton - Open play attacks,1694.647024,1778.333171,Own third,Left flank,Final third,Center,Very long,15 or more,,,20,14,83,5-4-1,17,41,"34. Welington, 26. Ugochukwu, 20. Sulemana, 4. Downes, 16. Sugawara, 46. Robinson, 18. Mateus Fernandes, 21. Taylor, 15. Wood, 11. Stewart",Low
+259,Ball in play,1778.323171,1779.963245,Own third,Center,Own third,Right flank,Short,4 or less,,,17,41,1,4-2-3-1,84,21,"41. Rice, 15. Kiwior",Low
+260,Arsenal - Possessions,1778.323171,1779.963245,Own third,Center,Own third,Right flank,Short,4 or less,,,17,41,1,4-2-3-1,84,21,"41. Rice, 15. Kiwior",Low
+261,Ball in play,1779.953245,1794.151588,Final third,Left flank,Final third,Center,Medium,5-9,Shot,from 0.1 to 0.35,84,21,12,5-4-1,105,21,"18. Mateus Fernandes, 11. Stewart",
+262,Southampton - Possessions,1779.953245,1794.151588,Final third,Left flank,Final third,Center,Medium,5-9,Shot,from 0.1 to 0.35,84,21,12,5-4-1,105,21,"18. Mateus Fernandes, 11. Stewart",
+263,Southampton - Highlights,1779.953245,1794.151588,Final third,Left flank,Final third,Center,Medium,5-9,Shot,from 0.1 to 0.35,84,21,12,5-4-1,105,21,"18. Mateus Fernandes, 11. Stewart",
+264,Southampton - Open play attacks,1779.953245,1794.151588,Final third,Left flank,Final third,Center,Medium,5-9,Shot,from 0.1 to 0.35,84,21,12,5-4-1,105,21,"18. Mateus Fernandes, 11. Stewart",
+265,Southampton - Crosses,1779.953245,1794.151588,Final third,Left flank,Final third,Center,Medium,5-9,Shot,from 0.1 to 0.35,84,21,12,5-4-1,105,21,"18. Mateus Fernandes, 11. Stewart",
+266,Southampton - Shots,1779.953245,1794.151588,Final third,Left flank,Final third,Center,Medium,5-9,Shot,from 0.1 to 0.35,84,21,12,5-4-1,105,21,"18. Mateus Fernandes, 11. Stewart",
+267,Ball in play,1808.4791,1824.47272,Own third,Center,Final third,Left flank,Medium,4 or less,,,0,35,14,4-2-3-1,24,52,"17. Zinchenko, 5. Partey",
+268,Arsenal - Possessions,1808.4791,1824.47272,Own third,Center,Final third,Left flank,Medium,4 or less,,,0,35,14,4-2-3-1,24,52,"17. Zinchenko, 5. Partey",
+269,Ball in play,1824.46272,1830.504608,Own third,Right flank,Own third,Right flank,Short,4 or less,,,24,52,3,5-4-1,91,11,16. Sugawara,Low
+270,Southampton - Possessions,1824.46272,1830.504608,Own third,Right flank,Own third,Right flank,Short,4 or less,,,24,52,3,5-4-1,91,11,16. Sugawara,Low
+271,Ball in play,1830.494608,1842.449819,Final third,Left flank,Final third,Center,Medium,5-9,,,91,11,11,4-2-3-1,3,31,"11. Gabriel Martinelli, 3. Tierney, 17. Zinchenko",High
+272,Arsenal - Possessions,1830.494608,1842.449819,Final third,Left flank,Final third,Center,Medium,5-9,,,91,11,11,4-2-3-1,3,31,"11. Gabriel Martinelli, 3. Tierney, 17. Zinchenko",High
+273,Arsenal - Open play attacks,1830.494608,1842.449819,Final third,Left flank,Final third,Center,Medium,5-9,,,91,11,11,4-2-3-1,3,31,"11. Gabriel Martinelli, 3. Tierney, 17. Zinchenko",High
+274,Arsenal - Crosses,1830.494608,1842.449819,Final third,Left flank,Final third,Center,Medium,5-9,,,91,11,11,4-2-3-1,3,31,"11. Gabriel Martinelli, 3. Tierney, 17. Zinchenko",High
+275,Ball in play,1842.439819,1844.675839,Own third,Center,Own third,Left flank,Short,4 or less,,,3,31,1,5-4-1,93,46,21. Taylor,Low
+276,Southampton - Possessions,1842.439819,1844.675839,Own third,Center,Own third,Left flank,Short,4 or less,,,3,31,1,5-4-1,93,46,21. Taylor,Low
+277,Ball in play,1844.665839,1870.443183,Final third,Right flank,Final third,Center,Long,10-14,,,93,46,25,4-2-3-1,11,39,"53. Nwaneri, 4. White, 41. Rice, 5. Partey, 17. Zinchenko, 3. Tierney, 11. Gabriel Martinelli",High
+278,Arsenal - Possessions,1844.665839,1870.443183,Final third,Right flank,Final third,Center,Long,10-14,,,93,46,25,4-2-3-1,11,39,"53. Nwaneri, 4. White, 41. Rice, 5. Partey, 17. Zinchenko, 3. Tierney, 11. Gabriel Martinelli",High
+279,Arsenal - Open play attacks,1844.665839,1870.443183,Final third,Right flank,Final third,Center,Long,10-14,,,93,46,25,4-2-3-1,11,39,"53. Nwaneri, 4. White, 41. Rice, 5. Partey, 17. Zinchenko, 3. Tierney, 11. Gabriel Martinelli",High
+280,Arsenal - Crosses,1844.665839,1870.443183,Final third,Right flank,Final third,Center,Long,10-14,,,93,46,25,4-2-3-1,11,39,"53. Nwaneri, 4. White, 41. Rice, 5. Partey, 17. Zinchenko, 3. Tierney, 11. Gabriel Martinelli",High
+281,Ball in play,1870.433183,1877.197993,Own third,Center,Middle third,Right flank,Short,4 or less,,,11,39,3,5-4-1,65,17,4. Downes,
+282,Southampton - Possessions,1870.433183,1877.197993,Own third,Center,Middle third,Right flank,Short,4 or less,,,11,39,3,5-4-1,65,17,4. Downes,
+283,Ball in play,1877.187993,1884.286347,Middle third,Left flank,Final third,Center,Short,4 or less,,,65,17,6,4-2-3-1,8,35,"17. Zinchenko, 11. Gabriel Martinelli, 3. Tierney",Medium
+284,Arsenal - Possessions,1877.187993,1884.286347,Middle third,Left flank,Final third,Center,Short,4 or less,,,65,17,6,4-2-3-1,8,35,"17. Zinchenko, 11. Gabriel Martinelli, 3. Tierney",Medium
+285,Arsenal - Open play attacks,1877.187993,1884.286347,Middle third,Left flank,Final third,Center,Short,4 or less,,,65,17,6,4-2-3-1,8,35,"17. Zinchenko, 11. Gabriel Martinelli, 3. Tierney",Medium
+286,Arsenal - Crosses,1877.187993,1884.286347,Middle third,Left flank,Final third,Center,Short,4 or less,,,65,17,6,4-2-3-1,8,35,"17. Zinchenko, 11. Gabriel Martinelli, 3. Tierney",Medium
+287,Ball in play,1884.276347,1891.134052,Own third,Center,Own third,Right flank,Short,4 or less,,,8,35,4,5-4-1,6,68,"15. Wood, 16. Sugawara",
+288,Southampton - Possessions,1884.276347,1891.134052,Own third,Center,Own third,Right flank,Short,4 or less,,,8,35,4,5-4-1,6,68,"15. Wood, 16. Sugawara",
+289,Ball in play,1891.740113,1921.939878,Final third,Left flank,Final third,Center,Long,10-14,,,95,0,29,4-2-3-1,7,31,"11. Gabriel Martinelli, 17. Zinchenko, 41. Rice, 5. Partey, 53. Nwaneri, 30. Sterling, 4. White, 15. Kiwior, 3. Tierney",
+290,Arsenal - Possessions,1891.740113,1921.939878,Final third,Left flank,Final third,Center,Long,10-14,,,95,0,29,4-2-3-1,7,31,"11. Gabriel Martinelli, 17. Zinchenko, 41. Rice, 5. Partey, 53. Nwaneri, 30. Sterling, 4. White, 15. Kiwior, 3. Tierney",
+291,Arsenal - Set Pieces,1891.740113,1921.939878,Final third,Left flank,Final third,Center,Long,10-14,,,95,0,29,4-2-3-1,7,31,"11. Gabriel Martinelli, 17. Zinchenko, 41. Rice, 5. Partey, 53. Nwaneri, 30. Sterling, 4. White, 15. Kiwior, 3. Tierney",
+292,Arsenal - Crosses,1891.740113,1921.939878,Final third,Left flank,Final third,Center,Long,10-14,,,95,0,29,4-2-3-1,7,31,"11. Gabriel Martinelli, 17. Zinchenko, 41. Rice, 5. Partey, 53. Nwaneri, 30. Sterling, 4. White, 15. Kiwior, 3. Tierney",
+293,Arsenal - Throw ins,1891.740113,1921.939878,Final third,Left flank,Final third,Center,Long,10-14,,,95,0,29,4-2-3-1,7,31,"11. Gabriel Martinelli, 17. Zinchenko, 41. Rice, 5. Partey, 53. Nwaneri, 30. Sterling, 4. White, 15. Kiwior, 3. Tierney",
+294,Ball in play,1921.929878,1931.0663,Own third,Center,Own third,Right flank,Short,4 or less,,,7,31,6,5-4-1,71,9,"21. Taylor, 46. Robinson, 4. Downes",Low
+295,Southampton - Possessions,1921.929878,1931.0663,Own third,Center,Own third,Right flank,Short,4 or less,,,7,31,6,5-4-1,71,9,"21. Taylor, 46. Robinson, 4. Downes",Low
+296,Ball in play,1931.0563,1980.013162,Final third,Left flank,Final third,Center,Very long,10-14,,,71,9,49,4-2-3-1,14,39,"17. Zinchenko, 5. Partey, 3. Tierney, 41. Rice",High
+297,Arsenal - Possessions,1931.0563,1980.013162,Final third,Left flank,Final third,Center,Very long,10-14,,,71,9,49,4-2-3-1,14,39,"17. Zinchenko, 5. Partey, 3. Tierney, 41. Rice",High
+298,Arsenal - Open play attacks,1931.0563,1980.013162,Final third,Left flank,Final third,Center,Very long,10-14,,,71,9,49,4-2-3-1,14,39,"17. Zinchenko, 5. Partey, 3. Tierney, 41. Rice",High
+299,Ball in play,1980.003162,1987.981291,Own third,Center,Middle third,Left flank,Short,4 or less,,,14,39,5,5-4-1,66,52,"4. Downes, 11. Stewart",Low
+300,Southampton - Possessions,1980.003162,1987.981291,Own third,Center,Middle third,Left flank,Short,4 or less,,,14,39,5,5-4-1,66,52,"4. Downes, 11. Stewart",Low
+301,Ball in play,1987.971291,2029.104895,Middle third,Right flank,Final third,Center,Long,15 or more,,,66,52,41,4-2-3-1,11,34,"4. White, 15. Kiwior, 3. Tierney, 17. Zinchenko, 11. Gabriel Martinelli, 5. Partey, 53. Nwaneri, 23. Mikel Merino",Medium
+302,Arsenal - Possessions,1987.971291,2029.104895,Middle third,Right flank,Final third,Center,Long,15 or more,,,66,52,41,4-2-3-1,11,34,"4. White, 15. Kiwior, 3. Tierney, 17. Zinchenko, 11. Gabriel Martinelli, 5. Partey, 53. Nwaneri, 23. Mikel Merino",Medium
+303,Arsenal - Open play attacks,1987.971291,2029.104895,Middle third,Right flank,Final third,Center,Long,15 or more,,,66,52,41,4-2-3-1,11,34,"4. White, 15. Kiwior, 3. Tierney, 17. Zinchenko, 11. Gabriel Martinelli, 5. Partey, 53. Nwaneri, 23. Mikel Merino",Medium
+304,Arsenal - Crosses,1987.971291,2029.104895,Middle third,Right flank,Final third,Center,Long,15 or more,,,66,52,41,4-2-3-1,11,34,"4. White, 15. Kiwior, 3. Tierney, 17. Zinchenko, 11. Gabriel Martinelli, 5. Partey, 53. Nwaneri, 23. Mikel Merino",Medium
+305,Ball in play,2029.094895,2053.084025,Own third,Center,Middle third,Left flank,Long,10-14,,,11,34,23,5-4-1,38,46,"15. Wood, 20. Sulemana, 21. Taylor, 4. Downes, 18. Mateus Fernandes",
+306,Southampton - Possessions,2029.094895,2053.084025,Own third,Center,Middle third,Left flank,Long,10-14,,,11,34,23,5-4-1,38,46,"15. Wood, 20. Sulemana, 21. Taylor, 4. Downes, 18. Mateus Fernandes",
+307,Ball in play,2093.188264,2102.750605,Middle third,Left flank,Final third,Left flank,Short,4 or less,,,65,13,8,5-4-1,16,46,"34. Welington, 18. Mateus Fernandes, 21. Taylor",
+308,Southampton - Possessions,2093.188264,2102.750605,Middle third,Left flank,Final third,Left flank,Short,4 or less,,,65,13,8,5-4-1,16,46,"34. Welington, 18. Mateus Fernandes, 21. Taylor",
+309,Southampton - Open play attacks,2093.188264,2102.750605,Middle third,Left flank,Final third,Left flank,Short,4 or less,,,65,13,8,5-4-1,16,46,"34. Welington, 18. Mateus Fernandes, 21. Taylor",
+310,Ball in play,2102.740605,2158.239767,Own third,Right flank,Final third,Right flank,Very long,15 or more,,,16,46,54,4-2-3-1,13,16,"22. David Raya, 5. Partey, 53. Nwaneri, 15. Kiwior, 41. Rice, 4. White, 11. Gabriel Martinelli, 3. Tierney, 23. Mikel Merino",Low
+311,Arsenal - Possessions,2102.740605,2158.239767,Own third,Right flank,Final third,Right flank,Very long,15 or more,,,16,46,54,4-2-3-1,13,16,"22. David Raya, 5. Partey, 53. Nwaneri, 15. Kiwior, 41. Rice, 4. White, 11. Gabriel Martinelli, 3. Tierney, 23. Mikel Merino",Low
+312,Arsenal - Open play attacks,2102.740605,2158.239767,Own third,Right flank,Final third,Right flank,Very long,15 or more,,,16,46,54,4-2-3-1,13,16,"22. David Raya, 5. Partey, 53. Nwaneri, 15. Kiwior, 41. Rice, 4. White, 11. Gabriel Martinelli, 3. Tierney, 23. Mikel Merino",Low
+313,Arsenal - Goalkeeper distributions,2102.740605,2158.239767,Own third,Right flank,Final third,Right flank,Very long,15 or more,,,16,46,54,4-2-3-1,13,16,"22. David Raya, 5. Partey, 53. Nwaneri, 15. Kiwior, 41. Rice, 4. White, 11. Gabriel Martinelli, 3. Tierney, 23. Mikel Merino",Low
+314,Ball in play,2158.229767,2158.251369,Own third,Left flank,Own third,Left flank,Short,4 or less,,,13,16,0,5-4-1,86,54,21. Taylor,
+315,Southampton - Possessions,2158.229767,2158.251369,Own third,Left flank,Own third,Left flank,Short,4 or less,,,13,16,0,5-4-1,86,54,21. Taylor,
+316,Ball in play,2158.241369,2161.305634,Final third,Right flank,Final third,Right flank,Short,4 or less,,,86,54,3,4-2-3-1,24,11,11. Gabriel Martinelli,High
+317,Arsenal - Possessions,2158.241369,2161.305634,Final third,Right flank,Final third,Right flank,Short,4 or less,,,86,54,3,4-2-3-1,24,11,11. Gabriel Martinelli,High
+318,Arsenal - Open play attacks,2158.241369,2161.305634,Final third,Right flank,Final third,Right flank,Short,4 or less,,,86,54,3,4-2-3-1,24,11,11. Gabriel Martinelli,High
+319,Ball in play,2161.295634,2215.916665,Own third,Left flank,Middle third,Center,Very long,15 or more,,,24,11,54,5-4-1,48,30,"20. Sulemana, 34. Welington, 21. Taylor, 4. Downes, 26. Ugochukwu, 15. Wood, 18. Mateus Fernandes",Low
+320,Southampton - Possessions,2161.295634,2215.916665,Own third,Left flank,Middle third,Center,Very long,15 or more,,,24,11,54,5-4-1,48,30,"20. Sulemana, 34. Welington, 21. Taylor, 4. Downes, 26. Ugochukwu, 15. Wood, 18. Mateus Fernandes",Low
+321,Ball in play,2215.906665,2249.187262,Middle third,Center,Final third,Center,Long,10-14,,,48,30,33,4-2-3-1,12,29,"15. Kiwior, 41. Rice, 5. Partey, 4. White, 3. Tierney, 17. Zinchenko, 30. Sterling",Medium
+322,Arsenal - Possessions,2215.906665,2249.187262,Middle third,Center,Final third,Center,Long,10-14,,,48,30,33,4-2-3-1,12,29,"15. Kiwior, 41. Rice, 5. Partey, 4. White, 3. Tierney, 17. Zinchenko, 30. Sterling",Medium
+323,Arsenal - Open play attacks,2215.906665,2249.187262,Middle third,Center,Final third,Center,Long,10-14,,,48,30,33,4-2-3-1,12,29,"15. Kiwior, 41. Rice, 5. Partey, 4. White, 3. Tierney, 17. Zinchenko, 30. Sterling",Medium
+324,Arsenal - Crosses,2215.906665,2249.187262,Middle third,Center,Final third,Center,Long,10-14,,,48,30,33,4-2-3-1,12,29,"15. Kiwior, 41. Rice, 5. Partey, 4. White, 3. Tierney, 17. Zinchenko, 30. Sterling",Medium
+325,Ball in play,2249.177262,2263.037928,Own third,Center,Final third,Right flank,Medium,5-9,,,12,29,14,5-4-1,6,21,"21. Taylor, 11. Stewart, 18. Mateus Fernandes, 46. Robinson, 20. Sulemana",Low
+326,Southampton - Possessions,2249.177262,2263.037928,Own third,Center,Final third,Right flank,Medium,5-9,,,12,29,14,5-4-1,6,21,"21. Taylor, 11. Stewart, 18. Mateus Fernandes, 46. Robinson, 20. Sulemana",Low
+327,Southampton - Counterattacks,2249.177262,2263.037928,Own third,Center,Final third,Right flank,Medium,5-9,,,12,29,14,5-4-1,6,21,"21. Taylor, 11. Stewart, 18. Mateus Fernandes, 46. Robinson, 20. Sulemana",Low
+328,Ball in play,2263.027928,2293.032512,Own third,Left flank,Final third,Left flank,Long,10-14,,,6,21,29,4-2-3-1,21,49,"15. Kiwior, 3. Tierney, 17. Zinchenko, 23. Mikel Merino, 11. Gabriel Martinelli, 5. Partey",Low
+329,Arsenal - Possessions,2263.027928,2293.032512,Own third,Left flank,Final third,Left flank,Long,10-14,,,6,21,29,4-2-3-1,21,49,"15. Kiwior, 3. Tierney, 17. Zinchenko, 23. Mikel Merino, 11. Gabriel Martinelli, 5. Partey",Low
+330,Arsenal - Open play attacks,2263.027928,2293.032512,Own third,Left flank,Final third,Left flank,Long,10-14,,,6,21,29,4-2-3-1,21,49,"15. Kiwior, 3. Tierney, 17. Zinchenko, 23. Mikel Merino, 11. Gabriel Martinelli, 5. Partey",Low
+331,Ball in play,2293.022512,2324.407849,Own third,Right flank,Final third,Center,Long,5-9,,,21,49,29,5-4-1,34,44,"16. Sugawara, 46. Robinson, 4. Downes, 21. Taylor, 15. Wood, 30. Ramsdale",Low
+332,Southampton - Possessions,2293.022512,2324.407849,Own third,Right flank,Final third,Center,Long,5-9,,,21,49,29,5-4-1,34,44,"16. Sugawara, 46. Robinson, 4. Downes, 21. Taylor, 15. Wood, 30. Ramsdale",Low
+333,Ball in play,2324.397849,2368.072001,Own third,Center,Final third,Center,Long,10-14,,,34,44,43,4-2-3-1,6,36,"15. Kiwior, 4. White, 3. Tierney, 41. Rice, 30. Sterling, 17. Zinchenko, 5. Partey, 11. Gabriel Martinelli",Low
+334,Arsenal - Possessions,2324.397849,2368.072001,Own third,Center,Final third,Center,Long,10-14,,,34,44,43,4-2-3-1,6,36,"15. Kiwior, 4. White, 3. Tierney, 41. Rice, 30. Sterling, 17. Zinchenko, 5. Partey, 11. Gabriel Martinelli",Low
+335,Arsenal - Open play attacks,2324.397849,2368.072001,Own third,Center,Final third,Center,Long,10-14,,,34,44,43,4-2-3-1,6,36,"15. Kiwior, 4. White, 3. Tierney, 41. Rice, 30. Sterling, 17. Zinchenko, 5. Partey, 11. Gabriel Martinelli",Low
+336,Arsenal - Crosses,2324.397849,2368.072001,Own third,Center,Final third,Center,Long,10-14,,,34,44,43,4-2-3-1,6,36,"15. Kiwior, 4. White, 3. Tierney, 41. Rice, 30. Sterling, 17. Zinchenko, 5. Partey, 11. Gabriel Martinelli",Low
+337,Ball in play,2368.062001,2395.010128,Own third,Center,Middle third,Left flank,Medium,4 or less,,,6,36,13,5-4-1,38,50,30. Ramsdale,
+338,Southampton - Possessions,2368.062001,2395.010128,Own third,Center,Middle third,Left flank,Medium,4 or less,,,6,36,13,5-4-1,38,50,30. Ramsdale,
+339,Southampton - Goalkeeper distributions,2368.062001,2395.010128,Own third,Center,Middle third,Left flank,Medium,4 or less,,,6,36,13,5-4-1,38,50,30. Ramsdale,
+340,Ball in play,2395.000128,2408.640643,Middle third,Right flank,Final third,Center,Medium,5-9,Shot on goal,from 0.1 to 0.35,38,50,10,4-2-3-1,7,31,"5. Partey, 41. Rice, 3. Tierney, 11. Gabriel Martinelli",Medium
+341,Arsenal - Possessions,2395.000128,2408.640643,Middle third,Right flank,Final third,Center,Medium,5-9,Shot on goal,from 0.1 to 0.35,38,50,10,4-2-3-1,7,31,"5. Partey, 41. Rice, 3. Tierney, 11. Gabriel Martinelli",Medium
+342,Arsenal - Highlights,2395.000128,2408.640643,Middle third,Right flank,Final third,Center,Medium,5-9,Shot on goal,from 0.1 to 0.35,38,50,10,4-2-3-1,7,31,"5. Partey, 41. Rice, 3. Tierney, 11. Gabriel Martinelli",Medium
+343,Arsenal - Open play attacks,2395.000128,2408.640643,Middle third,Right flank,Final third,Center,Medium,5-9,Shot on goal,from 0.1 to 0.35,38,50,10,4-2-3-1,7,31,"5. Partey, 41. Rice, 3. Tierney, 11. Gabriel Martinelli",Medium
+344,Arsenal - Shots,2395.000128,2408.640643,Middle third,Right flank,Final third,Center,Medium,5-9,Shot on goal,from 0.1 to 0.35,38,50,10,4-2-3-1,7,31,"5. Partey, 41. Rice, 3. Tierney, 11. Gabriel Martinelli",Medium
+345,Ball in play,2405.640643,2411.40917,Own third,Center,Own third,Left flank,Short,4 or less,,,7,31,3,5-4-1,0,18,30. Ramsdale,
+346,Southampton - Possessions,2405.640643,2411.40917,Own third,Center,Own third,Left flank,Short,4 or less,,,7,31,3,5-4-1,0,18,30. Ramsdale,
+347,Ball in play,2460.617763,2469.32933,Final third,Right flank,Final third,Right flank,Short,4 or less,Shot,less than 0.1,105,68,4,4-2-3-1,23,31,"53. Nwaneri, 17. Zinchenko",
+348,Arsenal - Possessions,2460.617763,2469.32933,Final third,Right flank,Final third,Right flank,Short,4 or less,Shot,less than 0.1,105,68,4,4-2-3-1,23,31,"53. Nwaneri, 17. Zinchenko",
+349,Arsenal - Highlights,2460.617763,2469.32933,Final third,Right flank,Final third,Right flank,Short,4 or less,Shot,less than 0.1,105,68,4,4-2-3-1,23,31,"53. Nwaneri, 17. Zinchenko",
+350,Arsenal - Set Pieces,2460.617763,2469.32933,Final third,Right flank,Final third,Right flank,Short,4 or less,Shot,less than 0.1,105,68,4,4-2-3-1,23,31,"53. Nwaneri, 17. Zinchenko",
+351,Arsenal - Corners,2460.617763,2469.32933,Final third,Right flank,Final third,Right flank,Short,4 or less,Shot,less than 0.1,105,68,4,4-2-3-1,23,31,"53. Nwaneri, 17. Zinchenko",
+352,Arsenal - Shots,2460.617763,2469.32933,Final third,Right flank,Final third,Right flank,Short,4 or less,Shot,less than 0.1,105,68,4,4-2-3-1,23,31,"53. Nwaneri, 17. Zinchenko",
+353,Ball in play,2466.32933,2474.404043,Own third,Center,Own third,Right flank,Short,4 or less,,,23,31,6,5-4-1,0,54,"16. Sugawara, 30. Ramsdale",
+354,Southampton - Possessions,2466.32933,2474.404043,Own third,Center,Own third,Right flank,Short,4 or less,,,23,31,6,5-4-1,0,54,"16. Sugawara, 30. Ramsdale",
+355,Ball in play,2507.89981,2533.552844,Final third,Left flank,Final third,Center,Long,5-9,Goal,from 0.35 to 0.66,105,0,21,4-2-3-1,102,36,"41. Rice, 53. Nwaneri, 4. White, 11. Gabriel Martinelli, 3. Tierney",
+356,Arsenal - Possessions,2507.89981,2533.552844,Final third,Left flank,Final third,Center,Long,5-9,Goal,from 0.35 to 0.66,105,0,21,4-2-3-1,102,36,"41. Rice, 53. Nwaneri, 4. White, 11. Gabriel Martinelli, 3. Tierney",
+357,Arsenal - Highlights,2507.89981,2533.552844,Final third,Left flank,Final third,Center,Long,5-9,Goal,from 0.35 to 0.66,105,0,21,4-2-3-1,102,36,"41. Rice, 53. Nwaneri, 4. White, 11. Gabriel Martinelli, 3. Tierney",
+358,Arsenal - Set Pieces,2507.89981,2533.552844,Final third,Left flank,Final third,Center,Long,5-9,Goal,from 0.35 to 0.66,105,0,21,4-2-3-1,102,36,"41. Rice, 53. Nwaneri, 4. White, 11. Gabriel Martinelli, 3. Tierney",
+359,Arsenal - Goals,2507.89981,2533.552844,Final third,Left flank,Final third,Center,Long,5-9,Goal,from 0.35 to 0.66,105,0,21,4-2-3-1,102,36,"41. Rice, 53. Nwaneri, 4. White, 11. Gabriel Martinelli, 3. Tierney",
+360,Arsenal - Crosses,2507.89981,2533.552844,Final third,Left flank,Final third,Center,Long,5-9,Goal,from 0.35 to 0.66,105,0,21,4-2-3-1,102,36,"41. Rice, 53. Nwaneri, 4. White, 11. Gabriel Martinelli, 3. Tierney",
+361,Arsenal - Corners,2507.89981,2533.552844,Final third,Left flank,Final third,Center,Long,5-9,Goal,from 0.35 to 0.66,105,0,21,4-2-3-1,102,36,"41. Rice, 53. Nwaneri, 4. White, 11. Gabriel Martinelli, 3. Tierney",
+362,Arsenal - Shots,2507.89981,2533.552844,Final third,Left flank,Final third,Center,Long,5-9,Goal,from 0.35 to 0.66,105,0,21,4-2-3-1,102,36,"41. Rice, 53. Nwaneri, 4. White, 11. Gabriel Martinelli, 3. Tierney",
+363,Ball in play,2605.386158,2614.200774,Middle third,Center,Final third,Left flank,Short,4 or less,,,51,33,7,5-4-1,20,57,"18. Mateus Fernandes, 30. Ramsdale",
+364,Southampton - Possessions,2605.386158,2614.200774,Middle third,Center,Final third,Left flank,Short,4 or less,,,51,33,7,5-4-1,20,57,"18. Mateus Fernandes, 30. Ramsdale",
+365,Ball in play,2614.190774,2615.291214,Own third,Right flank,Own third,Right flank,Short,4 or less,,,20,57,1,4-2-3-1,83,12,"4. White, 15. Kiwior",Low
+366,Arsenal - Possessions,2614.190774,2615.291214,Own third,Right flank,Own third,Right flank,Short,4 or less,,,20,57,1,4-2-3-1,83,12,"4. White, 15. Kiwior",Low
+367,Ball in play,2615.281214,2630.428454,Final third,Left flank,Middle third,Right flank,Medium,5-9,,,83,12,15,5-4-1,39,11,"11. Stewart, 20. Sulemana, 34. Welington, 4. Downes, 21. Taylor, 15. Wood, 46. Robinson",High
+368,Southampton - Possessions,2615.281214,2630.428454,Final third,Left flank,Middle third,Right flank,Medium,5-9,,,83,12,15,5-4-1,39,11,"11. Stewart, 20. Sulemana, 34. Welington, 4. Downes, 21. Taylor, 15. Wood, 46. Robinson",High
+369,Southampton - Open play attacks,2615.281214,2630.428454,Final third,Left flank,Middle third,Right flank,Medium,5-9,,,83,12,15,5-4-1,39,11,"11. Stewart, 20. Sulemana, 34. Welington, 4. Downes, 21. Taylor, 15. Wood, 46. Robinson",High
+370,Ball in play,2630.418454,2636.051994,Middle third,Left flank,Middle third,Left flank,Short,4 or less,,,39,11,5,4-2-3-1,40,50,"17. Zinchenko, 30. Sterling",Medium
+371,Arsenal - Possessions,2630.418454,2636.051994,Middle third,Left flank,Middle third,Left flank,Short,4 or less,,,39,11,5,4-2-3-1,40,50,"17. Zinchenko, 30. Sterling",Medium
+372,Ball in play,2636.041994,2642.139338,Middle third,Right flank,Middle third,Right flank,Short,4 or less,,,40,50,5,5-4-1,63,9,"15. Wood, 4. Downes",
+373,Southampton - Possessions,2636.041994,2642.139338,Middle third,Right flank,Middle third,Right flank,Short,4 or less,,,40,50,5,5-4-1,63,9,"15. Wood, 4. Downes",
+374,Ball in play,2675.867663,2680.612354,Middle third,Right flank,Final third,Center,Short,4 or less,,,40,58,2,5-4-1,16,36,30. Ramsdale,
+375,Southampton - Possessions,2675.867663,2680.612354,Middle third,Right flank,Final third,Center,Short,4 or less,,,40,58,2,5-4-1,16,36,30. Ramsdale,
+376,Southampton - Set Pieces,2675.867663,2680.612354,Middle third,Right flank,Final third,Center,Short,4 or less,,,40,58,2,5-4-1,16,36,30. Ramsdale,
+377,Southampton - Free kicks,2675.867663,2680.612354,Middle third,Right flank,Final third,Center,Short,4 or less,,,40,58,2,5-4-1,16,36,30. Ramsdale,
+378,Southampton - Goalkeeper distributions,2675.867663,2680.612354,Middle third,Right flank,Final third,Center,Short,4 or less,,,40,58,2,5-4-1,16,36,30. Ramsdale,
+379,Ball in play,2680.602354,2686.935341,Own third,Center,Own third,Left flank,Short,4 or less,,,16,36,4,4-2-3-1,75,47,"23. Mikel Merino, 30. Sterling",
+380,Arsenal - Possessions,2680.602354,2686.935341,Own third,Center,Own third,Left flank,Short,4 or less,,,16,36,4,4-2-3-1,75,47,"23. Mikel Merino, 30. Sterling",
+381,Ball in play,2706.936117,2750.687405,Own third,Center,Final third,Center,Long,15 or more,,,29,24,42,4-2-3-1,8,23,"4. White, 15. Kiwior, 5. Partey, 17. Zinchenko, 3. Tierney, 30. Sterling, 11. Gabriel Martinelli, 23. Mikel Merino",
+382,Arsenal - Possessions,2706.936117,2750.687405,Own third,Center,Final third,Center,Long,15 or more,,,29,24,42,4-2-3-1,8,23,"4. White, 15. Kiwior, 5. Partey, 17. Zinchenko, 3. Tierney, 30. Sterling, 11. Gabriel Martinelli, 23. Mikel Merino",
+383,Arsenal - Open play attacks,2706.936117,2750.687405,Own third,Center,Final third,Center,Long,15 or more,,,29,24,42,4-2-3-1,8,23,"4. White, 15. Kiwior, 5. Partey, 17. Zinchenko, 3. Tierney, 30. Sterling, 11. Gabriel Martinelli, 23. Mikel Merino",
+384,Ball in play,2750.677405,2766.255535,Own third,Center,Final third,Left flank,Medium,4 or less,Shot,less than 0.1,8,23,12,5-4-1,13,50,"21. Taylor, 20. Sulemana",Low
+385,Southampton - Possessions,2750.677405,2766.255535,Own third,Center,Final third,Left flank,Medium,4 or less,Shot,less than 0.1,8,23,12,5-4-1,13,50,"21. Taylor, 20. Sulemana",Low
+386,Southampton - Open play attacks,2750.677405,2766.255535,Own third,Center,Final third,Left flank,Medium,4 or less,Shot,less than 0.1,8,23,12,5-4-1,13,50,"21. Taylor, 20. Sulemana",Low
+387,Southampton - Counterattacks,2750.677405,2766.255535,Own third,Center,Final third,Left flank,Medium,4 or less,Shot,less than 0.1,8,23,12,5-4-1,13,50,"21. Taylor, 20. Sulemana",Low
+388,Southampton - Shots,2750.677405,2766.255535,Own third,Center,Final third,Left flank,Medium,4 or less,Shot,less than 0.1,8,23,12,5-4-1,13,50,"21. Taylor, 20. Sulemana",Low
+389,Ball in play,2763.255535,2764.680572,Own third,Right flank,Own third,Center,Short,4 or less,,,13,50,1,4-2-3-1,97,24,15. Kiwior,
+390,Arsenal - Possessions,2763.255535,2764.680572,Own third,Right flank,Own third,Center,Short,4 or less,,,13,50,1,4-2-3-1,97,24,15. Kiwior,
+391,Ball in play,2764.670572,2765.584679,Final third,Center,Final third,Center,Short,4 or less,Shot,from 0.1 to 0.35,97,24,1,5-4-1,105,12,20. Sulemana,
+392,Southampton - Possessions,2764.670572,2765.584679,Final third,Center,Final third,Center,Short,4 or less,Shot,from 0.1 to 0.35,97,24,1,5-4-1,105,12,20. Sulemana,
+393,Southampton - Highlights,2764.670572,2765.584679,Final third,Center,Final third,Center,Short,4 or less,Shot,from 0.1 to 0.35,97,24,1,5-4-1,105,12,20. Sulemana,
+394,Southampton - Open play attacks,2764.670572,2765.584679,Final third,Center,Final third,Center,Short,4 or less,Shot,from 0.1 to 0.35,97,24,1,5-4-1,105,12,20. Sulemana,
+395,Southampton - Shots,2764.670572,2765.584679,Final third,Center,Final third,Center,Short,4 or less,Shot,from 0.1 to 0.35,97,24,1,5-4-1,105,12,20. Sulemana,
+396,Ball in play,2766.0,2767.01,Own third,Center,Own third,Center,Short,4 or less,,,0,36,0,4-2-3-1,0,36,,
+397,Arsenal - Possessions,2766.0,2767.01,Own third,Center,Own third,Center,Short,4 or less,,,0,36,0,4-2-3-1,0,36,,
+398,Ball in play,2770.376426,2776.90674,Middle third,Center,Final third,Left flank,Short,4 or less,,,54,34,7,5-4-1,24,52,"18. Mateus Fernandes, 30. Ramsdale, 11. Stewart",
+399,Southampton - Possessions,2770.376426,2776.90674,Middle third,Center,Final third,Left flank,Short,4 or less,,,54,34,7,5-4-1,24,52,"18. Mateus Fernandes, 30. Ramsdale, 11. Stewart",
+400,Ball in play,2776.89674,2779.826586,Own third,Right flank,Middle third,Right flank,Short,4 or less,,,24,52,2,4-2-3-1,64,18,4. White,Low
+401,Arsenal - Possessions,2776.89674,2779.826586,Own third,Right flank,Middle third,Right flank,Short,4 or less,,,24,52,2,4-2-3-1,64,18,4. White,Low
+402,Ball in play,2779.816586,2794.244091,Middle third,Left flank,Final third,Left flank,Medium,5-9,,,64,18,13,5-4-1,91,0,"4. Downes, 21. Taylor, 30. Ramsdale, 20. Sulemana",
+403,Southampton - Possessions,2779.816586,2794.244091,Middle third,Left flank,Final third,Left flank,Medium,5-9,,,64,18,13,5-4-1,91,0,"4. Downes, 21. Taylor, 30. Ramsdale, 20. Sulemana",
+404,Ball in play,2809.668319,2817.022109,Own third,Right flank,Middle third,Right flank,Short,4 or less,,,23,68,6,4-2-3-1,62,10,"4. White, 41. Rice, 11. Gabriel Martinelli",
+405,Arsenal - Possessions,2809.668319,2817.022109,Own third,Right flank,Middle third,Right flank,Short,4 or less,,,23,68,6,4-2-3-1,62,10,"4. White, 41. Rice, 11. Gabriel Martinelli",
+406,Arsenal - Set Pieces,2809.668319,2817.022109,Own third,Right flank,Middle third,Right flank,Short,4 or less,,,23,68,6,4-2-3-1,62,10,"4. White, 41. Rice, 11. Gabriel Martinelli",
+407,Arsenal - Throw ins,2809.668319,2817.022109,Own third,Right flank,Middle third,Right flank,Short,4 or less,,,23,68,6,4-2-3-1,62,10,"4. White, 41. Rice, 11. Gabriel Martinelli",
+408,Ball in play,2817.012109,2819.316826,Middle third,Left flank,Middle third,Left flank,Short,4 or less,,,62,10,1,5-4-1,44,58,21. Taylor,
+409,Southampton - Possessions,2817.012109,2819.316826,Middle third,Left flank,Middle third,Left flank,Short,4 or less,,,62,10,1,5-4-1,44,58,21. Taylor,
+410,Ball in play,2853.124235,2867.032308,Middle third,Left flank,Final third,Right flank,Medium,5-9,,,61,13,13,5-4-1,25,6,"18. Mateus Fernandes, 11. Stewart, 4. Downes, 16. Sugawara, 26. Ugochukwu",
+411,Southampton - Possessions,2853.124235,2867.032308,Middle third,Left flank,Final third,Right flank,Medium,5-9,,,61,13,13,5-4-1,25,6,"18. Mateus Fernandes, 11. Stewart, 4. Downes, 16. Sugawara, 26. Ugochukwu",
+412,Southampton - Set Pieces,2853.124235,2867.032308,Middle third,Left flank,Final third,Right flank,Medium,5-9,,,61,13,13,5-4-1,25,6,"18. Mateus Fernandes, 11. Stewart, 4. Downes, 16. Sugawara, 26. Ugochukwu",
+413,Southampton - Free kicks,2853.124235,2867.032308,Middle third,Left flank,Final third,Right flank,Medium,5-9,,,61,13,13,5-4-1,25,6,"18. Mateus Fernandes, 11. Stewart, 4. Downes, 16. Sugawara, 26. Ugochukwu",
+414,Southampton - Crosses,2853.124235,2867.032308,Middle third,Left flank,Final third,Right flank,Medium,5-9,,,61,13,13,5-4-1,25,6,"18. Mateus Fernandes, 11. Stewart, 4. Downes, 16. Sugawara, 26. Ugochukwu",
+415,Ball in play,2867.022308,2870.753882,Own third,Left flank,Own third,Left flank,Short,4 or less,,,25,6,2,4-2-3-1,71,68,30. Sterling,
+416,Arsenal - Possessions,2867.022308,2870.753882,Own third,Left flank,Own third,Left flank,Short,4 or less,,,25,6,2,4-2-3-1,71,68,30. Sterling,
+417,Ball in play,2881.967432,2920.197877,Final third,Right flank,Final third,Center,Long,15 or more,,,79,68,36,5-4-1,30,27,"16. Sugawara, 26. Ugochukwu, 15. Wood, 21. Taylor, 34. Welington, 20. Sulemana, 4. Downes, 18. Mateus Fernandes, 46. Robinson",
+418,Southampton - Possessions,2881.967432,2920.197877,Final third,Right flank,Final third,Center,Long,15 or more,,,79,68,36,5-4-1,30,27,"16. Sugawara, 26. Ugochukwu, 15. Wood, 21. Taylor, 34. Welington, 20. Sulemana, 4. Downes, 18. Mateus Fernandes, 46. Robinson",
+419,Southampton - Set Pieces,2881.967432,2920.197877,Final third,Right flank,Final third,Center,Long,15 or more,,,79,68,36,5-4-1,30,27,"16. Sugawara, 26. Ugochukwu, 15. Wood, 21. Taylor, 34. Welington, 20. Sulemana, 4. Downes, 18. Mateus Fernandes, 46. Robinson",
+420,Southampton - Throw ins,2881.967432,2920.197877,Final third,Right flank,Final third,Center,Long,15 or more,,,79,68,36,5-4-1,30,27,"16. Sugawara, 26. Ugochukwu, 15. Wood, 21. Taylor, 34. Welington, 20. Sulemana, 4. Downes, 18. Mateus Fernandes, 46. Robinson",
+421,Ball in play,2920.187877,2939.099301,Own third,Center,Middle third,Left flank,Medium,10-14,,,30,27,19,4-2-3-1,59,52,"15. Kiwior, 5. Partey, 11. Gabriel Martinelli, 53. Nwaneri, 17. Zinchenko, 3. Tierney",Low
+422,Arsenal - Possessions,2920.187877,2939.099301,Own third,Center,Middle third,Left flank,Medium,10-14,,,30,27,19,4-2-3-1,59,52,"15. Kiwior, 5. Partey, 11. Gabriel Martinelli, 53. Nwaneri, 17. Zinchenko, 3. Tierney",Low
+423,Ball in play,2939.089301,2943.599776,Middle third,Right flank,Final third,Center,Short,4 or less,,,59,52,4,5-4-1,32,26,46. Robinson,Medium
+424,Southampton - Possessions,2939.089301,2943.599776,Middle third,Right flank,Final third,Center,Short,4 or less,,,59,52,4,5-4-1,32,26,46. Robinson,Medium
+425,Ball in play,2943.589776,2949.882623,Own third,Center,Final third,Left flank,Short,4 or less,,,32,26,4,4-2-3-1,34,56,"3. Tierney, 30. Sterling",Low
+426,Arsenal - Possessions,2943.589776,2949.882623,Own third,Center,Final third,Left flank,Short,4 or less,,,32,26,4,4-2-3-1,34,56,"3. Tierney, 30. Sterling",Low
+427,Ball in play,2949.872623,2959.547032,Own third,Right flank,Middle third,Left flank,Short,4 or less,,,34,56,9,5-4-1,43,56,"16. Sugawara, 21. Taylor, 20. Sulemana",Low
+428,Southampton - Possessions,2949.872623,2959.547032,Own third,Right flank,Middle third,Left flank,Short,4 or less,,,34,56,9,5-4-1,43,56,"16. Sugawara, 21. Taylor, 20. Sulemana",Low
+429,Ball in play,2959.537032,2962.324701,Middle third,Right flank,Middle third,Right flank,Short,4 or less,,,43,56,1,4-2-3-1,38,16,11. Gabriel Martinelli,
+430,Arsenal - Possessions,2959.537032,2962.324701,Middle third,Right flank,Middle third,Right flank,Short,4 or less,,,43,56,1,4-2-3-1,38,16,11. Gabriel Martinelli,
+431,Ball in play,2962.314701,2996.563615,Middle third,Left flank,Final third,Center,Long,10-14,,,38,16,34,5-4-1,6,25,"21. Taylor, 30. Ramsdale, 15. Wood, 16. Sugawara, 11. Stewart, 18. Mateus Fernandes, 46. Robinson",Medium
+432,Southampton - Possessions,2962.314701,2996.563615,Middle third,Left flank,Final third,Center,Long,10-14,,,38,16,34,5-4-1,6,25,"21. Taylor, 30. Ramsdale, 15. Wood, 16. Sugawara, 11. Stewart, 18. Mateus Fernandes, 46. Robinson",Medium
+433,Southampton - Open play attacks,2962.314701,2996.563615,Middle third,Left flank,Final third,Center,Long,10-14,,,38,16,34,5-4-1,6,25,"21. Taylor, 30. Ramsdale, 15. Wood, 16. Sugawara, 11. Stewart, 18. Mateus Fernandes, 46. Robinson",Medium
+434,Ball in play,2996.553615,2998.472454,Own third,Center,Own third,Center,Short,4 or less,,,6,25,1,4-2-3-1,93,41,3. Tierney,
+435,Arsenal - Possessions,2996.553615,2998.472454,Own third,Center,Own third,Center,Short,4 or less,,,6,25,1,4-2-3-1,93,41,3. Tierney,
+436,Ball in play,2998.462454,3002.092151,Final third,Center,Final third,Right flank,Short,4 or less,,,93,41,3,5-4-1,2,20,"11. Stewart, 46. Robinson",High
+437,Southampton - Possessions,2998.462454,3002.092151,Final third,Center,Final third,Right flank,Short,4 or less,,,93,41,3,5-4-1,2,20,"11. Stewart, 46. Robinson",High
+438,Southampton - Open play attacks,2998.462454,3002.092151,Final third,Center,Final third,Right flank,Short,4 or less,,,93,41,3,5-4-1,2,20,"11. Stewart, 46. Robinson",High
+439,Southampton - Crosses,2998.462454,3002.092151,Final third,Center,Final third,Right flank,Short,4 or less,,,93,41,3,5-4-1,2,20,"11. Stewart, 46. Robinson",High
+440,Ball in play,3002.082151,3006.224346,Own third,Left flank,Own third,Center,Short,4 or less,,,2,20,2,4-2-3-1,105,45,17. Zinchenko,
+441,Arsenal - Possessions,3002.082151,3006.224346,Own third,Left flank,Own third,Center,Short,4 or less,,,2,20,2,4-2-3-1,105,45,17. Zinchenko,
+442,Ball in play,3035.019084,3041.191931,Final third,Right flank,Final third,Right flank,Short,4 or less,,,105,68,4,5-4-1,13,16,34. Welington,
+443,Southampton - Possessions,3035.019084,3041.191931,Final third,Right flank,Final third,Right flank,Short,4 or less,,,105,68,4,5-4-1,13,16,34. Welington,
+444,Southampton - Set Pieces,3035.019084,3041.191931,Final third,Right flank,Final third,Right flank,Short,4 or less,,,105,68,4,5-4-1,13,16,34. Welington,
+445,Southampton - Corners,3035.019084,3041.191931,Final third,Right flank,Final third,Right flank,Short,4 or less,,,105,68,4,5-4-1,13,16,34. Welington,
+446,Ball in play,3041.181931,3042.534737,Own third,Left flank,Own third,Left flank,Short,4 or less,,,13,16,1,4-2-3-1,87,58,11. Gabriel Martinelli,
+447,Arsenal - Possessions,3041.181931,3042.534737,Own third,Left flank,Own third,Left flank,Short,4 or less,,,13,16,1,4-2-3-1,87,58,11. Gabriel Martinelli,
+448,Ball in play,3042.524737,3045.881871,Final third,Right flank,Final third,Right flank,Short,4 or less,,,87,58,3,5-4-1,18,6,"21. Taylor, 34. Welington",High
+449,Southampton - Possessions,3042.524737,3045.881871,Final third,Right flank,Final third,Right flank,Short,4 or less,,,87,58,3,5-4-1,18,6,"21. Taylor, 34. Welington",High
+450,Southampton - Open play attacks,3042.524737,3045.881871,Final third,Right flank,Final third,Right flank,Short,4 or less,,,87,58,3,5-4-1,18,6,"21. Taylor, 34. Welington",High
+451,Ball in play,3045.871871,3055.143304,Own third,Left flank,Final third,Left flank,Short,4 or less,,,18,6,9,4-2-3-1,25,61,"17. Zinchenko, 30. Sterling, 11. Gabriel Martinelli",Low
+452,Arsenal - Possessions,3045.871871,3055.143304,Own third,Left flank,Final third,Left flank,Short,4 or less,,,18,6,9,4-2-3-1,25,61,"17. Zinchenko, 30. Sterling, 11. Gabriel Martinelli",Low
+453,Arsenal - Counterattacks,3045.871871,3055.143304,Own third,Left flank,Final third,Left flank,Short,4 or less,,,18,6,9,4-2-3-1,25,61,"17. Zinchenko, 30. Sterling, 11. Gabriel Martinelli",Low
+454,Ball in play,3055.133304,3058.306184,Own third,Right flank,Own third,Right flank,Short,4 or less,,,25,61,3,5-4-1,78,3,"20. Sulemana, 18. Mateus Fernandes",
+455,Southampton - Possessions,3055.133304,3058.306184,Own third,Right flank,Own third,Right flank,Short,4 or less,,,25,61,3,5-4-1,78,3,"20. Sulemana, 18. Mateus Fernandes",
+456,Ball in play,3058.296184,3060.389278,Final third,Left flank,Middle third,Left flank,Short,4 or less,,,78,3,1,4-2-3-1,38,68,11. Gabriel Martinelli,
+457,Arsenal - Possessions,3058.296184,3060.389278,Final third,Left flank,Middle third,Left flank,Short,4 or less,,,78,3,1,4-2-3-1,38,68,11. Gabriel Martinelli,
+458,Ball in play,3082.299373,3093.77141,Final third,Left flank,Middle third,Left flank,Short,4 or less,,,70,0,9,4-2-3-1,39,53,"17. Zinchenko, 4. White, 3. Tierney, 30. Sterling",
+459,Arsenal - Possessions,3082.299373,3093.77141,Final third,Left flank,Middle third,Left flank,Short,4 or less,,,70,0,9,4-2-3-1,39,53,"17. Zinchenko, 4. White, 3. Tierney, 30. Sterling",
+460,Arsenal - Set Pieces,3082.299373,3093.77141,Final third,Left flank,Middle third,Left flank,Short,4 or less,,,70,0,9,4-2-3-1,39,53,"17. Zinchenko, 4. White, 3. Tierney, 30. Sterling",
+461,Arsenal - Throw ins,3082.299373,3093.77141,Final third,Left flank,Middle third,Left flank,Short,4 or less,,,70,0,9,4-2-3-1,39,53,"17. Zinchenko, 4. White, 3. Tierney, 30. Sterling",
+462,Ball in play,3103.800196,3115.011951,Middle third,Left flank,Final third,Left flank,Medium,5-9,,,69,7,11,4-2-3-1,14,51,"15. Kiwior, 41. Rice, 17. Zinchenko, 30. Sterling",
+463,Arsenal - Possessions,3103.800196,3115.011951,Middle third,Left flank,Final third,Left flank,Medium,5-9,,,69,7,11,4-2-3-1,14,51,"15. Kiwior, 41. Rice, 17. Zinchenko, 30. Sterling",
+464,Arsenal - Open play attacks,3103.800196,3115.011951,Middle third,Left flank,Final third,Left flank,Medium,5-9,,,69,7,11,4-2-3-1,14,51,"15. Kiwior, 41. Rice, 17. Zinchenko, 30. Sterling",
+465,Ball in play,3115.001951,3126.642281,Own third,Right flank,Middle third,Right flank,Medium,5-9,,,14,51,11,5-4-1,63,10,"4. Downes, 18. Mateus Fernandes, 11. Stewart",
+466,Southampton - Possessions,3115.001951,3126.642281,Own third,Right flank,Middle third,Right flank,Medium,5-9,,,14,51,11,5-4-1,63,10,"4. Downes, 18. Mateus Fernandes, 11. Stewart",
+467,Ball in play,3134.049031,3174.764609,Middle third,Right flank,Middle third,Left flank,Long,15 or more,,,38,56,41,5-4-1,55,50,"26. Ugochukwu, 21. Taylor, 34. Welington, 15. Wood, 4. Downes, 20. Sulemana, 11. Stewart",
+468,Southampton - Possessions,3134.049031,3174.764609,Middle third,Right flank,Middle third,Left flank,Long,15 or more,,,38,56,41,5-4-1,55,50,"26. Ugochukwu, 21. Taylor, 34. Welington, 15. Wood, 4. Downes, 20. Sulemana, 11. Stewart",
+469,Ball in play,3174.754609,3217.247341,Middle third,Right flank,Final third,Center,Long,15 or more,Shot on goal,less than 0.1,55,50,39,4-2-3-1,3,33,"15. Kiwior, 17. Zinchenko, 5. Partey, 41. Rice, 3. Tierney, 53. Nwaneri, 4. White, 11. Gabriel Martinelli",Medium
+470,Arsenal - Possessions,3174.754609,3217.247341,Middle third,Right flank,Final third,Center,Long,15 or more,Shot on goal,less than 0.1,55,50,39,4-2-3-1,3,33,"15. Kiwior, 17. Zinchenko, 5. Partey, 41. Rice, 3. Tierney, 53. Nwaneri, 4. White, 11. Gabriel Martinelli",Medium
+471,Arsenal - Highlights,3174.754609,3217.247341,Middle third,Right flank,Final third,Center,Long,15 or more,Shot on goal,less than 0.1,55,50,39,4-2-3-1,3,33,"15. Kiwior, 17. Zinchenko, 5. Partey, 41. Rice, 3. Tierney, 53. Nwaneri, 4. White, 11. Gabriel Martinelli",Medium
+472,Arsenal - Open play attacks,3174.754609,3217.247341,Middle third,Right flank,Final third,Center,Long,15 or more,Shot on goal,less than 0.1,55,50,39,4-2-3-1,3,33,"15. Kiwior, 17. Zinchenko, 5. Partey, 41. Rice, 3. Tierney, 53. Nwaneri, 4. White, 11. Gabriel Martinelli",Medium
+473,Arsenal - Shots,3174.754609,3217.247341,Middle third,Right flank,Final third,Center,Long,15 or more,Shot on goal,less than 0.1,55,50,39,4-2-3-1,3,33,"15. Kiwior, 17. Zinchenko, 5. Partey, 41. Rice, 3. Tierney, 53. Nwaneri, 4. White, 11. Gabriel Martinelli",Medium
+474,Ball in play,3214.247341,3246.810437,Own third,Center,Final third,Center,Long,4 or less,,,3,33,31,5-4-1,28,34,30. Ramsdale,Low
+475,Southampton - Possessions,3214.247341,3246.810437,Own third,Center,Final third,Center,Long,4 or less,,,3,33,31,5-4-1,28,34,30. Ramsdale,Low
+476,Southampton - Goalkeeper distributions,3214.247341,3246.810437,Own third,Center,Final third,Center,Long,4 or less,,,3,33,31,5-4-1,28,34,30. Ramsdale,Low
+477,Ball in play,3246.800437,3248.900923,Own third,Center,Middle third,Center,Short,4 or less,,,28,34,1,4-2-3-1,67,43,3. Tierney,Low
+478,Arsenal - Possessions,3246.800437,3248.900923,Own third,Center,Middle third,Center,Short,4 or less,,,28,34,1,4-2-3-1,67,43,3. Tierney,Low
+479,Ball in play,3248.890923,3259.440203,Middle third,Center,Final third,Center,Short,5-9,,,67,43,9,5-4-1,21,38,"18. Mateus Fernandes, 46. Robinson, 11. Stewart",
+480,Southampton - Possessions,3248.890923,3259.440203,Middle third,Center,Final third,Center,Short,5-9,,,67,43,9,5-4-1,21,38,"18. Mateus Fernandes, 46. Robinson, 11. Stewart",
+481,Southampton - Open play attacks,3248.890923,3259.440203,Middle third,Center,Final third,Center,Short,5-9,,,67,43,9,5-4-1,21,38,"18. Mateus Fernandes, 46. Robinson, 11. Stewart",
+482,Ball in play,3367.779835,3372.246776,Final third,Center,Final third,Center,Short,4 or less,,,85,29,0,5-4-1,13,28,18. Mateus Fernandes,
+483,Southampton - Possessions,3367.779835,3372.246776,Final third,Center,Final third,Center,Short,4 or less,,,85,29,0,5-4-1,13,28,18. Mateus Fernandes,
+484,Southampton - Set Pieces,3367.779835,3372.246776,Final third,Center,Final third,Center,Short,4 or less,,,85,29,0,5-4-1,13,28,18. Mateus Fernandes,
+485,Southampton - Free kicks,3367.779835,3372.246776,Final third,Center,Final third,Center,Short,4 or less,,,85,29,0,5-4-1,13,28,18. Mateus Fernandes,
+486,Ball in play,3369.246776,3375.876927,Own third,Center,Own third,Center,Short,5-9,,,13,28,7,4-2-3-1,75,33,"17. Zinchenko, 41. Rice, 23. Mikel Merino",Low
+487,Arsenal - Possessions,3369.246776,3375.876927,Own third,Center,Own third,Center,Short,5-9,,,13,28,7,4-2-3-1,75,33,"17. Zinchenko, 41. Rice, 23. Mikel Merino",Low
+488,Ball in play,3375.866927,3384.344718,Final third,Center,Final third,Center,Short,4 or less,Shot on goal,from 0.1 to 0.35,75,33,5,5-4-1,3,33,"18. Mateus Fernandes, 46. Robinson",High
+489,Southampton - Possessions,3375.866927,3384.344718,Final third,Center,Final third,Center,Short,4 or less,Shot on goal,from 0.1 to 0.35,75,33,5,5-4-1,3,33,"18. Mateus Fernandes, 46. Robinson",High
+490,Southampton - Highlights,3375.866927,3384.344718,Final third,Center,Final third,Center,Short,4 or less,Shot on goal,from 0.1 to 0.35,75,33,5,5-4-1,3,33,"18. Mateus Fernandes, 46. Robinson",High
+491,Southampton - Open play attacks,3375.866927,3384.344718,Final third,Center,Final third,Center,Short,4 or less,Shot on goal,from 0.1 to 0.35,75,33,5,5-4-1,3,33,"18. Mateus Fernandes, 46. Robinson",High
+492,Southampton - Shots,3375.866927,3384.344718,Final third,Center,Final third,Center,Short,4 or less,Shot on goal,from 0.1 to 0.35,75,33,5,5-4-1,3,33,"18. Mateus Fernandes, 46. Robinson",High
+493,Ball in play,3381.344718,3387.554142,Own third,Center,Own third,Right flank,Short,4 or less,,,3,33,3,4-2-3-1,105,16,22. David Raya,
+494,Arsenal - Possessions,3381.344718,3387.554142,Own third,Center,Own third,Right flank,Short,4 or less,,,3,33,3,4-2-3-1,105,16,22. David Raya,
+495,Ball in play,3412.014099,3417.661022,Final third,Left flank,Final third,Center,Short,4 or less,Goal,from 0.1 to 0.35,105,0,2,5-4-1,101,33,"18. Mateus Fernandes, 11. Stewart",
+496,Southampton - Possessions,3412.014099,3417.661022,Final third,Left flank,Final third,Center,Short,4 or less,Goal,from 0.1 to 0.35,105,0,2,5-4-1,101,33,"18. Mateus Fernandes, 11. Stewart",
+497,Southampton - Highlights,3412.014099,3417.661022,Final third,Left flank,Final third,Center,Short,4 or less,Goal,from 0.1 to 0.35,105,0,2,5-4-1,101,33,"18. Mateus Fernandes, 11. Stewart",
+498,Southampton - Set Pieces,3412.014099,3417.661022,Final third,Left flank,Final third,Center,Short,4 or less,Goal,from 0.1 to 0.35,105,0,2,5-4-1,101,33,"18. Mateus Fernandes, 11. Stewart",
+499,Southampton - Goals,3412.014099,3417.661022,Final third,Left flank,Final third,Center,Short,4 or less,Goal,from 0.1 to 0.35,105,0,2,5-4-1,101,33,"18. Mateus Fernandes, 11. Stewart",
+500,Southampton - Corners,3412.014099,3417.661022,Final third,Left flank,Final third,Center,Short,4 or less,Goal,from 0.1 to 0.35,105,0,2,5-4-1,101,33,"18. Mateus Fernandes, 11. Stewart",
+501,Southampton - Shots,3412.014099,3417.661022,Final third,Left flank,Final third,Center,Short,4 or less,Goal,from 0.1 to 0.35,105,0,2,5-4-1,101,33,"18. Mateus Fernandes, 11. Stewart",
+502,Ball in play,3484.591515,3551.363467,Middle third,Center,Final third,Center,Very long,15 or more,,,53,34,66,4-2-3-1,3,36,"22. David Raya, 17. Zinchenko, 3. Tierney, 15. Kiwior, 4. White, 53. Nwaneri, 11. Gabriel Martinelli, 30. Sterling",
+503,Arsenal - Possessions,3484.591515,3551.363467,Middle third,Center,Final third,Center,Very long,15 or more,,,53,34,66,4-2-3-1,3,36,"22. David Raya, 17. Zinchenko, 3. Tierney, 15. Kiwior, 4. White, 53. Nwaneri, 11. Gabriel Martinelli, 30. Sterling",
+504,Arsenal - Open play attacks,3484.591515,3551.363467,Middle third,Center,Final third,Center,Very long,15 or more,,,53,34,66,4-2-3-1,3,36,"22. David Raya, 17. Zinchenko, 3. Tierney, 15. Kiwior, 4. White, 53. Nwaneri, 11. Gabriel Martinelli, 30. Sterling",
+505,Arsenal - Crosses,3484.591515,3551.363467,Middle third,Center,Final third,Center,Very long,15 or more,,,53,34,66,4-2-3-1,3,36,"22. David Raya, 17. Zinchenko, 3. Tierney, 15. Kiwior, 4. White, 53. Nwaneri, 11. Gabriel Martinelli, 30. Sterling",
+506,Ball in play,3551.353467,3551.945604,Own third,Center,Own third,Center,Short,4 or less,,,3,36,0,5-4-1,102,33,16. Sugawara,Low
+507,Southampton - Possessions,3551.353467,3551.945604,Own third,Center,Own third,Center,Short,4 or less,,,3,36,0,5-4-1,102,33,16. Sugawara,Low
+508,Ball in play,3551.935604,3555.597998,Final third,Center,Final third,Center,Short,4 or less,,,102,33,2,4-2-3-1,0,25,41. Rice,
+509,Arsenal - Possessions,3551.935604,3555.597998,Final third,Center,Final third,Center,Short,4 or less,,,102,33,2,4-2-3-1,0,25,41. Rice,
+510,Ball in play,3593.159467,3600.222698,Final third,Right flank,Final third,Center,Short,4 or less,Shot,less than 0.1,105,68,3,4-2-3-1,20,34,"53. Nwaneri, 17. Zinchenko",
+511,Arsenal - Possessions,3593.159467,3600.222698,Final third,Right flank,Final third,Center,Short,4 or less,Shot,less than 0.1,105,68,3,4-2-3-1,20,34,"53. Nwaneri, 17. Zinchenko",
+512,Arsenal - Set Pieces,3593.159467,3600.222698,Final third,Right flank,Final third,Center,Short,4 or less,Shot,less than 0.1,105,68,3,4-2-3-1,20,34,"53. Nwaneri, 17. Zinchenko",
+513,Arsenal - Corners,3593.159467,3600.222698,Final third,Right flank,Final third,Center,Short,4 or less,Shot,less than 0.1,105,68,3,4-2-3-1,20,34,"53. Nwaneri, 17. Zinchenko",
+514,Arsenal - Shots,3593.159467,3600.222698,Final third,Right flank,Final third,Center,Short,4 or less,Shot,less than 0.1,105,68,3,4-2-3-1,20,34,"53. Nwaneri, 17. Zinchenko",
+515,Ball in play,3597.222698,3602.461671,Own third,Center,Own third,Right flank,Short,4 or less,,,20,34,3,5-4-1,74,22,20. Sulemana,
+516,Southampton - Possessions,3597.222698,3602.461671,Own third,Center,Own third,Right flank,Short,4 or less,,,20,34,3,5-4-1,74,22,20. Sulemana,
+517,Ball in play,3602.451671,3612.815931,Final third,Left flank,Final third,Center,Short,4 or less,Shot,less than 0.1,74,22,7,4-2-3-1,14,31,"41. Rice, 53. Nwaneri",High
+518,Arsenal - Possessions,3602.451671,3612.815931,Final third,Left flank,Final third,Center,Short,4 or less,Shot,less than 0.1,74,22,7,4-2-3-1,14,31,"41. Rice, 53. Nwaneri",High
+519,Arsenal - Open play attacks,3602.451671,3612.815931,Final third,Left flank,Final third,Center,Short,4 or less,Shot,less than 0.1,74,22,7,4-2-3-1,14,31,"41. Rice, 53. Nwaneri",High
+520,Arsenal - Shots,3602.451671,3612.815931,Final third,Left flank,Final third,Center,Short,4 or less,Shot,less than 0.1,74,22,7,4-2-3-1,14,31,"41. Rice, 53. Nwaneri",High
+521,Ball in play,3609.815931,3613.744191,Own third,Center,Middle third,Center,Short,4 or less,,,14,31,2,5-4-1,56,32,16. Sugawara,Low
+522,Southampton - Possessions,3609.815931,3613.744191,Own third,Center,Middle third,Center,Short,4 or less,,,14,31,2,5-4-1,56,32,16. Sugawara,Low
+523,Ball in play,3613.734191,3880.8528,Middle third,Center,Final third,Right flank,Very long,15 or more,,,56,32,265,4-2-3-1,14,0,"22. David Raya, 4. White, 7. Saka, 53. Nwaneri, 41. Rice, 17. Zinchenko, 11. Gabriel Martinelli, 15. Kiwior, 19. Trossard",
+524,Arsenal - Possessions,3613.734191,3880.8528,Middle third,Center,Final third,Right flank,Very long,15 or more,,,56,32,265,4-2-3-1,14,0,"22. David Raya, 4. White, 7. Saka, 53. Nwaneri, 41. Rice, 17. Zinchenko, 11. Gabriel Martinelli, 15. Kiwior, 19. Trossard",
+525,Arsenal - Open play attacks,3613.734191,3880.8528,Middle third,Center,Final third,Right flank,Very long,15 or more,,,56,32,265,4-2-3-1,14,0,"22. David Raya, 4. White, 7. Saka, 53. Nwaneri, 41. Rice, 17. Zinchenko, 11. Gabriel Martinelli, 15. Kiwior, 19. Trossard",
+526,Arsenal - Goalkeeper distributions,3613.734191,3880.8528,Middle third,Center,Final third,Right flank,Very long,15 or more,,,56,32,265,4-2-3-1,14,0,"22. David Raya, 4. White, 7. Saka, 53. Nwaneri, 41. Rice, 17. Zinchenko, 11. Gabriel Martinelli, 15. Kiwior, 19. Trossard",
+527,Ball in play,3906.988032,3909.247938,Own third,Left flank,Own third,Left flank,Short,4 or less,,,19,0,1,5-4-1,70,58,34. Welington,
+528,Southampton - Possessions,3906.988032,3909.247938,Own third,Left flank,Own third,Left flank,Short,4 or less,,,19,0,1,5-4-1,70,58,34. Welington,
+529,Southampton - Set Pieces,3906.988032,3909.247938,Own third,Left flank,Own third,Left flank,Short,4 or less,,,19,0,1,5-4-1,70,58,34. Welington,
+530,Southampton - Throw ins,3906.988032,3909.247938,Own third,Left flank,Own third,Left flank,Short,4 or less,,,19,0,1,5-4-1,70,58,34. Welington,
+531,Ball in play,3909.237938,3910.603851,Final third,Right flank,Final third,Right flank,Short,4 or less,,,70,58,1,4-2-3-1,27,7,4. White,
+532,Arsenal - Possessions,3909.237938,3910.603851,Final third,Right flank,Final third,Right flank,Short,4 or less,,,70,58,1,4-2-3-1,27,7,4. White,
+533,Arsenal - Open play attacks,3909.237938,3910.603851,Final third,Right flank,Final third,Right flank,Short,4 or less,,,70,58,1,4-2-3-1,27,7,4. White,
+534,Ball in play,3910.593851,3912.765911,Own third,Left flank,Middle third,Left flank,Short,4 or less,,,27,7,1,5-4-1,58,51,34. Welington,Low
+535,Southampton - Possessions,3910.593851,3912.765911,Own third,Left flank,Middle third,Left flank,Short,4 or less,,,27,7,1,5-4-1,58,51,34. Welington,Low
+536,Ball in play,3912.755911,3958.057945,Middle third,Right flank,Final third,Center,Long,10-14,,,58,51,45,4-2-3-1,15,24,"15. Kiwior, 17. Zinchenko, 41. Rice, 7. Saka, 53. Nwaneri, 11. Gabriel Martinelli",Medium
+537,Arsenal - Possessions,3912.755911,3958.057945,Middle third,Right flank,Final third,Center,Long,10-14,,,58,51,45,4-2-3-1,15,24,"15. Kiwior, 17. Zinchenko, 41. Rice, 7. Saka, 53. Nwaneri, 11. Gabriel Martinelli",Medium
+538,Arsenal - Open play attacks,3912.755911,3958.057945,Middle third,Right flank,Final third,Center,Long,10-14,,,58,51,45,4-2-3-1,15,24,"15. Kiwior, 17. Zinchenko, 41. Rice, 7. Saka, 53. Nwaneri, 11. Gabriel Martinelli",Medium
+539,Ball in play,3958.047945,3965.53376,Own third,Center,Middle third,Left flank,Short,4 or less,,,15,24,7,5-4-1,68,60,"21. Taylor, 34. Welington, 20. Sulemana",Low
+540,Southampton - Possessions,3958.047945,3965.53376,Own third,Center,Middle third,Left flank,Short,4 or less,,,15,24,7,5-4-1,68,60,"21. Taylor, 34. Welington, 20. Sulemana",Low
+541,Ball in play,3965.52376,3993.054969,Middle third,Right flank,Final third,Center,Long,5-9,,,68,60,27,4-2-3-1,6,35,"4. White, 5. Partey, 15. Kiwior, 17. Zinchenko, 53. Nwaneri, 7. Saka",Medium
+542,Arsenal - Possessions,3965.52376,3993.054969,Middle third,Right flank,Final third,Center,Long,5-9,,,68,60,27,4-2-3-1,6,35,"4. White, 5. Partey, 15. Kiwior, 17. Zinchenko, 53. Nwaneri, 7. Saka",Medium
+543,Arsenal - Open play attacks,3965.52376,3993.054969,Middle third,Right flank,Final third,Center,Long,5-9,,,68,60,27,4-2-3-1,6,35,"4. White, 5. Partey, 15. Kiwior, 17. Zinchenko, 53. Nwaneri, 7. Saka",Medium
+544,Arsenal - Crosses,3965.52376,3993.054969,Middle third,Right flank,Final third,Center,Long,5-9,,,68,60,27,4-2-3-1,6,35,"4. White, 5. Partey, 15. Kiwior, 17. Zinchenko, 53. Nwaneri, 7. Saka",Medium
+545,Ball in play,3993.044969,3996.383724,Own third,Center,Own third,Center,Short,4 or less,,,6,35,2,5-4-1,83,23,15. Wood,Low
+546,Southampton - Possessions,3993.044969,3996.383724,Own third,Center,Own third,Center,Short,4 or less,,,6,35,2,5-4-1,83,23,15. Wood,Low
+547,Ball in play,3996.373724,4003.264382,Final third,Center,Final third,Center,Short,4 or less,,,83,23,6,4-2-3-1,4,23,"17. Zinchenko, 15. Kiwior",High
+548,Arsenal - Possessions,3996.373724,4003.264382,Final third,Center,Final third,Center,Short,4 or less,,,83,23,6,4-2-3-1,4,23,"17. Zinchenko, 15. Kiwior",High
+549,Arsenal - Open play attacks,3996.373724,4003.264382,Final third,Center,Final third,Center,Short,4 or less,,,83,23,6,4-2-3-1,4,23,"17. Zinchenko, 15. Kiwior",High
+550,Arsenal - Crosses,3996.373724,4003.264382,Final third,Center,Final third,Center,Short,4 or less,,,83,23,6,4-2-3-1,4,23,"17. Zinchenko, 15. Kiwior",High
+551,Ball in play,4003.254382,4008.725489,Own third,Center,Own third,Left flank,Short,4 or less,,,4,23,3,5-4-1,0,10,34. Welington,
+552,Southampton - Possessions,4003.254382,4008.725489,Own third,Center,Own third,Left flank,Short,4 or less,,,4,23,3,5-4-1,0,10,34. Welington,
+553,Ball in play,4046.622402,4052.224075,Final third,Right flank,Final third,Right flank,Short,4 or less,,,105,68,5,4-2-3-1,23,13,"7. Saka, 4. White",
+554,Arsenal - Possessions,4046.622402,4052.224075,Final third,Right flank,Final third,Right flank,Short,4 or less,,,105,68,5,4-2-3-1,23,13,"7. Saka, 4. White",
+555,Arsenal - Set Pieces,4046.622402,4052.224075,Final third,Right flank,Final third,Right flank,Short,4 or less,,,105,68,5,4-2-3-1,23,13,"7. Saka, 4. White",
+556,Arsenal - Corners,4046.622402,4052.224075,Final third,Right flank,Final third,Right flank,Short,4 or less,,,105,68,5,4-2-3-1,23,13,"7. Saka, 4. White",
+557,Ball in play,4052.214075,4063.42294,Own third,Left flank,Middle third,Center,Medium,5-9,,,23,13,11,5-4-1,45,42,"20. Sulemana, 34. Welington, 11. Stewart, 18. Mateus Fernandes",Low
+558,Southampton - Possessions,4052.214075,4063.42294,Own third,Left flank,Middle third,Center,Medium,5-9,,,23,13,11,5-4-1,45,42,"20. Sulemana, 34. Welington, 11. Stewart, 18. Mateus Fernandes",Low
+559,Ball in play,4063.41294,4078.82878,Middle third,Center,Final third,Center,Medium,5-9,Shot,from 0.1 to 0.35,45,42,12,4-2-3-1,8,34,"17. Zinchenko, 23. Mikel Merino, 11. Gabriel Martinelli, 7. Saka",Medium
+560,Arsenal - Possessions,4063.41294,4078.82878,Middle third,Center,Final third,Center,Medium,5-9,Shot,from 0.1 to 0.35,45,42,12,4-2-3-1,8,34,"17. Zinchenko, 23. Mikel Merino, 11. Gabriel Martinelli, 7. Saka",Medium
+561,Arsenal - Highlights,4063.41294,4078.82878,Middle third,Center,Final third,Center,Medium,5-9,Shot,from 0.1 to 0.35,45,42,12,4-2-3-1,8,34,"17. Zinchenko, 23. Mikel Merino, 11. Gabriel Martinelli, 7. Saka",Medium
+562,Arsenal - Open play attacks,4063.41294,4078.82878,Middle third,Center,Final third,Center,Medium,5-9,Shot,from 0.1 to 0.35,45,42,12,4-2-3-1,8,34,"17. Zinchenko, 23. Mikel Merino, 11. Gabriel Martinelli, 7. Saka",Medium
+563,Arsenal - Crosses,4063.41294,4078.82878,Middle third,Center,Final third,Center,Medium,5-9,Shot,from 0.1 to 0.35,45,42,12,4-2-3-1,8,34,"17. Zinchenko, 23. Mikel Merino, 11. Gabriel Martinelli, 7. Saka",Medium
+564,Arsenal - Shots,4063.41294,4078.82878,Middle third,Center,Final third,Center,Medium,5-9,Shot,from 0.1 to 0.35,45,42,12,4-2-3-1,8,34,"17. Zinchenko, 23. Mikel Merino, 11. Gabriel Martinelli, 7. Saka",Medium
+565,Ball in play,4075.82878,4082.707084,Own third,Center,Own third,Right flank,Short,4 or less,,,8,34,3,5-4-1,81,11,21. Taylor,
+566,Southampton - Possessions,4075.82878,4082.707084,Own third,Center,Own third,Right flank,Short,4 or less,,,8,34,3,5-4-1,81,11,21. Taylor,
+567,Ball in play,4082.697084,4085.639023,Final third,Left flank,Final third,Left flank,Short,4 or less,,,81,11,2,4-2-3-1,12,50,"19. Trossard, 17. Zinchenko",High
+568,Arsenal - Possessions,4082.697084,4085.639023,Final third,Left flank,Final third,Left flank,Short,4 or less,,,81,11,2,4-2-3-1,12,50,"19. Trossard, 17. Zinchenko",High
+569,Arsenal - Open play attacks,4082.697084,4085.639023,Final third,Left flank,Final third,Left flank,Short,4 or less,,,81,11,2,4-2-3-1,12,50,"19. Trossard, 17. Zinchenko",High
+570,Ball in play,4085.629023,4090.073896,Own third,Right flank,Middle third,Center,Short,4 or less,,,12,50,2,5-4-1,44,24,16. Sugawara,Low
+571,Southampton - Possessions,4085.629023,4090.073896,Own third,Right flank,Middle third,Center,Short,4 or less,,,12,50,2,5-4-1,44,24,16. Sugawara,Low
+572,Ball in play,4090.063896,4121.409201,Middle third,Center,Final third,Center,Long,5-9,Shot,from 0.1 to 0.35,44,24,28,4-2-3-1,5,29,"5. Partey, 22. David Raya, 17. Zinchenko, 41. Rice, 7. Saka",Medium
+573,Arsenal - Possessions,4090.063896,4121.409201,Middle third,Center,Final third,Center,Long,5-9,Shot,from 0.1 to 0.35,44,24,28,4-2-3-1,5,29,"5. Partey, 22. David Raya, 17. Zinchenko, 41. Rice, 7. Saka",Medium
+574,Arsenal - Open play attacks,4090.063896,4121.409201,Middle third,Center,Final third,Center,Long,5-9,Shot,from 0.1 to 0.35,44,24,28,4-2-3-1,5,29,"5. Partey, 22. David Raya, 17. Zinchenko, 41. Rice, 7. Saka",Medium
+575,Arsenal - Shots,4090.063896,4121.409201,Middle third,Center,Final third,Center,Long,5-9,Shot,from 0.1 to 0.35,44,24,28,4-2-3-1,5,29,"5. Partey, 22. David Raya, 17. Zinchenko, 41. Rice, 7. Saka",Medium
+576,Ball in play,4118.409201,4127.790757,Own third,Center,Own third,Left flank,Short,4 or less,,,5,29,8,5-4-1,102,52,"18. Mateus Fernandes, 20. Sulemana, 34. Welington",
+577,Southampton - Possessions,4118.409201,4127.790757,Own third,Center,Own third,Left flank,Short,4 or less,,,5,29,8,5-4-1,102,52,"18. Mateus Fernandes, 20. Sulemana, 34. Welington",
+578,Ball in play,4161.689414,4165.247019,Own third,Left flank,Middle third,Center,Short,4 or less,,,5,12,2,5-4-1,42,41,30. Ramsdale,
+579,Southampton - Possessions,4161.689414,4165.247019,Own third,Left flank,Middle third,Center,Short,4 or less,,,5,12,2,5-4-1,42,41,30. Ramsdale,
+580,Southampton - Goalkeeper distributions,4161.689414,4165.247019,Own third,Left flank,Middle third,Center,Short,4 or less,,,5,12,2,5-4-1,42,41,30. Ramsdale,
+581,Ball in play,4165.237019,4167.345554,Middle third,Center,Final third,Center,Short,4 or less,,,42,41,1,4-2-3-1,35,39,23. Mikel Merino,Medium
+582,Arsenal - Possessions,4165.237019,4167.345554,Middle third,Center,Final third,Center,Short,4 or less,,,42,41,1,4-2-3-1,35,39,23. Mikel Merino,Medium
+583,Ball in play,4167.335554,4168.947119,Own third,Center,Middle third,Left flank,Short,4 or less,,,35,39,1,5-4-1,45,52,15. Wood,Medium
+584,Southampton - Possessions,4167.335554,4168.947119,Own third,Center,Middle third,Left flank,Short,4 or less,,,35,39,1,5-4-1,45,52,15. Wood,Medium
+585,Ball in play,4168.937119,4187.994826,Middle third,Right flank,Final third,Right flank,Medium,10-14,,,45,52,19,4-2-3-1,20,11,"41. Rice, 53. Nwaneri, 7. Saka, 4. White, 23. Mikel Merino",Medium
+586,Arsenal - Possessions,4168.937119,4187.994826,Middle third,Right flank,Final third,Right flank,Medium,10-14,,,45,52,19,4-2-3-1,20,11,"41. Rice, 53. Nwaneri, 7. Saka, 4. White, 23. Mikel Merino",Medium
+587,Arsenal - Open play attacks,4168.937119,4187.994826,Middle third,Right flank,Final third,Right flank,Medium,10-14,,,45,52,19,4-2-3-1,20,11,"41. Rice, 53. Nwaneri, 7. Saka, 4. White, 23. Mikel Merino",Medium
+588,Ball in play,4187.984826,4189.080014,Own third,Left flank,Own third,Left flank,Short,4 or less,,,20,11,1,5-4-1,87,56,20. Sulemana,
+589,Southampton - Possessions,4187.984826,4189.080014,Own third,Left flank,Own third,Left flank,Short,4 or less,,,20,11,1,5-4-1,87,56,20. Sulemana,
+590,Ball in play,4189.070014,4199.656976,Final third,Right flank,Final third,Center,Short,5-9,Shot,less than 0.1,87,56,7,4-2-3-1,20,44,"7. Saka, 19. Trossard, 53. Nwaneri, 17. Zinchenko",High
+591,Arsenal - Possessions,4189.070014,4199.656976,Final third,Right flank,Final third,Center,Short,5-9,Shot,less than 0.1,87,56,7,4-2-3-1,20,44,"7. Saka, 19. Trossard, 53. Nwaneri, 17. Zinchenko",High
+592,Arsenal - Open play attacks,4189.070014,4199.656976,Final third,Right flank,Final third,Center,Short,5-9,Shot,less than 0.1,87,56,7,4-2-3-1,20,44,"7. Saka, 19. Trossard, 53. Nwaneri, 17. Zinchenko",High
+593,Arsenal - Shots,4189.070014,4199.656976,Final third,Right flank,Final third,Center,Short,5-9,Shot,less than 0.1,87,56,7,4-2-3-1,20,44,"7. Saka, 19. Trossard, 53. Nwaneri, 17. Zinchenko",High
+594,Ball in play,4196.656976,4202.8666,Own third,Center,Middle third,Right flank,Short,4 or less,,,20,44,3,5-4-1,38,68,4. Downes,
+595,Southampton - Possessions,4196.656976,4202.8666,Own third,Center,Middle third,Right flank,Short,4 or less,,,20,44,3,5-4-1,38,68,4. Downes,
+596,Ball in play,4284.970179,4338.340751,Middle third,Left flank,Final third,Left flank,Very long,15 or more,,,67,0,51,4-2-3-1,24,59,"49. Lewis-Skelly, 5. Partey, 53. Nwaneri, 4. White, 15. Kiwior, 19. Trossard, 7. Saka",
+597,Arsenal - Possessions,4284.970179,4338.340751,Middle third,Left flank,Final third,Left flank,Very long,15 or more,,,67,0,51,4-2-3-1,24,59,"49. Lewis-Skelly, 5. Partey, 53. Nwaneri, 4. White, 15. Kiwior, 19. Trossard, 7. Saka",
+598,Arsenal - Set Pieces,4284.970179,4338.340751,Middle third,Left flank,Final third,Left flank,Very long,15 or more,,,67,0,51,4-2-3-1,24,59,"49. Lewis-Skelly, 5. Partey, 53. Nwaneri, 4. White, 15. Kiwior, 19. Trossard, 7. Saka",
+599,Arsenal - Throw ins,4284.970179,4338.340751,Middle third,Left flank,Final third,Left flank,Very long,15 or more,,,67,0,51,4-2-3-1,24,59,"49. Lewis-Skelly, 5. Partey, 53. Nwaneri, 4. White, 15. Kiwior, 19. Trossard, 7. Saka",
+600,Ball in play,4338.330751,4353.933849,Own third,Right flank,Middle third,Right flank,Medium,5-9,,,24,59,15,5-4-1,40,11,"16. Sugawara, 46. Robinson, 4. Downes, 30. Ramsdale, 32. Onuachu",Low
+601,Southampton - Possessions,4338.330751,4353.933849,Own third,Right flank,Middle third,Right flank,Medium,5-9,,,24,59,15,5-4-1,40,11,"16. Sugawara, 46. Robinson, 4. Downes, 30. Ramsdale, 32. Onuachu",Low
+602,Ball in play,4353.923849,4378.693116,Middle third,Left flank,Final third,Left flank,Long,10-14,,,40,11,24,4-2-3-1,21,56,"49. Lewis-Skelly, 41. Rice, 4. White, 29. Havertz, 23. Mikel Merino, 15. Kiwior, 19. Trossard",Medium
+603,Arsenal - Possessions,4353.923849,4378.693116,Middle third,Left flank,Final third,Left flank,Long,10-14,,,40,11,24,4-2-3-1,21,56,"49. Lewis-Skelly, 41. Rice, 4. White, 29. Havertz, 23. Mikel Merino, 15. Kiwior, 19. Trossard",Medium
+604,Arsenal - Open play attacks,4353.923849,4378.693116,Middle third,Left flank,Final third,Left flank,Long,10-14,,,40,11,24,4-2-3-1,21,56,"49. Lewis-Skelly, 41. Rice, 4. White, 29. Havertz, 23. Mikel Merino, 15. Kiwior, 19. Trossard",Medium
+605,Arsenal - Crosses,4353.923849,4378.693116,Middle third,Left flank,Final third,Left flank,Long,10-14,,,40,11,24,4-2-3-1,21,56,"49. Lewis-Skelly, 41. Rice, 4. White, 29. Havertz, 23. Mikel Merino, 15. Kiwior, 19. Trossard",Medium
+606,Ball in play,4378.683116,4384.738689,Own third,Right flank,Middle third,Left flank,Short,4 or less,,,21,56,6,5-4-1,66,51,"16. Sugawara, 4. Downes, 26. Ugochukwu",Low
+607,Southampton - Possessions,4378.683116,4384.738689,Own third,Right flank,Middle third,Left flank,Short,4 or less,,,21,56,6,5-4-1,66,51,"16. Sugawara, 4. Downes, 26. Ugochukwu",Low
+608,Ball in play,4384.728689,4421.98258,Middle third,Right flank,Final third,Center,Long,15 or more,,,66,51,37,4-2-3-1,6,37,"4. White, 41. Rice, 29. Havertz, 5. Partey, 15. Kiwior, 53. Nwaneri, 49. Lewis-Skelly, 19. Trossard",Medium
+609,Arsenal - Possessions,4384.728689,4421.98258,Middle third,Right flank,Final third,Center,Long,15 or more,,,66,51,37,4-2-3-1,6,37,"4. White, 41. Rice, 29. Havertz, 5. Partey, 15. Kiwior, 53. Nwaneri, 49. Lewis-Skelly, 19. Trossard",Medium
+610,Arsenal - Open play attacks,4384.728689,4421.98258,Middle third,Right flank,Final third,Center,Long,15 or more,,,66,51,37,4-2-3-1,6,37,"4. White, 41. Rice, 29. Havertz, 5. Partey, 15. Kiwior, 53. Nwaneri, 49. Lewis-Skelly, 19. Trossard",Medium
+611,Arsenal - Crosses,4384.728689,4421.98258,Middle third,Right flank,Final third,Center,Long,15 or more,,,66,51,37,4-2-3-1,6,37,"4. White, 41. Rice, 29. Havertz, 5. Partey, 15. Kiwior, 53. Nwaneri, 49. Lewis-Skelly, 19. Trossard",Medium
+612,Ball in play,4421.97258,4429.614327,Own third,Center,Own third,Right flank,Short,4 or less,,,6,37,4,5-4-1,0,54,15. Wood,
+613,Southampton - Possessions,4421.97258,4429.614327,Own third,Center,Own third,Right flank,Short,4 or less,,,6,37,4,5-4-1,0,54,15. Wood,
+614,Ball in play,4460.275932,4462.474384,Final third,Left flank,Final third,Center,Short,4 or less,,,105,0,1,4-2-3-1,5,41,"41. Rice, 4. White",
+615,Arsenal - Possessions,4460.275932,4462.474384,Final third,Left flank,Final third,Center,Short,4 or less,,,105,0,1,4-2-3-1,5,41,"41. Rice, 4. White",
+616,Arsenal - Set Pieces,4460.275932,4462.474384,Final third,Left flank,Final third,Center,Short,4 or less,,,105,0,1,4-2-3-1,5,41,"41. Rice, 4. White",
+617,Arsenal - Corners,4460.275932,4462.474384,Final third,Left flank,Final third,Center,Short,4 or less,,,105,0,1,4-2-3-1,5,41,"41. Rice, 4. White",
+618,Ball in play,4462.464384,4481.223785,Own third,Center,Final third,Right flank,Medium,5-9,,,5,41,18,5-4-1,5,12,"16. Sugawara, 20. Sulemana, 32. Onuachu, 34. Welington",Low
+619,Southampton - Possessions,4462.464384,4481.223785,Own third,Center,Final third,Right flank,Medium,5-9,,,5,41,18,5-4-1,5,12,"16. Sugawara, 20. Sulemana, 32. Onuachu, 34. Welington",Low
+620,Southampton - Open play attacks,4462.464384,4481.223785,Own third,Center,Final third,Right flank,Medium,5-9,,,5,41,18,5-4-1,5,12,"16. Sugawara, 20. Sulemana, 32. Onuachu, 34. Welington",Low
+621,Southampton - Crosses,4462.464384,4481.223785,Own third,Center,Final third,Right flank,Medium,5-9,,,5,41,18,5-4-1,5,12,"16. Sugawara, 20. Sulemana, 32. Onuachu, 34. Welington",Low
+622,Ball in play,4481.213785,4485.725721,Own third,Left flank,Own third,Left flank,Short,4 or less,,,5,12,2,4-2-3-1,93,68,49. Lewis-Skelly,
+623,Arsenal - Possessions,4481.213785,4485.725721,Own third,Left flank,Own third,Left flank,Short,4 or less,,,5,12,2,4-2-3-1,93,68,49. Lewis-Skelly,
+624,Ball in play,4503.030682,4540.191638,Final third,Right flank,Final third,Right flank,Long,15 or more,,,88,68,33,5-4-1,89,68,"16. Sugawara, 4. Downes, 15. Wood, 21. Taylor, 32. Onuachu, 18. Mateus Fernandes, 26. Ugochukwu",
+625,Southampton - Possessions,4503.030682,4540.191638,Final third,Right flank,Final third,Right flank,Long,15 or more,,,88,68,33,5-4-1,89,68,"16. Sugawara, 4. Downes, 15. Wood, 21. Taylor, 32. Onuachu, 18. Mateus Fernandes, 26. Ugochukwu",
+626,Southampton - Set Pieces,4503.030682,4540.191638,Final third,Right flank,Final third,Right flank,Long,15 or more,,,88,68,33,5-4-1,89,68,"16. Sugawara, 4. Downes, 15. Wood, 21. Taylor, 32. Onuachu, 18. Mateus Fernandes, 26. Ugochukwu",
+627,Southampton - Throw ins,4503.030682,4540.191638,Final third,Right flank,Final third,Right flank,Long,15 or more,,,88,68,33,5-4-1,89,68,"16. Sugawara, 4. Downes, 15. Wood, 21. Taylor, 32. Onuachu, 18. Mateus Fernandes, 26. Ugochukwu",
+628,Ball in play,4568.862512,4578.098531,Own third,Left flank,Final third,Right flank,Short,4 or less,,,35,0,7,4-4-2,25,9,"49. Lewis-Skelly, 5. Partey",
+629,Arsenal - Possessions,4568.862512,4578.098531,Own third,Left flank,Final third,Right flank,Short,4 or less,,,35,0,7,4-4-2,25,9,"49. Lewis-Skelly, 5. Partey",
+630,Arsenal - Set Pieces,4568.862512,4578.098531,Own third,Left flank,Final third,Right flank,Short,4 or less,,,35,0,7,4-4-2,25,9,"49. Lewis-Skelly, 5. Partey",
+631,Arsenal - Throw ins,4568.862512,4578.098531,Own third,Left flank,Final third,Right flank,Short,4 or less,,,35,0,7,4-4-2,25,9,"49. Lewis-Skelly, 5. Partey",
+632,Ball in play,4578.088531,4582.183082,Own third,Left flank,Middle third,Left flank,Short,4 or less,,,25,9,2,5-4-1,40,63,34. Welington,Low
+633,Southampton - Possessions,4578.088531,4582.183082,Own third,Left flank,Middle third,Left flank,Short,4 or less,,,25,9,2,5-4-1,40,63,34. Welington,Low
+634,Ball in play,4582.173082,4610.414343,Middle third,Right flank,Final third,Left flank,Long,10-14,,,40,63,28,4-4-2,15,52,"5. Partey, 8. Ødegaard, 4. White, 41. Rice, 49. Lewis-Skelly, 19. Trossard, 15. Kiwior",Medium
+635,Arsenal - Possessions,4582.173082,4610.414343,Middle third,Right flank,Final third,Left flank,Long,10-14,,,40,63,28,4-4-2,15,52,"5. Partey, 8. Ødegaard, 4. White, 41. Rice, 49. Lewis-Skelly, 19. Trossard, 15. Kiwior",Medium
+636,Arsenal - Open play attacks,4582.173082,4610.414343,Middle third,Right flank,Final third,Left flank,Long,10-14,,,40,63,28,4-4-2,15,52,"5. Partey, 8. Ødegaard, 4. White, 41. Rice, 49. Lewis-Skelly, 19. Trossard, 15. Kiwior",Medium
+637,Ball in play,4610.404343,4612.127812,Own third,Right flank,Own third,Right flank,Short,4 or less,,,15,52,1,5-4-1,89,22,16. Sugawara,Low
+638,Southampton - Possessions,4610.404343,4612.127812,Own third,Right flank,Own third,Right flank,Short,4 or less,,,15,52,1,5-4-1,89,22,16. Sugawara,Low
+639,Ball in play,4612.117812,4616.73081,Final third,Left flank,Final third,Center,Short,4 or less,Shot on goal,from 0.1 to 0.35,89,22,1,4-4-2,5,32,"23. Mikel Merino, 41. Rice",High
+640,Arsenal - Possessions,4612.117812,4616.73081,Final third,Left flank,Final third,Center,Short,4 or less,Shot on goal,from 0.1 to 0.35,89,22,1,4-4-2,5,32,"23. Mikel Merino, 41. Rice",High
+641,Arsenal - Highlights,4612.117812,4616.73081,Final third,Left flank,Final third,Center,Short,4 or less,Shot on goal,from 0.1 to 0.35,89,22,1,4-4-2,5,32,"23. Mikel Merino, 41. Rice",High
+642,Arsenal - Open play attacks,4612.117812,4616.73081,Final third,Left flank,Final third,Center,Short,4 or less,Shot on goal,from 0.1 to 0.35,89,22,1,4-4-2,5,32,"23. Mikel Merino, 41. Rice",High
+643,Arsenal - Shots,4612.117812,4616.73081,Final third,Left flank,Final third,Center,Short,4 or less,Shot on goal,from 0.1 to 0.35,89,22,1,4-4-2,5,32,"23. Mikel Merino, 41. Rice",High
+644,Ball in play,4613.73081,4614.605735,Own third,Center,Own third,Center,Short,4 or less,,,5,32,0,5-4-1,100,37,30. Ramsdale,
+645,Southampton - Possessions,4613.73081,4614.605735,Own third,Center,Own third,Center,Short,4 or less,,,5,32,0,5-4-1,100,37,30. Ramsdale,
+646,Ball in play,4781.437436,4790.351841,Own third,Center,Final third,Right flank,Short,4 or less,,,6,35,7,5-4-1,84,68,"30. Ramsdale, 32. Onuachu, 21. Taylor",
+647,Southampton - Possessions,4781.437436,4790.351841,Own third,Center,Final third,Right flank,Short,4 or less,,,6,35,7,5-4-1,84,68,"30. Ramsdale, 32. Onuachu, 21. Taylor",
+648,Southampton - Goalkeeper distributions,4781.437436,4790.351841,Own third,Center,Final third,Right flank,Short,4 or less,,,6,35,7,5-4-1,84,68,"30. Ramsdale, 32. Onuachu, 21. Taylor",
+649,Ball in play,4794.665922,4845.94504,Middle third,Left flank,Final third,Center,Very long,15 or more,,,37,0,50,4-4-2,13,24,"49. Lewis-Skelly, 41. Rice, 15. Kiwior, 5. Partey, 4. White, 8. Ødegaard, 7. Saka, 29. Havertz",
+650,Arsenal - Possessions,4794.665922,4845.94504,Middle third,Left flank,Final third,Center,Very long,15 or more,,,37,0,50,4-4-2,13,24,"49. Lewis-Skelly, 41. Rice, 15. Kiwior, 5. Partey, 4. White, 8. Ødegaard, 7. Saka, 29. Havertz",
+651,Arsenal - Set Pieces,4794.665922,4845.94504,Middle third,Left flank,Final third,Center,Very long,15 or more,,,37,0,50,4-4-2,13,24,"49. Lewis-Skelly, 41. Rice, 15. Kiwior, 5. Partey, 4. White, 8. Ødegaard, 7. Saka, 29. Havertz",
+652,Arsenal - Throw ins,4794.665922,4845.94504,Middle third,Left flank,Final third,Center,Very long,15 or more,,,37,0,50,4-4-2,13,24,"49. Lewis-Skelly, 41. Rice, 15. Kiwior, 5. Partey, 4. White, 8. Ødegaard, 7. Saka, 29. Havertz",
+653,Ball in play,4845.93504,4847.768179,Own third,Center,Own third,Center,Short,4 or less,,,13,24,1,5-4-1,95,33,26. Ugochukwu,Low
+654,Southampton - Possessions,4845.93504,4847.768179,Own third,Center,Own third,Center,Short,4 or less,,,13,24,1,5-4-1,95,33,26. Ugochukwu,Low
+655,Ball in play,4847.758179,4852.71865,Final third,Center,Final third,Center,Short,4 or less,Shot,less than 0.1,95,33,2,4-4-2,9,30,19. Trossard,High
+656,Arsenal - Possessions,4847.758179,4852.71865,Final third,Center,Final third,Center,Short,4 or less,Shot,less than 0.1,95,33,2,4-4-2,9,30,19. Trossard,High
+657,Arsenal - Open play attacks,4847.758179,4852.71865,Final third,Center,Final third,Center,Short,4 or less,Shot,less than 0.1,95,33,2,4-4-2,9,30,19. Trossard,High
+658,Arsenal - Shots,4847.758179,4852.71865,Final third,Center,Final third,Center,Short,4 or less,Shot,less than 0.1,95,33,2,4-4-2,9,30,19. Trossard,High
+659,Ball in play,4849.71865,4849.922353,Own third,Center,Own third,Center,Short,4 or less,,,9,30,0,5-4-1,90,37,21. Taylor,
+660,Southampton - Possessions,4849.71865,4849.922353,Own third,Center,Own third,Center,Short,4 or less,,,9,30,0,5-4-1,90,37,21. Taylor,
+661,Ball in play,4849.912353,4850.296598,Final third,Center,Final third,Center,Short,4 or less,,,90,37,0,4-4-2,14,37,4. White,
+662,Arsenal - Possessions,4849.912353,4850.296598,Final third,Center,Final third,Center,Short,4 or less,,,90,37,0,4-4-2,14,37,4. White,
+663,Ball in play,4850.286598,4855.025721,Own third,Center,Middle third,Left flank,Short,4 or less,,,14,37,2,5-4-1,48,48,8. Smallbone,
+664,Southampton - Possessions,4850.286598,4855.025721,Own third,Center,Middle third,Left flank,Short,4 or less,,,14,37,2,5-4-1,48,48,8. Smallbone,
+665,Ball in play,4855.015721,4865.841022,Middle third,Right flank,Final third,Center,Medium,5-9,,,48,48,10,4-4-2,28,34,"22. David Raya, 5. Partey, 8. Ødegaard, 29. Havertz",Medium
+666,Arsenal - Possessions,4855.015721,4865.841022,Middle third,Right flank,Final third,Center,Medium,5-9,,,48,48,10,4-4-2,28,34,"22. David Raya, 5. Partey, 8. Ødegaard, 29. Havertz",Medium
+667,Arsenal - Open play attacks,4855.015721,4865.841022,Middle third,Right flank,Final third,Center,Medium,5-9,,,48,48,10,4-4-2,28,34,"22. David Raya, 5. Partey, 8. Ødegaard, 29. Havertz",Medium
+668,Arsenal - Goalkeeper distributions,4855.015721,4865.841022,Middle third,Right flank,Final third,Center,Medium,5-9,,,48,48,10,4-4-2,28,34,"22. David Raya, 5. Partey, 8. Ødegaard, 29. Havertz",Medium
+669,Ball in play,4865.831022,4866.764917,Own third,Center,Own third,Center,Short,4 or less,,,28,34,0,5-4-1,81,39,32. Onuachu,
+670,Southampton - Possessions,4865.831022,4866.764917,Own third,Center,Own third,Center,Short,4 or less,,,28,34,0,5-4-1,81,39,32. Onuachu,
+671,Ball in play,4866.754917,4867.666077,Final third,Center,Final third,Center,Short,4 or less,,,81,39,0,4-4-2,15,39,41. Rice,High
+672,Arsenal - Possessions,4866.754917,4867.666077,Final third,Center,Final third,Center,Short,4 or less,,,81,39,0,4-4-2,15,39,41. Rice,High
+673,Ball in play,4867.656077,4870.539553,Own third,Center,Middle third,Left flank,Short,4 or less,,,15,39,2,5-4-1,69,56,"15. Wood, 19. Archer",Low
+674,Southampton - Possessions,4867.656077,4870.539553,Own third,Center,Middle third,Left flank,Short,4 or less,,,15,39,2,5-4-1,69,56,"15. Wood, 19. Archer",Low
+675,Ball in play,4870.529553,4875.352273,Middle third,Right flank,Middle third,Right flank,Short,4 or less,,,69,56,3,4-4-2,38,0,"5. Partey, 4. White",
+676,Arsenal - Possessions,4870.529553,4875.352273,Middle third,Right flank,Middle third,Right flank,Short,4 or less,,,69,56,3,4-4-2,38,0,"5. Partey, 4. White",
+677,Ball in play,4902.865069,4912.490495,Own third,Left flank,Middle third,Left flank,Short,5-9,,,32,0,6,5-4-1,54,0,"34. Welington, 32. Onuachu",
+678,Southampton - Possessions,4902.865069,4912.490495,Own third,Left flank,Middle third,Left flank,Short,5-9,,,32,0,6,5-4-1,54,0,"34. Welington, 32. Onuachu",
+679,Southampton - Set Pieces,4902.865069,4912.490495,Own third,Left flank,Middle third,Left flank,Short,5-9,,,32,0,6,5-4-1,54,0,"34. Welington, 32. Onuachu",
+680,Southampton - Throw ins,4902.865069,4912.490495,Own third,Left flank,Middle third,Left flank,Short,5-9,,,32,0,6,5-4-1,54,0,"34. Welington, 32. Onuachu",
+681,Ball in play,4925.959067,4928.205306,Middle third,Left flank,Final third,Left flank,Short,4 or less,,,57,0,1,5-4-1,30,56,34. Welington,
+682,Southampton - Possessions,4925.959067,4928.205306,Middle third,Left flank,Final third,Left flank,Short,4 or less,,,57,0,1,5-4-1,30,56,34. Welington,
+683,Southampton - Set Pieces,4925.959067,4928.205306,Middle third,Left flank,Final third,Left flank,Short,4 or less,,,57,0,1,5-4-1,30,56,34. Welington,
+684,Southampton - Throw ins,4925.959067,4928.205306,Middle third,Left flank,Final third,Left flank,Short,4 or less,,,57,0,1,5-4-1,30,56,34. Welington,
+685,Ball in play,4928.195306,4950.005369,Own third,Right flank,Final third,Right flank,Long,5-9,,,30,56,22,4-4-2,24,18,"41. Rice, 23. Mikel Merino, 19. Trossard, 49. Lewis-Skelly, 7. Saka, 4. White",Low
+686,Arsenal - Possessions,4928.195306,4950.005369,Own third,Right flank,Final third,Right flank,Long,5-9,,,30,56,22,4-4-2,24,18,"41. Rice, 23. Mikel Merino, 19. Trossard, 49. Lewis-Skelly, 7. Saka, 4. White",Low
+687,Arsenal - Open play attacks,4928.195306,4950.005369,Own third,Right flank,Final third,Right flank,Long,5-9,,,30,56,22,4-4-2,24,18,"41. Rice, 23. Mikel Merino, 19. Trossard, 49. Lewis-Skelly, 7. Saka, 4. White",Low
+688,Arsenal - Crosses,4928.195306,4950.005369,Own third,Right flank,Final third,Right flank,Long,5-9,,,30,56,22,4-4-2,24,18,"41. Rice, 23. Mikel Merino, 19. Trossard, 49. Lewis-Skelly, 7. Saka, 4. White",Low
+689,Ball in play,4949.995369,4954.893973,Own third,Left flank,Own third,Left flank,Short,4 or less,,,24,18,4,5-4-1,78,58,"19. Archer, 26. Ugochukwu",
+690,Southampton - Possessions,4949.995369,4954.893973,Own third,Left flank,Own third,Left flank,Short,4 or less,,,24,18,4,5-4-1,78,58,"19. Archer, 26. Ugochukwu",
+691,Ball in play,4954.883973,4955.410976,Final third,Right flank,Final third,Right flank,Short,4 or less,,,78,58,0,4-4-2,16,11,4. White,High
+692,Arsenal - Possessions,4954.883973,4955.410976,Final third,Right flank,Final third,Right flank,Short,4 or less,,,78,58,0,4-4-2,16,11,4. White,High
+693,Ball in play,4955.400976,4962.49733,Own third,Left flank,Own third,Left flank,Short,5-9,,,16,11,6,5-4-1,19,0,"34. Welington, 19. Archer",
+694,Southampton - Possessions,4955.400976,4962.49733,Own third,Left flank,Own third,Left flank,Short,5-9,,,16,11,6,5-4-1,19,0,"34. Welington, 19. Archer",
+695,Ball in play,5007.367571,5016.560225,Own third,Left flank,Middle third,Right flank,Short,4 or less,,,29,0,6,5-4-1,48,12,"34. Welington, 32. Onuachu, 8. Smallbone",
+696,Southampton - Possessions,5007.367571,5016.560225,Own third,Left flank,Middle third,Right flank,Short,4 or less,,,29,0,6,5-4-1,48,12,"34. Welington, 32. Onuachu, 8. Smallbone",
+697,Southampton - Set Pieces,5007.367571,5016.560225,Own third,Left flank,Middle third,Right flank,Short,4 or less,,,29,0,6,5-4-1,48,12,"34. Welington, 32. Onuachu, 8. Smallbone",
+698,Southampton - Throw ins,5007.367571,5016.560225,Own third,Left flank,Middle third,Right flank,Short,4 or less,,,29,0,6,5-4-1,48,12,"34. Welington, 32. Onuachu, 8. Smallbone",
+699,Ball in play,5016.550225,5051.552151,Middle third,Left flank,Final third,Center,Long,10-14,,,48,12,35,4-4-2,9,27,"49. Lewis-Skelly, 19. Trossard, 15. Kiwior, 5. Partey, 4. White, 29. Havertz",Medium
+700,Arsenal - Possessions,5016.550225,5051.552151,Middle third,Left flank,Final third,Center,Long,10-14,,,48,12,35,4-4-2,9,27,"49. Lewis-Skelly, 19. Trossard, 15. Kiwior, 5. Partey, 4. White, 29. Havertz",Medium
+701,Arsenal - Open play attacks,5016.550225,5051.552151,Middle third,Left flank,Final third,Center,Long,10-14,,,48,12,35,4-4-2,9,27,"49. Lewis-Skelly, 19. Trossard, 15. Kiwior, 5. Partey, 4. White, 29. Havertz",Medium
+702,Arsenal - Crosses,5016.550225,5051.552151,Middle third,Left flank,Final third,Center,Long,10-14,,,48,12,35,4-4-2,9,27,"49. Lewis-Skelly, 19. Trossard, 15. Kiwior, 5. Partey, 4. White, 29. Havertz",Medium
+703,Ball in play,5051.542151,5057.398233,Own third,Center,Own third,Center,Short,4 or less,,,9,27,5,5-4-1,76,25,"34. Welington, 26. Ugochukwu",Low
+704,Southampton - Possessions,5051.542151,5057.398233,Own third,Center,Own third,Center,Short,4 or less,,,9,27,5,5-4-1,76,25,"34. Welington, 26. Ugochukwu",Low
+705,Ball in play,5057.388233,5085.058737,Final third,Center,Final third,Center,Long,5-9,,,76,25,27,4-4-2,9,44,"5. Partey, 15. Kiwior, 19. Trossard, 8. Ødegaard, 7. Saka, 4. White",High
+706,Arsenal - Possessions,5057.388233,5085.058737,Final third,Center,Final third,Center,Long,5-9,,,76,25,27,4-4-2,9,44,"5. Partey, 15. Kiwior, 19. Trossard, 8. Ødegaard, 7. Saka, 4. White",High
+707,Arsenal - Open play attacks,5057.388233,5085.058737,Final third,Center,Final third,Center,Long,5-9,,,76,25,27,4-4-2,9,44,"5. Partey, 15. Kiwior, 19. Trossard, 8. Ødegaard, 7. Saka, 4. White",High
+708,Arsenal - Crosses,5057.388233,5085.058737,Final third,Center,Final third,Center,Long,5-9,,,76,25,27,4-4-2,9,44,"5. Partey, 15. Kiwior, 19. Trossard, 8. Ødegaard, 7. Saka, 4. White",High
+709,Ball in play,5085.048737,5099.999547,Own third,Center,Middle third,Left flank,Medium,4 or less,,,9,44,10,5-4-1,36,60,"16. Sugawara, 32. Onuachu, 21. Taylor",Low
+710,Southampton - Possessions,5085.048737,5099.999547,Own third,Center,Middle third,Left flank,Medium,4 or less,,,9,44,10,5-4-1,36,60,"16. Sugawara, 32. Onuachu, 21. Taylor",Low
+711,Ball in play,5099.989547,5114.224779,Middle third,Right flank,Final third,Right flank,Medium,4 or less,,,36,60,13,4-4-2,7,13,"22. David Raya, 8. Ødegaard, 4. White",Medium
+712,Arsenal - Possessions,5099.989547,5114.224779,Middle third,Right flank,Final third,Right flank,Medium,4 or less,,,36,60,13,4-4-2,7,13,"22. David Raya, 8. Ødegaard, 4. White",Medium
+713,Arsenal - Open play attacks,5099.989547,5114.224779,Middle third,Right flank,Final third,Right flank,Medium,4 or less,,,36,60,13,4-4-2,7,13,"22. David Raya, 8. Ødegaard, 4. White",Medium
+714,Arsenal - Goalkeeper distributions,5099.989547,5114.224779,Middle third,Right flank,Final third,Right flank,Medium,4 or less,,,36,60,13,4-4-2,7,13,"22. David Raya, 8. Ødegaard, 4. White",Medium
+715,Ball in play,5114.214779,5117.882107,Own third,Left flank,Own third,Left flank,Short,4 or less,,,7,13,2,5-4-1,6,0,34. Welington,
+716,Southampton - Possessions,5114.214779,5117.882107,Own third,Left flank,Own third,Left flank,Short,4 or less,,,7,13,2,5-4-1,6,0,34. Welington,
+717,Ball in play,5119.801452,5141.945089,Final third,Right flank,Final third,Center,Long,5-9,,,101,68,21,4-4-2,8,32,"4. White, 8. Ødegaard, 15. Kiwior, 5. Partey, 7. Saka",
+718,Arsenal - Possessions,5119.801452,5141.945089,Final third,Right flank,Final third,Center,Long,5-9,,,101,68,21,4-4-2,8,32,"4. White, 8. Ødegaard, 15. Kiwior, 5. Partey, 7. Saka",
+719,Arsenal - Set Pieces,5119.801452,5141.945089,Final third,Right flank,Final third,Center,Long,5-9,,,101,68,21,4-4-2,8,32,"4. White, 8. Ødegaard, 15. Kiwior, 5. Partey, 7. Saka",
+720,Arsenal - Crosses,5119.801452,5141.945089,Final third,Right flank,Final third,Center,Long,5-9,,,101,68,21,4-4-2,8,32,"4. White, 8. Ødegaard, 15. Kiwior, 5. Partey, 7. Saka",
+721,Arsenal - Throw ins,5119.801452,5141.945089,Final third,Right flank,Final third,Center,Long,5-9,,,101,68,21,4-4-2,8,32,"4. White, 8. Ødegaard, 15. Kiwior, 5. Partey, 7. Saka",
+722,Ball in play,5141.935089,5144.325464,Own third,Center,Own third,Center,Short,4 or less,,,8,32,1,5-4-1,72,31,21. Taylor,Low
+723,Southampton - Possessions,5141.935089,5144.325464,Own third,Center,Own third,Center,Short,4 or less,,,8,32,1,5-4-1,72,31,21. Taylor,Low
+724,Ball in play,5144.315464,5149.762846,Final third,Center,Final third,Right flank,Short,4 or less,,,72,31,5,4-4-2,30,22,"15. Kiwior, 7. Saka, 41. Rice",High
+725,Arsenal - Possessions,5144.315464,5149.762846,Final third,Center,Final third,Right flank,Short,4 or less,,,72,31,5,4-4-2,30,22,"15. Kiwior, 7. Saka, 41. Rice",High
+726,Arsenal - Open play attacks,5144.315464,5149.762846,Final third,Center,Final third,Right flank,Short,4 or less,,,72,31,5,4-4-2,30,22,"15. Kiwior, 7. Saka, 41. Rice",High
+727,Ball in play,5149.752846,5154.072246,Own third,Left flank,Own third,Left flank,Short,4 or less,,,30,22,2,5-4-1,23,0,8. Smallbone,
+728,Southampton - Possessions,5149.752846,5154.072246,Own third,Left flank,Own third,Left flank,Short,4 or less,,,30,22,2,5-4-1,23,0,8. Smallbone,
+729,Ball in play,5208.047421,5245.070954,Final third,Right flank,Final third,Center,Long,10-14,,,83,68,35,4-4-2,8,31,"4. White, 5. Partey, 8. Ødegaard, 15. Kiwior, 49. Lewis-Skelly, 19. Trossard, 7. Saka, 29. Havertz",
+730,Arsenal - Possessions,5208.047421,5245.070954,Final third,Right flank,Final third,Center,Long,10-14,,,83,68,35,4-4-2,8,31,"4. White, 5. Partey, 8. Ødegaard, 15. Kiwior, 49. Lewis-Skelly, 19. Trossard, 7. Saka, 29. Havertz",
+731,Arsenal - Set Pieces,5208.047421,5245.070954,Final third,Right flank,Final third,Center,Long,10-14,,,83,68,35,4-4-2,8,31,"4. White, 5. Partey, 8. Ødegaard, 15. Kiwior, 49. Lewis-Skelly, 19. Trossard, 7. Saka, 29. Havertz",
+732,Arsenal - Crosses,5208.047421,5245.070954,Final third,Right flank,Final third,Center,Long,10-14,,,83,68,35,4-4-2,8,31,"4. White, 5. Partey, 8. Ødegaard, 15. Kiwior, 49. Lewis-Skelly, 19. Trossard, 7. Saka, 29. Havertz",
+733,Arsenal - Throw ins,5208.047421,5245.070954,Final third,Right flank,Final third,Center,Long,10-14,,,83,68,35,4-4-2,8,31,"4. White, 5. Partey, 8. Ødegaard, 15. Kiwior, 49. Lewis-Skelly, 19. Trossard, 7. Saka, 29. Havertz",
+734,Ball in play,5245.060954,5271.491649,Own third,Center,Final third,Center,Medium,4 or less,,,8,31,14,5-4-1,30,33,"21. Taylor, 30. Ramsdale",
+735,Southampton - Possessions,5245.060954,5271.491649,Own third,Center,Final third,Center,Medium,4 or less,,,8,31,14,5-4-1,30,33,"21. Taylor, 30. Ramsdale",
+736,Ball in play,5271.481649,5281.440495,Own third,Center,Own third,Right flank,Short,4 or less,,,30,33,9,4-4-2,90,0,"49. Lewis-Skelly, 41. Rice, 22. David Raya",
+737,Arsenal - Possessions,5271.481649,5281.440495,Own third,Center,Own third,Right flank,Short,4 or less,,,30,33,9,4-4-2,90,0,"49. Lewis-Skelly, 41. Rice, 22. David Raya",
+738,Ball in play,5316.717549,5319.249937,Final third,Left flank,Final third,Center,Short,4 or less,,,90,0,1,5-4-1,12,45,"34. Welington, 32. Onuachu",
+739,Southampton - Possessions,5316.717549,5319.249937,Final third,Left flank,Final third,Center,Short,4 or less,,,90,0,1,5-4-1,12,45,"34. Welington, 32. Onuachu",
+740,Southampton - Set Pieces,5316.717549,5319.249937,Final third,Left flank,Final third,Center,Short,4 or less,,,90,0,1,5-4-1,12,45,"34. Welington, 32. Onuachu",
+741,Southampton - Throw ins,5316.717549,5319.249937,Final third,Left flank,Final third,Center,Short,4 or less,,,90,0,1,5-4-1,12,45,"34. Welington, 32. Onuachu",
+742,Ball in play,5319.239937,5328.030503,Own third,Center,Middle third,Center,Short,5-9,,,12,45,8,4-4-2,56,24,"41. Rice, 4. White, 7. Saka, 8. Ødegaard, 5. Partey, 29. Havertz",Low
+743,Arsenal - Possessions,5319.239937,5328.030503,Own third,Center,Middle third,Center,Short,5-9,,,12,45,8,4-4-2,56,24,"41. Rice, 4. White, 7. Saka, 8. Ødegaard, 5. Partey, 29. Havertz",Low
+744,Ball in play,5328.020503,5337.623844,Middle third,Center,Middle third,Left flank,Short,4 or less,,,56,24,8,5-4-1,36,56,"21. Taylor, 30. Ramsdale",Medium
+745,Southampton - Possessions,5328.020503,5337.623844,Middle third,Center,Middle third,Left flank,Short,4 or less,,,56,24,8,5-4-1,36,56,"21. Taylor, 30. Ramsdale",Medium
+746,Ball in play,5337.613844,5344.109459,Middle third,Right flank,Final third,Right flank,Short,4 or less,,,36,56,5,4-4-2,18,14,"7. Saka, 8. Ødegaard",Medium
+747,Arsenal - Possessions,5337.613844,5344.109459,Middle third,Right flank,Final third,Right flank,Short,4 or less,,,36,56,5,4-4-2,18,14,"7. Saka, 8. Ødegaard",Medium
+748,Ball in play,5344.099459,5349.6696,Own third,Left flank,Own third,Left flank,Short,4 or less,,,18,14,4,5-4-1,71,54,21. Taylor,Low
+749,Southampton - Possessions,5344.099459,5349.6696,Own third,Left flank,Own third,Left flank,Short,4 or less,,,18,14,4,5-4-1,71,54,21. Taylor,Low
+750,Ball in play,5349.6596,5352.142085,Final third,Right flank,Middle third,Right flank,Short,4 or less,,,71,54,2,4-4-2,36,18,"41. Rice, 7. Saka",High
+751,Arsenal - Possessions,5349.6596,5352.142085,Final third,Right flank,Middle third,Right flank,Short,4 or less,,,71,54,2,4-4-2,36,18,"41. Rice, 7. Saka",High
+752,Arsenal - Open play attacks,5349.6596,5352.142085,Final third,Right flank,Middle third,Right flank,Short,4 or less,,,71,54,2,4-4-2,36,18,"41. Rice, 7. Saka",High
+753,Ball in play,5352.132085,5372.418027,Middle third,Left flank,Final third,Right flank,Long,10-14,,,36,18,20,5-4-1,32,16,"19. Archer, 32. Onuachu, 8. Smallbone, 15. Wood, 16. Sugawara, 39. Sanda, 21. Taylor, 30. Ramsdale",Medium
+754,Southampton - Possessions,5352.132085,5372.418027,Middle third,Left flank,Final third,Right flank,Long,10-14,,,36,18,20,5-4-1,32,16,"19. Archer, 32. Onuachu, 8. Smallbone, 15. Wood, 16. Sugawara, 39. Sanda, 21. Taylor, 30. Ramsdale",Medium
+755,Ball in play,5372.408027,5376.717765,Own third,Left flank,Own third,Left flank,Short,4 or less,,,32,16,4,4-4-2,75,56,"15. Kiwior, 49. Lewis-Skelly",
+756,Arsenal - Possessions,5372.408027,5376.717765,Own third,Left flank,Own third,Left flank,Short,4 or less,,,32,16,4,4-4-2,75,56,"15. Kiwior, 49. Lewis-Skelly",
+757,Ball in play,5376.707765,5377.162423,Final third,Right flank,Final third,Right flank,Short,4 or less,,,75,56,0,5-4-1,32,3,32. Onuachu,High
+758,Southampton - Possessions,5376.707765,5377.162423,Final third,Right flank,Final third,Right flank,Short,4 or less,,,75,56,0,5-4-1,32,3,32. Onuachu,High
+759,Ball in play,5377.152423,5378.558982,Own third,Left flank,Own third,Left flank,Short,4 or less,,,32,3,1,4-4-2,76,52,49. Lewis-Skelly,
+760,Arsenal - Possessions,5377.152423,5378.558982,Own third,Left flank,Own third,Left flank,Short,4 or less,,,32,3,1,4-4-2,76,52,49. Lewis-Skelly,
+761,Ball in play,5378.548982,5382.133123,Final third,Right flank,Final third,Right flank,Short,4 or less,,,76,52,3,5-4-1,19,20,"18. Mateus Fernandes, 4. Downes",High
+762,Southampton - Possessions,5378.548982,5382.133123,Final third,Right flank,Final third,Right flank,Short,4 or less,,,76,52,3,5-4-1,19,20,"18. Mateus Fernandes, 4. Downes",High
+763,Southampton - Open play attacks,5378.548982,5382.133123,Final third,Right flank,Final third,Right flank,Short,4 or less,,,76,52,3,5-4-1,19,20,"18. Mateus Fernandes, 4. Downes",High
+764,Ball in play,5382.123123,5390.50181,Own third,Left flank,Own third,Left flank,Short,4 or less,,,19,20,6,4-4-2,95,58,"5. Partey, 23. Mikel Merino",
+765,Arsenal - Possessions,5382.123123,5390.50181,Own third,Left flank,Own third,Left flank,Short,4 or less,,,19,20,6,4-4-2,95,58,"5. Partey, 23. Mikel Merino",
+766,Ball in play,5395.847706,5414.083552,Own third,Left flank,Final third,Center,Medium,5-9,Goal,less than 0.1,13,11,15,4-4-2,80,31,"8. Ødegaard, 19. Trossard",
+767,Arsenal - Possessions,5395.847706,5414.083552,Own third,Left flank,Final third,Center,Medium,5-9,Goal,less than 0.1,13,11,15,4-4-2,80,31,"8. Ødegaard, 19. Trossard",
+768,Arsenal - Highlights,5395.847706,5414.083552,Own third,Left flank,Final third,Center,Medium,5-9,Goal,less than 0.1,13,11,15,4-4-2,80,31,"8. Ødegaard, 19. Trossard",
+769,Arsenal - Open play attacks,5395.847706,5414.083552,Own third,Left flank,Final third,Center,Medium,5-9,Goal,less than 0.1,13,11,15,4-4-2,80,31,"8. Ødegaard, 19. Trossard",
+770,Arsenal - Goals,5395.847706,5414.083552,Own third,Left flank,Final third,Center,Medium,5-9,Goal,less than 0.1,13,11,15,4-4-2,80,31,"8. Ødegaard, 19. Trossard",
+771,Arsenal - Shots,5395.847706,5414.083552,Own third,Left flank,Final third,Center,Medium,5-9,Goal,less than 0.1,13,11,15,4-4-2,80,31,"8. Ødegaard, 19. Trossard",
+772,Ball in play,5483.672062,5491.019823,Middle third,Center,Final third,Left flank,Short,4 or less,,,54,35,7,5-4-1,19,46,"30. Ramsdale, 32. Onuachu",
+773,Southampton - Possessions,5483.672062,5491.019823,Middle third,Center,Final third,Left flank,Short,4 or less,,,54,35,7,5-4-1,19,46,"30. Ramsdale, 32. Onuachu",
+774,Ball in play,5491.009823,5493.334354,Own third,Right flank,Middle third,Right flank,Short,4 or less,,,19,46,1,4-4-2,69,21,5. Partey,
+775,Arsenal - Possessions,5491.009823,5493.334354,Own third,Right flank,Middle third,Right flank,Short,4 or less,,,19,46,1,4-4-2,69,21,5. Partey,
+776,Ball in play,5493.324354,5496.647527,Middle third,Left flank,Final third,Center,Short,4 or less,,,69,21,3,5-4-1,19,40,"4. Downes, 19. Archer",High
+777,Southampton - Possessions,5493.324354,5496.647527,Middle third,Left flank,Final third,Center,Short,4 or less,,,69,21,3,5-4-1,19,40,"4. Downes, 19. Archer",High
+778,Southampton - Open play attacks,5493.324354,5496.647527,Middle third,Left flank,Final third,Center,Short,4 or less,,,69,21,3,5-4-1,19,40,"4. Downes, 19. Archer",High
+779,Ball in play,5496.637527,5500.25941,Own third,Center,Own third,Center,Short,4 or less,,,19,40,2,4-4-2,78,34,15. Kiwior,Low
+780,Arsenal - Possessions,5496.637527,5500.25941,Own third,Center,Own third,Center,Short,4 or less,,,19,40,2,4-4-2,78,34,15. Kiwior,Low
+781,Ball in play,5500.24941,5502.541951,Final third,Center,Final third,Center,Short,4 or less,,,78,34,2,5-4-1,15,35,"18. Mateus Fernandes, 19. Archer, 8. Smallbone",High
+782,Southampton - Possessions,5500.24941,5502.541951,Final third,Center,Final third,Center,Short,4 or less,,,78,34,2,5-4-1,15,35,"18. Mateus Fernandes, 19. Archer, 8. Smallbone",High
+783,Southampton - Open play attacks,5500.24941,5502.541951,Final third,Center,Final third,Center,Short,4 or less,,,78,34,2,5-4-1,15,35,"18. Mateus Fernandes, 19. Archer, 8. Smallbone",High
+784,Ball in play,5502.531951,5505.282093,Own third,Center,Middle third,Right flank,Short,4 or less,,,15,35,1,4-4-2,56,20,15. Kiwior,Low
+785,Arsenal - Possessions,5502.531951,5505.282093,Own third,Center,Middle third,Right flank,Short,4 or less,,,15,35,1,4-4-2,56,20,15. Kiwior,Low
+786,Ball in play,5505.272093,5517.392958,Middle third,Left flank,Final third,Center,Medium,5-9,,,56,20,11,5-4-1,100,28,"21. Taylor, 4. Downes, 39. Sanda, 16. Sugawara, 32. Onuachu",
+787,Southampton - Possessions,5505.272093,5517.392958,Middle third,Left flank,Final third,Center,Medium,5-9,,,56,20,11,5-4-1,100,28,"21. Taylor, 4. Downes, 39. Sanda, 16. Sugawara, 32. Onuachu",
+788,Southampton - Crosses,5505.272093,5517.392958,Middle third,Left flank,Final third,Center,Medium,5-9,,,56,20,11,5-4-1,100,28,"21. Taylor, 4. Downes, 39. Sanda, 16. Sugawara, 32. Onuachu",
+789,Ball in play,5553.607101,5555.266452,Own third,Center,Middle third,Right flank,Short,4 or less,,,4,39,2,4-4-2,41,14,,
+790,Arsenal - Possessions,5553.607101,5555.266452,Own third,Center,Middle third,Right flank,Short,4 or less,,,4,39,2,4-4-2,41,14,,
+791,Ball in play,5555.256452,5559.419741,Middle third,Left flank,Middle third,Left flank,Short,4 or less,,,41,14,2,5-4-1,39,0,34. Welington,
+792,Southampton - Possessions,5555.256452,5559.419741,Middle third,Left flank,Middle third,Left flank,Short,4 or less,,,41,14,2,5-4-1,39,0,34. Welington,
+793,Ball in play,5570.641917,5573.386427,Middle third,Right flank,Final third,Right flank,Short,4 or less,,,65,68,1,4-4-2,17,11,4. White,
+794,Arsenal - Possessions,5570.641917,5573.386427,Middle third,Right flank,Final third,Right flank,Short,4 or less,,,65,68,1,4-4-2,17,11,4. White,
+795,Arsenal - Set Pieces,5570.641917,5573.386427,Middle third,Right flank,Final third,Right flank,Short,4 or less,,,65,68,1,4-4-2,17,11,4. White,
+796,Arsenal - Throw ins,5570.641917,5573.386427,Middle third,Right flank,Final third,Right flank,Short,4 or less,,,65,68,1,4-4-2,17,11,4. White,
+797,Ball in play,5573.376427,5576.584971,Own third,Left flank,Own third,Left flank,Short,4 or less,,,17,11,2,5-4-1,86,57,"15. Wood, 19. Archer",Low
+798,Southampton - Possessions,5573.376427,5576.584971,Own third,Left flank,Own third,Left flank,Short,4 or less,,,17,11,2,5-4-1,86,57,"15. Wood, 19. Archer",Low
+799,Ball in play,5576.574971,5577.600369,Final third,Right flank,Final third,Center,Short,4 or less,,,86,57,1,4-4-2,25,24,29. Havertz,High
+800,Arsenal - Possessions,5576.574971,5577.600369,Final third,Right flank,Final third,Center,Short,4 or less,,,86,57,1,4-4-2,25,24,29. Havertz,High
+801,Arsenal - Open play attacks,5576.574971,5577.600369,Final third,Right flank,Final third,Center,Short,4 or less,,,86,57,1,4-4-2,25,24,29. Havertz,High
+802,Ball in play,5577.590369,5584.331693,Own third,Center,Middle third,Left flank,Short,4 or less,,,25,24,6,5-4-1,66,50,"34. Welington, 16. Sugawara, 19. Archer, 8. Smallbone",Low
+803,Southampton - Possessions,5577.590369,5584.331693,Own third,Center,Middle third,Left flank,Short,4 or less,,,25,24,6,5-4-1,66,50,"34. Welington, 16. Sugawara, 19. Archer, 8. Smallbone",Low
+804,Ball in play,5584.321693,5589.906855,Middle third,Right flank,Final third,Center,Short,4 or less,,,66,50,5,4-4-2,5,27,"41. Rice, 29. Havertz, 7. Saka",Medium
+805,Arsenal - Possessions,5584.321693,5589.906855,Middle third,Right flank,Final third,Center,Short,4 or less,,,66,50,5,4-4-2,5,27,"41. Rice, 29. Havertz, 7. Saka",Medium
+806,Arsenal - Open play attacks,5584.321693,5589.906855,Middle third,Right flank,Final third,Center,Short,4 or less,,,66,50,5,4-4-2,5,27,"41. Rice, 29. Havertz, 7. Saka",Medium
+807,Arsenal - Crosses,5584.321693,5589.906855,Middle third,Right flank,Final third,Center,Short,4 or less,,,66,50,5,4-4-2,5,27,"41. Rice, 29. Havertz, 7. Saka",Medium
+808,Ball in play,5589.896855,5591.429128,Own third,Center,Own third,Center,Short,4 or less,,,5,27,1,5-4-1,99,35,21. Taylor,
+809,Southampton - Possessions,5589.896855,5591.429128,Own third,Center,Own third,Center,Short,4 or less,,,5,27,1,5-4-1,99,35,21. Taylor,
+810,Ball in play,5591.419128,5597.849631,Final third,Center,Final third,Center,Short,4 or less,Shot,less than 0.1,99,35,3,4-4-2,3,52,29. Havertz,
+811,Arsenal - Possessions,5591.419128,5597.849631,Final third,Center,Final third,Center,Short,4 or less,Shot,less than 0.1,99,35,3,4-4-2,3,52,29. Havertz,
+812,Arsenal - Highlights,5591.419128,5597.849631,Final third,Center,Final third,Center,Short,4 or less,Shot,less than 0.1,99,35,3,4-4-2,3,52,29. Havertz,
+813,Arsenal - Open play attacks,5591.419128,5597.849631,Final third,Center,Final third,Center,Short,4 or less,Shot,less than 0.1,99,35,3,4-4-2,3,52,29. Havertz,
+814,Arsenal - Shots,5591.419128,5597.849631,Final third,Center,Final third,Center,Short,4 or less,Shot,less than 0.1,99,35,3,4-4-2,3,52,29. Havertz,
+815,Ball in play,5594.849631,5617.287642,Own third,Right flank,Middle third,Right flank,Medium,4 or less,,,3,52,19,5-4-1,38,10,30. Ramsdale,
+816,Southampton - Possessions,5594.849631,5617.287642,Own third,Right flank,Middle third,Right flank,Medium,4 or less,,,3,52,19,5-4-1,38,10,30. Ramsdale,
+817,Southampton - Goalkeeper distributions,5594.849631,5617.287642,Own third,Right flank,Middle third,Right flank,Medium,4 or less,,,3,52,19,5-4-1,38,10,30. Ramsdale,
+818,Ball in play,5617.277642,5623.257051,Middle third,Left flank,Middle third,Left flank,Short,4 or less,,,38,10,3,4-4-2,63,56,49. Lewis-Skelly,
+819,Arsenal - Possessions,5617.277642,5623.257051,Middle third,Left flank,Middle third,Left flank,Short,4 or less,,,38,10,3,4-4-2,63,56,49. Lewis-Skelly,
+820,Ball in play,5755.36298,5760.858729,Middle third,Left flank,Final third,Left flank,Short,4 or less,,,42,12,4,4-4-2,22,68,"22. David Raya, 29. Havertz",
+821,Arsenal - Possessions,5755.36298,5760.858729,Middle third,Left flank,Final third,Left flank,Short,4 or less,,,42,12,4,4-4-2,22,68,"22. David Raya, 29. Havertz",
+822,Arsenal - Goalkeeper distributions,5755.36298,5760.858729,Middle third,Left flank,Final third,Left flank,Short,4 or less,,,42,12,4,4-4-2,22,68,"22. David Raya, 29. Havertz",
+823,Ball in play,5794.311245,5805.071232,Own third,Right flank,Middle third,Right flank,Short,5-9,,,26,68,8,5-4-1,63,68,"16. Sugawara, 32. Onuachu, 19. Archer",
+824,Southampton - Possessions,5794.311245,5805.071232,Own third,Right flank,Middle third,Right flank,Short,5-9,,,26,68,8,5-4-1,63,68,"16. Sugawara, 32. Onuachu, 19. Archer",
+825,Southampton - Set Pieces,5794.311245,5805.071232,Own third,Right flank,Middle third,Right flank,Short,5-9,,,26,68,8,5-4-1,63,68,"16. Sugawara, 32. Onuachu, 19. Archer",
+826,Southampton - Throw ins,5794.311245,5805.071232,Own third,Right flank,Middle third,Right flank,Short,5-9,,,26,68,8,5-4-1,63,68,"16. Sugawara, 32. Onuachu, 19. Archer",
+827,Ball in play,5824.595545,5828.084138,Middle third,Left flank,Middle third,Left flank,Short,4 or less,,,47,0,2,4-4-2,38,48,"49. Lewis-Skelly, 29. Havertz",
+828,Arsenal - Possessions,5824.595545,5828.084138,Middle third,Left flank,Middle third,Left flank,Short,4 or less,,,47,0,2,4-4-2,38,48,"49. Lewis-Skelly, 29. Havertz",
+829,Arsenal - Set Pieces,5824.595545,5828.084138,Middle third,Left flank,Middle third,Left flank,Short,4 or less,,,47,0,2,4-4-2,38,48,"49. Lewis-Skelly, 29. Havertz",
+830,Arsenal - Throw ins,5824.595545,5828.084138,Middle third,Left flank,Middle third,Left flank,Short,4 or less,,,47,0,2,4-4-2,38,48,"49. Lewis-Skelly, 29. Havertz",
+831,Ball in play,5828.074138,5832.377579,Middle third,Right flank,Own third,Right flank,Short,4 or less,,,38,48,2,5-4-1,76,22,16. Sugawara,
+832,Southampton - Possessions,5828.074138,5832.377579,Middle third,Right flank,Own third,Right flank,Short,4 or less,,,38,48,2,5-4-1,76,22,16. Sugawara,
+833,Ball in play,5832.367579,5871.832314,Final third,Left flank,Final third,Center,Long,10-14,,,76,22,37,4-4-2,26,45,"8. Ødegaard, 7. Saka, 4. White, 5. Partey, 41. Rice, 22. David Raya, 49. Lewis-Skelly",High
+834,Arsenal - Possessions,5832.367579,5871.832314,Final third,Left flank,Final third,Center,Long,10-14,,,76,22,37,4-4-2,26,45,"8. Ødegaard, 7. Saka, 4. White, 5. Partey, 41. Rice, 22. David Raya, 49. Lewis-Skelly",High
+835,Arsenal - Open play attacks,5832.367579,5871.832314,Final third,Left flank,Final third,Center,Long,10-14,,,76,22,37,4-4-2,26,45,"8. Ødegaard, 7. Saka, 4. White, 5. Partey, 41. Rice, 22. David Raya, 49. Lewis-Skelly",High
+836,Ball in play,5871.822314,5917.246055,Own third,Center,Final third,Center,Long,15 or more,,,26,45,44,5-4-1,3,28,"30. Ramsdale, 39. Sanda, 15. Wood, 4. Downes, 21. Taylor, 16. Sugawara, 8. Smallbone",Low
+837,Southampton - Possessions,5871.822314,5917.246055,Own third,Center,Final third,Center,Long,15 or more,,,26,45,44,5-4-1,3,28,"30. Ramsdale, 39. Sanda, 15. Wood, 4. Downes, 21. Taylor, 16. Sugawara, 8. Smallbone",Low
+838,Southampton - Open play attacks,5871.822314,5917.246055,Own third,Center,Final third,Center,Long,15 or more,,,26,45,44,5-4-1,3,28,"30. Ramsdale, 39. Sanda, 15. Wood, 4. Downes, 21. Taylor, 16. Sugawara, 8. Smallbone",Low
+839,Southampton - Goalkeeper distributions,5871.822314,5917.246055,Own third,Center,Final third,Center,Long,15 or more,,,26,45,44,5-4-1,3,28,"30. Ramsdale, 39. Sanda, 15. Wood, 4. Downes, 21. Taylor, 16. Sugawara, 8. Smallbone",Low
+840,Ball in play,5917.236055,5937.811116,Own third,Center,Middle third,Left flank,Medium,4 or less,,,3,28,18,4-4-2,42,56,"22. David Raya, 49. Lewis-Skelly",
+841,Arsenal - Possessions,5917.236055,5937.811116,Own third,Center,Middle third,Left flank,Medium,4 or less,,,3,28,18,4-4-2,42,56,"22. David Raya, 49. Lewis-Skelly",
+842,Arsenal - Goalkeeper distributions,5917.236055,5937.811116,Own third,Center,Middle third,Left flank,Medium,4 or less,,,3,28,18,4-4-2,42,56,"22. David Raya, 49. Lewis-Skelly",
+843,Ball in play,5952.792452,5971.109045,Middle third,Left flank,Final third,Right flank,Medium,4 or less,,,59,11,16,4-4-2,22,10,"41. Rice, 19. Trossard, 15. Kiwior, 5. Partey",
+844,Arsenal - Possessions,5952.792452,5971.109045,Middle third,Left flank,Final third,Right flank,Medium,4 or less,,,59,11,16,4-4-2,22,10,"41. Rice, 19. Trossard, 15. Kiwior, 5. Partey",
+845,Arsenal - Open play attacks,5952.792452,5971.109045,Middle third,Left flank,Final third,Right flank,Medium,4 or less,,,59,11,16,4-4-2,22,10,"41. Rice, 19. Trossard, 15. Kiwior, 5. Partey",
+846,Ball in play,5971.099045,5997.060376,Own third,Left flank,Middle third,Right flank,Long,10-14,,,22,10,25,5-4-1,46,4,"21. Taylor, 30. Ramsdale, 15. Wood, 4. Downes, 18. Mateus Fernandes, 16. Sugawara",
+847,Southampton - Possessions,5971.099045,5997.060376,Own third,Left flank,Middle third,Right flank,Long,10-14,,,22,10,25,5-4-1,46,4,"21. Taylor, 30. Ramsdale, 15. Wood, 4. Downes, 18. Mateus Fernandes, 16. Sugawara",
+848,Ball in play,6020.658079,6024.80852,Middle third,Right flank,Final third,Center,Short,4 or less,,,61,61,2,5-4-1,9,33,30. Ramsdale,
+849,Southampton - Possessions,6020.658079,6024.80852,Middle third,Right flank,Final third,Center,Short,4 or less,,,61,61,2,5-4-1,9,33,30. Ramsdale,
+850,Southampton - Set Pieces,6020.658079,6024.80852,Middle third,Right flank,Final third,Center,Short,4 or less,,,61,61,2,5-4-1,9,33,30. Ramsdale,
+851,Southampton - Free kicks,6020.658079,6024.80852,Middle third,Right flank,Final third,Center,Short,4 or less,,,61,61,2,5-4-1,9,33,30. Ramsdale,
+852,Southampton - Goalkeeper distributions,6020.658079,6024.80852,Middle third,Right flank,Final third,Center,Short,4 or less,,,61,61,2,5-4-1,9,33,30. Ramsdale,
+853,Periods,1,2,,,,,,,,,,,,,,,,
+854,Periods,2769,2770,,,,,,,,,,,,,,,,
